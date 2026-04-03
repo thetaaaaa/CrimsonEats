@@ -1,0 +1,44 @@
+name: Update Harvard Food Events
+
+on:
+  schedule:
+    # Run every day at 13:00 UTC (9:00 AM ET / 8:00 AM EDT)
+    - cron: '0 13 * * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write  # Needed to push food-events.html back to the repo
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml openpyxl
+
+      - name: Run scraper
+        run: |
+          python harvard_food_events.py
+
+      - name: Commit and push updated README.md
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to README.md — skipping commit."
+          else
+            git commit -m "chore: update food events [skip ci]"
+            git push
+          fi
