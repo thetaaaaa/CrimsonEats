@@ -89,6 +89,15 @@ HTML_CALENDARS = [
     # {"name": "Berkman Klein Center", "type": "tribe", "url": "https://cyber.harvard.edu/events", "detail": True},
 ]
 
+# 地点地址映射（用于Google Maps链接）
+LOCATION_MAP = {
+    "Harvard Law School": "Harvard Law School, Cambridge, MA",
+    "CGIS Knafel Building, Room K354": "1737 Cambridge Street, Cambridge, MA 02138",
+    "CGIS Knafel room K354": "1737 Cambridge Street, Cambridge, MA 02138",
+    "WCC B015, Wasserstein Hall, 1585 Massachusetts Ave.": "1585 Massachusetts Avenue, Cambridge, MA 02138",
+    "Lower Level Conference Center Rooms 4-5, Gutman Library, 6 Appian Way": "6 Appian Way, Cambridge, MA 02138",
+}
+
 
 # ══════════════════════════════════════════════════════
 # 通用工具
@@ -1055,7 +1064,14 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
                 title_cell = f"[{title}]({url})" if url else title
 
                 food     = md_esc(ev.get("food_note", ""))
-                location = md_esc(ev.get("location", ""))
+                location_raw = ev.get("location", "")
+                location = md_esc(location_raw)
+                
+                # 添加Google Maps链接
+                if location_raw and location_raw in LOCATION_MAP:
+                    maps_url = f"https://www.google.com/maps/search/{LOCATION_MAP[location_raw].replace(' ', '+')}"
+                    location = f"[{location}]({maps_url})"
+                
                 source   = md_esc(ev.get("calendar", ""))
 
                 lines.append(f"| {time_str} | {title_cell} | {food} | {location} | {source} |")
@@ -1072,7 +1088,14 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
                 title = md_esc(ev.get("title", ""))
                 title_cell = f"[{title}]({url})" if url else title
                 food     = md_esc(ev.get("food_note", ""))
-                location = md_esc(ev.get("location", ""))
+                location_raw = ev.get("location", "")
+                location = md_esc(location_raw)
+                
+                # 添加Google Maps链接
+                if location_raw and location_raw in LOCATION_MAP:
+                    maps_url = f"https://www.google.com/maps/search/{LOCATION_MAP[location_raw].replace(' ', '+')}"
+                    location = f"[{location}]({maps_url})"
+                
                 source   = md_esc(ev.get("calendar", ""))
                 lines.append(f"| {title_cell} | {food} | {location} | {source} |")
             lines.append("")
