@@ -6,16 +6,9 @@
 
 ### 📅 Subscribe to Calendar
 
-**Add events to your Outlook calendar automatically:**
-
-In Outlook: Right-click calendar list → "From Internet" / "Internet Calendar"
-
-Then paste this link:
 ```
 https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
-
-Click Subscribe and events will automatically update every 6 hours!
 
 ---
 
