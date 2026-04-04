@@ -70,23 +70,26 @@ FOOD_RE = re.compile(
 HTML_CALENDARS = [
     {
         "name":    "Harvard Law School",
+        "abbr":    "HLS",
         "type":    "hls",
         "url":     "https://hls.harvard.edu/calendar/",
     },
     {
         "name":    "Fairbank Center for Chinese Studies",
+        "abbr":    "Fairbank Center",
         "type":    "tribe",          # The Events Calendar (WordPress plugin)
         "url":     "https://fairbank.fas.harvard.edu/events/",
         "detail":  True,             # 需要进入详情页才能看到完整餐饮信息
     },
     {
         "name":    "IQSS",
+        "abbr":    "IQSS",
         "type":    "iqss",           # Drupal 自定义主题，分页 ?page=N
         "url":     "https://www.iq.harvard.edu/calendar",
         "base":    "https://www.iq.harvard.edu",
     },
     # ── 在此添加更多院系 ──
-    # {"name": "Berkman Klein Center", "type": "tribe", "url": "https://cyber.harvard.edu/events", "detail": True},
+    # {"name": "Berkman Klein Center", "abbr": "Berkman", "type": "tribe", "url": "https://cyber.harvard.edu/events", "detail": True},
 ]
 
 # 地点地址映射（用于Google Maps链接）
@@ -250,7 +253,7 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                     "location":       "Harvard Law School",
                     "food_note":      _food_snippet(full_text),
                     "event_url":      ev_url,
-                    "calendar":       cal["name"],
+                    "calendar":       cal.get("abbr", cal["name"]),
                 })
 
         # HLS 每请求覆盖约 7 天
@@ -382,7 +385,7 @@ def fetch_tribe(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
             "location":       location or cal["name"],
             "food_note":      food_note,
             "event_url":      ev_url,
-            "calendar":       cal["name"],
+            "calendar":       cal.get("abbr", cal["name"]),
         })
 
         time.sleep(SLEEP_BETWEEN)
@@ -501,7 +504,7 @@ def fetch_iqss(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                 "location":       location,
                 "food_note":      food_note,
                 "event_url":      ev_url,
-                "calendar":       cal["name"],
+                "calendar":       cal.get("abbr", cal["name"]),
             })
             time.sleep(SLEEP_BETWEEN)
 
@@ -1041,12 +1044,8 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
     )
     lines.append("")
     
-    # 地图和日历订阅链接
+    # 日历订阅链接
     lines.append("---")
-    lines.append("")
-    lines.append("### 🗺️ View on Map")
-    lines.append("")
-    lines.append("📍 [View all events on GitHub Map](events.geojson)")
     lines.append("")
     lines.append("### 📅 Subscribe to Calendar")
     lines.append("")
@@ -1132,7 +1131,8 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
     lines.append("")
     lines.append("**Sources monitored:**")
     for c in HTML_CALENDARS:
-        lines.append(f"- [{c['name']}]({c['url']})")
+        abbr_text = f" ({c.get('abbr', c['name'])})" if c.get('abbr') else ""
+        lines.append(f"- [{c['name']}{abbr_text}]({c['url']})")
     lines.append("")
     lines.append(
         "*This page is generated automatically by "
@@ -1190,10 +1190,6 @@ def main():
     # README（GitHub 仓库首页，固定文件名，每次覆盖）
     readme_path = os.path.join(script_dir, "README.md")
     write_readme(events, readme_path, now)
-    
-    # GeoJSON（GitHub 地图，固定文件名，每次覆盖）
-    geojson_path = os.path.join(script_dir, "events.geojson")
-    write_geojson(events, geojson_path)
 
     # 终端摘要
     if events:
