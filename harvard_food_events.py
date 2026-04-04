@@ -1032,9 +1032,10 @@ def write_geojson(events: list[dict], path: str) -> None:
         
         time_str = ""
         if s:
-            time_str = s.strftime("%-I:%M %p")
+            # Windows兼容性：手动处理时间格式
+            time_str = s.strftime("%I:%M %p").lstrip('0')
             if e:
-                time_str += f" – {e.strftime('%-I:%M %p')}"
+                time_str += f" – {e.strftime('%I:%M %p').lstrip('0')}"
         
         feature = {
             "type": "Feature",
@@ -1098,8 +1099,13 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
     lines = []
     lines.append("# 🎓 Free Food at Harvard — Next 7 Days")
     lines.append("")
+    
+    # 处理日期格式（Windows兼容性）
+    start_month_day = now.strftime('%B').strip() + f" {now.day}"
+    end_month_day = end_dt.strftime('%B').strip() + f" {end_dt.day}, {end_dt.year}"
+    
     lines.append(
-        f"> **{now.strftime('%B %-d')} – {end_dt.strftime('%B %-d, %Y')}** &nbsp;·&nbsp; "
+        f"> **{start_month_day} – {end_month_day}** &nbsp;·&nbsp; "
         f"Auto-updated daily via GitHub Actions &nbsp;·&nbsp; "
         f"Last updated: **{updated_et}**"
     )
@@ -1131,7 +1137,8 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
         for date_key in sorted(by_date.keys()):
             evs_on_day = by_date[date_key]
             dt_obj     = datetime.strptime(date_key, "%Y-%m-%d").replace(tzinfo=BOSTON_TZ)
-            date_label = dt_obj.strftime("%A, %B %-d")
+            # Windows兼容性：手动处理日期格式
+            date_label = dt_obj.strftime("%A, %B") + f" {dt_obj.day}"
 
             lines.append(f"## {date_label}")
             lines.append("")
@@ -1142,9 +1149,10 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
                 s = ev.get("start_datetime")
                 e = ev.get("end_datetime")
                 if s:
-                    time_str = s.strftime("%-I:%M %p")
+                    # Windows兼容性：手动处理时间格式
+                    time_str = s.strftime("%I:%M %p").lstrip('0')
                     if e:
-                        time_str += f" – {e.strftime('%-I:%M %p')}"
+                        time_str += f" – {e.strftime('%I:%M %p').lstrip('0')}"
                 else:
                     time_str = "—"
 

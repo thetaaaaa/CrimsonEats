@@ -1,6 +1,20 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 21:00 ET**
+> **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 21:21 ET**
+
+---
+
+### 🗺️ View on Map
+
+📍 [View all events on GitHub Map](events.geojson)
+
+### 📅 Subscribe to Calendar
+
+```
+https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
+```
+
+---
 
 ## Friday, April 3
 
@@ -37,14 +51,6 @@
 - [IQSS](https://www.iq.harvard.edu/calendar)
 
 *This page is generated automatically by [`harvard_food_events.py`](harvard_food_events.py). Run the script locally or let GitHub Actions update it daily.*
-
----
-
-### 📅 Subscribe to Calendar
-
-```
-https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
-```
 
 ---
 
