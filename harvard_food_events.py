@@ -82,7 +82,7 @@ HTML_CALENDARS = [
         "detail":  True,             # 需要进入详情页才能看到完整餐饮信息
     },
     {
-        "name":    "IQSS",
+        "name":    "Institute for Quantitative Social Science",
         "abbr":    "IQSS",
         "type":    "iqss",           # Drupal 自定义主题，分页 ?page=N
         "url":     "https://www.iq.harvard.edu/calendar",

@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 22:02 ET**
+> **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 22:11 ET**
 
 ---
 
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 **Sources monitored:**
 - [Harvard Law School (HLS)](https://hls.harvard.edu/calendar/)
 - [Fairbank Center for Chinese Studies (Fairbank Center)](https://fairbank.fas.harvard.edu/events/)
-- [IQSS (IQSS)](https://www.iq.harvard.edu/calendar)
+- [Institute for Quantitative Social Science (IQSS)](https://www.iq.harvard.edu/calendar)
 
 *This page is generated automatically by [`harvard_food_events.py`](harvard_food_events.py). Run the script locally or let GitHub Actions update it daily.*
 
