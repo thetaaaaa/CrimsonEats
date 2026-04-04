@@ -30,15 +30,19 @@ jobs:
         run: |
           python harvard_food_events.py
 
-      - name: Commit and push updated README.md
+      - name: Generate calendar (ICS file)
+        run: |
+          python generate_calendar.py
+
+      - name: Commit and push updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add README.md events.ics
           # Only commit if there are actual changes
           if git diff --cached --quiet; then
-            echo "No changes to README.md — skipping commit."
+            echo "No changes to files — skipping commit."
           else
-            git commit -m $'chore: update food events [skip ci]\n\nCo-Authored-By: Claude <noreply@anthropic.com>'
+            git commit -m $'chore: update food events and calendar [skip ci]\n\nCo-Authored-By: Copilot <223556219+Copilot@users.noreply.github.com>'
             git push
           fi
