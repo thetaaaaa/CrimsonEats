@@ -2,6 +2,21 @@
 
 > **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 20:12 ET**
 
+---
+
+### 📅 Subscribe to Calendar
+
+**Add events to your Outlook calendar automatically:**
+
+[![Subscribe to Outlook Calendar](https://img.shields.io/badge/Subscribe_to_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook)](webcal://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics)
+
+Or copy this link to manually add in Outlook:
+```
+https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
+```
+
+---
+
 ## Friday, April 3
 
 | Time | Event | Food | Location | Source |
