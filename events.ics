@@ -20,30 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260403-160000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
-DTSTART;TZID=America/New_York:20260403T160000
-DTEND;TZID=America/New_York:20260403T180000
-SUMMARY:In Vino Veritas Pub Event
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: In Vino Veritas Pub Event Wine and sancks at the Pub\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260403-180000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
-DTSTART;TZID=America/New_York:20260403T180000
-DTEND;TZID=America/New_York:20260403T190000
-SUMMARY:HLS Christian Fellowship Friday Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20260408-120000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
+DTSTAMP:2026-04-04T09:43:59Z
 DTSTART;TZID=America/New_York:20260408T120000
 DTEND;TZID=America/New_York:20260408T133000
 SUMMARY:Pedro Sant'anna (Applied Stats Workshop)
@@ -54,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-120000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
+DTSTAMP:2026-04-04T09:43:59Z
 DTSTART;TZID=America/New_York:20260409T120000
 DTEND;TZID=America/New_York:20260409T140000
 SUMMARY:Matt Dardet (APRW)
@@ -65,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-122000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
+DTSTAMP:2026-04-04T09:43:59Z
 DTSTART;TZID=America/New_York:20260409T122000
 DTEND;TZID=America/New_York:20260409T132000
 SUMMARY:What Would a Rational and Effective U.S.-China Trade Policy Look Like? Is One Still Possible?
@@ -76,24 +54,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-150000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
+DTSTAMP:2026-04-04T09:43:59Z
 DTSTART;TZID=America/New_York:20260409T150000
 DTEND;TZID=America/New_York:20260409T173000
 SUMMARY:Discovering History in China: Remembering Paul Cohen
 LOCATION:[Lower Level Conference Center Rooms 4-5, Gutman Library, 6 Appian Way](https://www.google.com/maps/search/6+Appian+Way,+Cambridge,+MA+02138)
 DESCRIPTION:Food: Patterson Giersch, Edith Stix Wasserman Professor in Asian Studies and Professor of History, Wellesley College Joanna Handlin Smith, Editor\n\nSource: Fairbank Center
 CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260410-122000@harvard-food-events
-DTSTAMP:2026-04-03T22:02:35Z
-DTSTART;TZID=America/New_York:20260410T122000
-DTEND;TZID=America/New_York:20260410T133000
-SUMMARY:Created Equal: A Christian Understanding of Human Worth
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
