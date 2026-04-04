@@ -98,6 +98,14 @@ LOCATION_MAP = {
     "Lower Level Conference Center Rooms 4-5, Gutman Library, 6 Appian Way": "6 Appian Way, Cambridge, MA 02138",
 }
 
+# 地点GPS坐标映射（用于GeoJSON）[经度, 纬度]
+LOCATION_COORDS = {
+    "Harvard Law School": [-71.1069, 42.3643],
+    "1737 Cambridge Street, Cambridge, MA 02138": [-71.1207, 42.3735],  # CGIS Knafel
+    "1585 Massachusetts Avenue, Cambridge, MA 02138": [-71.1208, 42.3737],  # Wasserstein Hall
+    "6 Appian Way, Cambridge, MA 02138": [-71.1227, 42.3749],  # Gutman Library
+}
+
 
 # ══════════════════════════════════════════════════════
 # 通用工具
@@ -993,6 +1001,71 @@ def write_html(events: list[dict], path: str, now: datetime) -> None:
 
 
 # ══════════════════════════════════════════════════════
+# GeoJSON 输出（GitHub 地图展示）
+# ══════════════════════════════════════════════════════
+
+def write_geojson(events: list[dict], path: str) -> None:
+    """
+    生成 GeoJSON 文件供 GitHub 渲染为交互式地图。
+    GitHub 会自动识别 .geojson 文件并在仓库页面显示地图。
+    """
+    import json
+    
+    features = []
+    
+    for ev in events:
+        location_raw = ev.get("location", "")
+        if not location_raw:
+            continue
+        
+        # 查找坐标
+        coords = None
+        if location_raw in LOCATION_MAP:
+            address = LOCATION_MAP[location_raw]
+            coords = LOCATION_COORDS.get(address)
+        
+        if not coords:
+            continue
+        
+        s = ev.get("start_datetime")
+        e = ev.get("end_datetime")
+        
+        time_str = ""
+        if s:
+            time_str = s.strftime("%-I:%M %p")
+            if e:
+                time_str += f" – {e.strftime('%-I:%M %p')}"
+        
+        feature = {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": coords
+            },
+            "properties": {
+                "title": ev.get("title", ""),
+                "time": time_str,
+                "date": s.strftime("%Y-%m-%d") if s else "",
+                "location": location_raw,
+                "food": ev.get("food_note", ""),
+                "source": ev.get("calendar", ""),
+                "url": ev.get("event_url", "")
+            }
+        }
+        features.append(feature)
+    
+    geojson = {
+        "type": "FeatureCollection",
+        "features": features
+    }
+    
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(geojson, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅  GeoJSON 已保存：{path}")
+
+
+# ══════════════════════════════════════════════════════
 # README 输出（供 GitHub 仓库首页展示）
 # ══════════════════════════════════════════════════════
 
@@ -1030,6 +1103,22 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
         f"Auto-updated daily via GitHub Actions &nbsp;·&nbsp; "
         f"Last updated: **{updated_et}**"
     )
+    lines.append("")
+    
+    # 地图和日历订阅链接
+    lines.append("---")
+    lines.append("")
+    lines.append("### 🗺️ View on Map")
+    lines.append("")
+    lines.append("📍 [View all events on GitHub Map](events.geojson)")
+    lines.append("")
+    lines.append("### 📅 Subscribe to Calendar")
+    lines.append("")
+    lines.append("```")
+    lines.append("https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics")
+    lines.append("```")
+    lines.append("")
+    lines.append("---")
     lines.append("")
 
     if not events:
@@ -1113,17 +1202,7 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
         "Run the script locally or let GitHub Actions update it daily.*"
     )
     
-    # 日历订阅部分（保留）
-    lines.append("")
-    lines.append("---")
-    lines.append("")
-    lines.append("### 📅 Subscribe to Calendar")
-    lines.append("")
-    lines.append("```")
-    lines.append("https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics")
-    lines.append("```")
-    
-    # 免责声明部分（保留）
+    # 免责声明部分
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -1173,6 +1252,10 @@ def main():
     # README（GitHub 仓库首页，固定文件名，每次覆盖）
     readme_path = os.path.join(script_dir, "README.md")
     write_readme(events, readme_path, now)
+    
+    # GeoJSON（GitHub 地图，固定文件名，每次覆盖）
+    geojson_path = os.path.join(script_dir, "events.geojson")
+    write_geojson(events, geojson_path)
 
     # 终端摘要
     if events:
