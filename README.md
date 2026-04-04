@@ -8,9 +8,15 @@
 
 **Add events to your Outlook calendar automatically:**
 
-[![Subscribe to Outlook Calendar](https://img.shields.io/badge/Subscribe_to_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook)](webcal://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics)
+1. **Method 1 - Direct Link (Easiest):**
+   - In Outlook: Right-click calendar list → "From Internet" / "Internet Calendar"
+   - Paste: `https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics`
+   - Click Subscribe
 
-Or copy this link to manually add in Outlook:
+2. **Method 2 - Click Button:**
+   [![Subscribe with Outlook](https://img.shields.io/badge/Add_to_Outlook-0078D4?style=flat-square&logo=microsoft-outlook)](https://outlook.live.com/owa/?path=/calendar/action/compose&rru=addsubscription%3f%3f&fSubscription=https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics)
+
+**Copy this link for manual setup:**
 ```
 https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
