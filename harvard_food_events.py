@@ -99,12 +99,7 @@ LOCATION_MAP = {
 }
 
 # 地点GPS坐标映射（用于GeoJSON）[经度, 纬度]
-LOCATION_COORDS = {
-    "Harvard Law School": [-71.1196785, 42.3791064],  # 来自 Nominatim API
-    "1737 Cambridge Street, Cambridge, MA 02138": [-71.1132366, 42.3756411],  # 来自 Nominatim API
-    "1585 Massachusetts Avenue, Cambridge, MA 02138": [-71.1203197, 42.3793765],  # 来自 Nominatim API
-    "6 Appian Way, Cambridge, MA 02138": [-71.1217597, 42.3748926],  # 来自 Nominatim API
-}
+
 
 
 # ══════════════════════════════════════════════════════
@@ -999,71 +994,6 @@ def write_html(events: list[dict], path: str, now: datetime) -> None:
         f.write(html)
     print(f"✅  HTML 已保存：{path}")
 
-
-# ══════════════════════════════════════════════════════
-# GeoJSON 输出（GitHub 地图展示）
-# ══════════════════════════════════════════════════════
-
-def write_geojson(events: list[dict], path: str) -> None:
-    """
-    生成 GeoJSON 文件供 GitHub 渲染为交互式地图。
-    GitHub 会自动识别 .geojson 文件并在仓库页面显示地图。
-    """
-    import json
-    
-    features = []
-    
-    for ev in events:
-        location_raw = ev.get("location", "")
-        if not location_raw:
-            continue
-        
-        # 查找坐标
-        coords = None
-        if location_raw in LOCATION_MAP:
-            address = LOCATION_MAP[location_raw]
-            coords = LOCATION_COORDS.get(address)
-        
-        if not coords:
-            continue
-        
-        s = ev.get("start_datetime")
-        e = ev.get("end_datetime")
-        
-        time_str = ""
-        if s:
-            # Windows兼容性：手动处理时间格式
-            time_str = s.strftime("%I:%M %p").lstrip('0')
-            if e:
-                time_str += f" – {e.strftime('%I:%M %p').lstrip('0')}"
-        
-        feature = {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": coords
-            },
-            "properties": {
-                "title": ev.get("title", ""),
-                "time": time_str,
-                "date": s.strftime("%Y-%m-%d") if s else "",
-                "location": location_raw,
-                "food": ev.get("food_note", ""),
-                "source": ev.get("calendar", ""),
-                "url": ev.get("event_url", "")
-            }
-        }
-        features.append(feature)
-    
-    geojson = {
-        "type": "FeatureCollection",
-        "features": features
-    }
-    
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(geojson, f, ensure_ascii=False, indent=2)
-    
-    print(f"✅  GeoJSON 已保存：{path}")
 
 
 # ══════════════════════════════════════════════════════

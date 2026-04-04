@@ -1,12 +1,8 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 21:21 ET**
+> **April 3 – April 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-03 21:32 ET**
 
 ---
-
-### 🗺️ View on Map
-
-📍 [View all events on GitHub Map](events.geojson)
 
 ### 📅 Subscribe to Calendar
 
