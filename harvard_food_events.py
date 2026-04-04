@@ -100,10 +100,10 @@ LOCATION_MAP = {
 
 # 地点GPS坐标映射（用于GeoJSON）[经度, 纬度]
 LOCATION_COORDS = {
-    "Harvard Law School": [-71.1157, 42.3659],  # 1583 Massachusetts Ave
-    "1737 Cambridge Street, Cambridge, MA 02138": [-71.1219, 42.3754],  # CGIS Knafel
-    "1585 Massachusetts Avenue, Cambridge, MA 02138": [-71.1210, 42.3747],  # Wasserstein Hall
-    "6 Appian Way, Cambridge, MA 02138": [-71.1226, 42.3755],  # Gutman Library
+    "Harvard Law School": [-71.1196785, 42.3791064],  # 来自 Nominatim API
+    "1737 Cambridge Street, Cambridge, MA 02138": [-71.1132366, 42.3756411],  # 来自 Nominatim API
+    "1585 Massachusetts Avenue, Cambridge, MA 02138": [-71.1203197, 42.3793765],  # 来自 Nominatim API
+    "6 Appian Way, Cambridge, MA 02138": [-71.1217597, 42.3748926],  # 来自 Nominatim API
 }
 
 
