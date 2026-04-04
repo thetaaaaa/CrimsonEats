@@ -1089,6 +1089,30 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
         "[`harvard_food_events.py`](harvard_food_events.py). "
         "Run the script locally or let GitHub Actions update it daily.*"
     )
+    
+    # 日历订阅部分（保留）
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("### 📅 Subscribe to Calendar")
+    lines.append("")
+    lines.append("```")
+    lines.append("https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics")
+    lines.append("```")
+    
+    # 免责声明部分（保留）
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## ⚖️ Disclaimer")
+    lines.append("")
+    lines.append("This project aggregates publicly available event information from official Harvard University calendars for student convenience. All content is sourced from and remains the intellectual property of Harvard University and its respective schools/centers.")
+    lines.append("")
+    lines.append("**Non-commercial use only.** This is an independent student project, not officially affiliated with Harvard University. Always verify event details on official Harvard websites before attending.")
+    lines.append("")
+    lines.append("**Liability:** Information is provided \"as-is\" without warranties. Events may change, be cancelled, or have restricted attendance. Project maintainers are not responsible for outdated information or event-related issues.")
+    lines.append("")
+    lines.append("If Harvard University requests changes to this project, such requests will be honored promptly.")
 
     with open(path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
