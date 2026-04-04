@@ -57,32 +57,12 @@ Click Subscribe and events will automatically update every 6 hours!
 
 ---
 
-## ⚖️ Disclaimer & Legal Notice
+## ⚖️ Disclaimer
 
-**Data Source & Usage:**
-This project aggregates publicly available event information from official Harvard University event calendars. All event data, including titles, times, locations, and descriptions, are sourced directly from the public websites listed above and remain the intellectual property of Harvard University and its respective schools/centers.
+This project aggregates publicly available event information from official Harvard University calendars for student convenience. All content is sourced from and remains the intellectual property of Harvard University and its respective schools/centers.
 
-**Permitted Use:**
-- ✅ Personal, non-commercial use for Harvard students and staff
-- ✅ Sharing event information to increase community participation
-- ✅ Automated aggregation for convenience purposes
+**Non-commercial use only.** This is an independent student project, not officially affiliated with Harvard University. Always verify event details on official Harvard websites before attending.
 
-**Restrictions:**
-- ❌ No commercial use or redistribution for profit
-- ❌ Do not modify event information without explicit permission
-- ❌ Do not remove attribution to Harvard University
+**Liability:** Information is provided "as-is" without warranties. Events may change, be cancelled, or have restricted attendance. Project maintainers are not responsible for outdated information or event-related issues.
 
-**Liability:**
-This project is provided "as-is" without warranties. While we make efforts to keep information accurate and up-to-date, events may change, be cancelled, or have restricted attendance. Always verify details on the official Harvard websites before attending. The project maintainers are not responsible for:
-- Outdated or incorrect event information
-- Event cancellations or changes
-- Access restrictions or entry requirements
-- Any issues arising from event participation
-
-**Harvard University Affiliation:**
-This is an independent student project and is not officially affiliated with, endorsed by, or approved by Harvard University. Harvard is a registered trademark of the President and Fellows of Harvard College.
-
-**Compliance:**
-This project respects the `robots.txt` policies of all monitored websites and adheres to the `robots.txt` guidelines. If Harvard University requests removal of this project or changes in operation, such requests will be honored promptly.
-
-For questions or concerns, please open an issue on this repository.
+If Harvard University requests changes to this project, such requests will be honored promptly.
