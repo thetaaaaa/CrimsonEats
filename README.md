@@ -8,18 +8,14 @@
 
 **Add events to your Outlook calendar automatically:**
 
-1. **Method 1 - Direct Link (Easiest):**
-   - In Outlook: Right-click calendar list → "From Internet" / "Internet Calendar"
-   - Paste: `https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics`
-   - Click Subscribe
+In Outlook: Right-click calendar list → "From Internet" / "Internet Calendar"
 
-2. **Method 2 - Click Button:**
-   [![Subscribe with Outlook](https://img.shields.io/badge/Add_to_Outlook-0078D4?style=flat-square&logo=microsoft-outlook)](https://outlook.live.com/owa/?path=/calendar/action/compose&rru=addsubscription%3f%3f&fSubscription=https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics)
-
-**Copy this link for manual setup:**
+Then paste this link:
 ```
 https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
+
+Click Subscribe and events will automatically update every 6 hours!
 
 ---
 
