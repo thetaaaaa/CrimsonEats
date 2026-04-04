@@ -39,8 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to README.md — skipping commit."
           else
-            git commit -m "chore: update food events [skip ci]
-
-Co-Authored-By: Claude <noreply@anthropic.com>"
+            git commit -m $'chore: update food events [skip ci]\n\nCo-Authored-By: Claude <noreply@anthropic.com>'
             git push
           fi
