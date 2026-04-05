@@ -973,6 +973,9 @@ def write_html(events: list[dict], path: str, now: datetime) -> None:
 </head>
 <body>
   <header>
+    <div style="text-align: center; margin-bottom: 1rem;">
+      <img src="assets/logo.svg" alt="CrimsonEats Logo" width="300" />
+    </div>
     <h1>🎓 Free Food at Harvard — <span>Next 7 Days</span></h1>
     <p class="meta">
       {now.strftime("%B %-d")} – {end_dt.strftime("%B %-d, %Y")} &nbsp;·&nbsp;
@@ -1030,6 +1033,10 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
             no_date.append(ev)
 
     lines = []
+    lines.append('<p align="center">')
+    lines.append('  <img src="assets/logo.svg" alt="CrimsonEats Logo" width="400" />')
+    lines.append('</p>')
+    lines.append("")
     lines.append("# 🎓 Free Food at Harvard — Next 7 Days")
     lines.append("")
     
