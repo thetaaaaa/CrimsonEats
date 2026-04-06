@@ -20,8 +20,52 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:20260406-121500@harvard-food-events
+DTSTAMP:2026-04-06T10:03:43Z
+DTSTART;TZID=America/New_York:20260406T121500
+DTEND;TZID=America/New_York:20260406T131500
+SUMMARY:Repro Week Day 1: “Killers of Roe” Book Talk
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260406-123000@harvard-food-events
+DTSTAMP:2026-04-06T10:03:43Z
+DTSTART;TZID=America/New_York:20260406T123000
+DTEND;TZID=America/New_York:20260406T131500
+SUMMARY:AGO 101: Preparing for Summer Internships at State Attorney General’s Offices
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring your own lunch\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260406-123000@harvard-food-events
+DTSTAMP:2026-04-06T10:03:43Z
+DTSTART;TZID=America/New_York:20260406T123000
+DTEND;TZID=America/New_York:20260406T131500
+SUMMARY:Lunch Talk with Secretary of Education Miguel Cardona
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch Talk with Secretary of Education Miguel Cardona Please join La Alianza for a small group lunch with former Secretary of Education Migu\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260406-171500@harvard-food-events
+DTSTAMP:2026-04-06T10:03:43Z
+DTSTART;TZID=America/New_York:20260406T171500
+DTEND;TZID=America/New_York:20260406T181500
+SUMMARY:Another Damn Learning Opportunity
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Beal Professor of Practice The Wasserstein Caspersen Clinical Building Milstein West, Harvard Law School 5:15pm April 6, 2026 There will be\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260408-120000@harvard-food-events
-DTSTAMP:2026-04-05T09:44:53Z
+DTSTAMP:2026-04-06T10:03:43Z
 DTSTART;TZID=America/New_York:20260408T120000
 DTEND;TZID=America/New_York:20260408T133000
 SUMMARY:Pedro Sant'anna (Applied Stats Workshop)
@@ -32,7 +76,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-120000@harvard-food-events
-DTSTAMP:2026-04-05T09:44:53Z
+DTSTAMP:2026-04-06T10:03:43Z
 DTSTART;TZID=America/New_York:20260409T120000
 DTEND;TZID=America/New_York:20260409T140000
 SUMMARY:Matt Dardet (APRW)
@@ -43,7 +87,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-122000@harvard-food-events
-DTSTAMP:2026-04-05T09:44:53Z
+DTSTAMP:2026-04-06T10:03:43Z
 DTSTART;TZID=America/New_York:20260409T122000
 DTEND;TZID=America/New_York:20260409T132000
 SUMMARY:What Would a Rational and Effective U.S.-China Trade Policy Look Like? Is One Still Possible?
@@ -54,13 +98,24 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-150000@harvard-food-events
-DTSTAMP:2026-04-05T09:44:53Z
+DTSTAMP:2026-04-06T10:03:43Z
 DTSTART;TZID=America/New_York:20260409T150000
 DTEND;TZID=America/New_York:20260409T173000
 SUMMARY:Discovering History in China: Remembering Paul Cohen
 LOCATION:[Lower Level Conference Center Rooms 4-5, Gutman Library, 6 Appian Way](https://www.google.com/maps/search/6+Appian+Way,+Cambridge,+MA+02138)
 DESCRIPTION:Food: Patterson Giersch, Edith Stix Wasserman Professor in Asian Studies and Professor of History, Wellesley College Joanna Handlin Smith, Editor\n\nSource: Fairbank Center
 CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260413-120000@harvard-food-events
+DTSTAMP:2026-04-06T10:03:43Z
+DTSTART;TZID=America/New_York:20260413T120000
+DTEND;TZID=America/New_York:20260413T131500
+SUMMARY:HIALSA – Lunch Talk with Bench Walk Advisors
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: HIALSA – Lunch Talk with Bench Walk Advisors HIALSA – Lunch Talk with Bench Walk Advisors…\n\nSource: HLS
+CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
