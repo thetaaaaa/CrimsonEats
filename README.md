@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 7 – April 14, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-07 10:24 ET**
+> **April 8 – April 15, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-08 10:25 ET**
 
 ---
 
@@ -16,21 +16,21 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Tuesday, April 7
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:15 PM – 1:15 PM | [Working Across Practice Groups in Big Law](https://hls.harvard.edu/events/working-across-practice-groups-in-big-law/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:20 PM | [The American Experiment at 250: Democracy and Disagreement](https://hls.harvard.edu/events/the-american-experiment-at-250-democracy-and-disagreement/) | Beal Professor of Practice Ron Sullivan , Jesse Climenko Clinical Professor of Law Moderator: Nick Stephanopolous, Kirkland & Ellis Professo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11052) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Prepare to Practice – Lunch and Learn with Westlaw and Lexis](https://hls.harvard.edu/events/prepare-to-practice-lunch-and-learn-with-westlaw-and-lexis/) | Prepare to Practice – Lunch and Learn with Westlaw and Lexis Join Lexis and Westlaw for this lunchtime workshop where we will walk you thoug | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Sports Law Symposium: Soccer Panel](https://hls.harvard.edu/events/sports-law-symposium-soccer-panel/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
 ## Wednesday, April 8
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Pedro Sant'anna (Applied Stats Workshop)](https://www.iq.harvard.edu/event/pedro-santanna-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:20 PM – 1:15 PM | [HBLSA X ACS: Lunch Talk with Judge Lohier](https://hls.harvard.edu/events/hblsa-x-acs-lunch-talk-with-judge-lohier/) | HBLSA X ACS: Lunch Talk with Judge Lohier Please join HBLSA and ACS for a conversation with Judge Raymond Lohier | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:30 PM | [Religious Freedom Clinic Open House](https://hls.harvard.edu/events/religious-freedom-clinic-open-house/) | Food will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Corporate Power and the Politics of Change: Corporate Governing, ESG, and the EU–U.S. Divide](https://hls.harvard.edu/events/corporate-power-and-the-politics-of-change-corporate-governing-esg-and-the-eu-u-s-divide/) | Divide The Harvard European Law Association is pleased to host a lunch talk on Wednesday, April 8, from 12:30 to 1:15 p | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [Femicide: The Rule of Law & The Role of Law Lunch Panel](https://hls.harvard.edu/events/femicide-the-rule-of-law-the-role-of-law-lunch-panel/) | Femicide: The Rule of Law & The Role of Law Lunch Panel Femicide – the gender-based murder of women and girls – takes thousands of lives eve | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Sports Law Symposium: Private Capital Funds Panel](https://hls.harvard.edu/events/sports-law-symposium-private-capital-funds-panel/) | Lunch will… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [ACLU Immigrants’ Rights Project](https://hls.harvard.edu/events/aclu-immigrants-rights-project/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [Launching Your Legal Career](https://hls.harvard.edu/events/managing-the-first-3-years-of-your-career-2/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [Youth Advocacy Writing Group Working Paper Lunch Talk with Chris Egi, Kaveri Sengupta, and Omar Tariq](https://hls.harvard.edu/events/youth-advocacy-writing-group-working-paper-lunch-talk-with-chris-egi-kaveri-sengupta-and-omar-tariq/) | Youth Advocacy Writing Group Working Paper Lunch Talk with Chris Egi, Kaveri Sengupta, and Omar Tariq Join Y-Lab for the third event in our  | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 5:30 PM – 6:30 PM | [Sports Law Symposium: Sports Gambling Panel](https://hls.harvard.edu/events/sports-law-symposium-sports-gambling-panel/) | Hors D’oeuvres, Wine, and… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 8:00 PM | [Is the Roberts Court Legitimate?](https://hls.harvard.edu/events/is-the-roberts-court-legitimate/) | Reception to follow | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Thursday, April 9
 
@@ -45,9 +45,16 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 2:00 PM | [Hayley Manges (APRW)](https://www.iq.harvard.edu/event/hayley-manges-aprw-0) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11053) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [AFI & JLSA Community Lunches](https://hls.harvard.edu/events/afi-jlsa-community-lunches-15/) | AFI & JLSA Community Lunches Join Alliance for Israel and the Jewish Law Students Association for a community lunch with students and profes | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 8:00 PM | [HLS Interfaith Dinner](https://hls.harvard.edu/events/hls-interfaith-dinner/) | HLS Interfaith Dinner The student-led HLS Interfaith Dinner is back | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
+## Wednesday, April 15
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 12:00 PM – 1:30 PM | [Xiang Meng (Applied Stats Workshop)](https://www.iq.harvard.edu/event/xiang-meng-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:15 PM – 1:30 PM | [Rising 3L Internship and Fall Public Interest Job Search Preparation Drop In!](https://hls.harvard.edu/events/rising-3l-internship-and-fall-public-interest-job-search-preparation-drop-in/) | Come hang out, eat lunch, and get advice about what you… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:30 PM | [Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance](https://hls.harvard.edu/events/georgias-democratic-promise-and-crisis-institutions-law-and-civic-resistance/) | Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance The Harvard European Law Association is pleased to host a l | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [CSEL Lunch Talk with Rakesh Kilaru](https://hls.harvard.edu/events/csel-lunch-talk-with-rakesh-kilaru/) | CSEL Lunch Talk with Rakesh Kilaru Join the Committee on Sports and Entertainment Law and the Journal of Sports and Entertainment Law on Mon | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Lunch talk with Gibson Dunn](https://hls.harvard.edu/events/lunch-talk-with-gibson-dunn/) | Lunch talk with Gibson Dunn | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 

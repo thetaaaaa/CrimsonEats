@@ -20,63 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260407-121500@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260407T121500
-DTEND;TZID=America/New_York:20260407T131500
-SUMMARY:Working Across Practice Groups in Big Law
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260407-122000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260407T122000
-DTEND;TZID=America/New_York:20260407T132000
-SUMMARY:The American Experiment at 250: Democracy and Disagreement
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Beal Professor of Practice Ron Sullivan , Jesse Climenko Clinical Professor of Law Moderator: Nick Stephanopolous, Kirkland & Ellis Professo\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260407-122000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260407T122000
-DTEND;TZID=America/New_York:20260407T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260407-123000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260407T123000
-DTEND;TZID=America/New_York:20260407T131500
-SUMMARY:Prepare to Practice – Lunch and Learn with Westlaw and Lexis
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Prepare to Practice – Lunch and Learn with Westlaw and Lexis Join Lexis and Westlaw for this lunchtime workshop where we will walk you thoug\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260407-123000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260407T123000
-DTEND;TZID=America/New_York:20260407T131500
-SUMMARY:Sports Law Symposium: Soccer Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20260408-120000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
+DTSTAMP:2026-04-08T10:26:35Z
 DTSTART;TZID=America/New_York:20260408T120000
 DTEND;TZID=America/New_York:20260408T133000
 SUMMARY:Pedro Sant'anna (Applied Stats Workshop)
@@ -86,8 +31,118 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260408-122000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T122000
+DTEND;TZID=America/New_York:20260408T131500
+SUMMARY:HBLSA X ACS: Lunch Talk with Judge Lohier
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: HBLSA X ACS: Lunch Talk with Judge Lohier Please join HBLSA and ACS for a conversation with Judge Raymond Lohier\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-122000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T122000
+DTEND;TZID=America/New_York:20260408T133000
+SUMMARY:Religious Freedom Clinic Open House
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T123000
+DTEND;TZID=America/New_York:20260408T131500
+SUMMARY:Corporate Power and the Politics of Change: Corporate Governing, ESG, and the EU–U.S. Divide
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Divide The Harvard European Law Association is pleased to host a lunch talk on Wednesday, April 8, from 12:30 to 1:15 p\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T123000
+DTEND;TZID=America/New_York:20260408T133000
+SUMMARY:Femicide: The Rule of Law & The Role of Law Lunch Panel
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Femicide: The Rule of Law & The Role of Law Lunch Panel Femicide – the gender-based murder of women and girls – takes thousands of lives eve\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T123000
+DTEND;TZID=America/New_York:20260408T131500
+SUMMARY:Sports Law Symposium: Private Capital Funds Panel
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T123000
+DTEND;TZID=America/New_York:20260408T131500
+SUMMARY:ACLU Immigrants’ Rights Project
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T123000
+DTEND;TZID=America/New_York:20260408T133000
+SUMMARY:Launching Your Legal Career
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T123000
+DTEND;TZID=America/New_York:20260408T133000
+SUMMARY:Youth Advocacy Writing Group Working Paper Lunch Talk with Chris Egi, Kaveri Sengupta, and Omar Tariq
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Youth Advocacy Writing Group Working Paper Lunch Talk with Chris Egi, Kaveri Sengupta, and Omar Tariq Join Y-Lab for the third event in our\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-173000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T173000
+DTEND;TZID=America/New_York:20260408T183000
+SUMMARY:Sports Law Symposium: Sports Gambling Panel
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Hors D’oeuvres, Wine, and…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260408-180000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260408T180000
+DTEND;TZID=America/New_York:20260408T200000
+SUMMARY:Is the Roberts Court Legitimate?
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Reception to follow\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260409-120000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
+DTSTAMP:2026-04-08T10:26:35Z
 DTSTART;TZID=America/New_York:20260409T120000
 DTEND;TZID=America/New_York:20260409T140000
 SUMMARY:Matt Dardet (APRW)
@@ -98,7 +153,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-122000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
+DTSTAMP:2026-04-08T10:26:35Z
 DTSTART;TZID=America/New_York:20260409T122000
 DTEND;TZID=America/New_York:20260409T132000
 SUMMARY:What Would a Rational and Effective U.S.-China Trade Policy Look Like? Is One Still Possible?
@@ -109,7 +164,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260409-150000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
+DTSTAMP:2026-04-08T10:26:35Z
 DTSTART;TZID=America/New_York:20260409T150000
 DTEND;TZID=America/New_York:20260409T173000
 SUMMARY:Discovering History in China: Remembering Paul Cohen
@@ -120,7 +175,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260414-120000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
+DTSTAMP:2026-04-08T10:26:35Z
 DTSTART;TZID=America/New_York:20260414T120000
 DTEND;TZID=America/New_York:20260414T140000
 SUMMARY:Hayley Manges (APRW)
@@ -130,35 +185,57 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260414-122000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260414T122000
-DTEND;TZID=America/New_York:20260414T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20260415-120000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260415T120000
+DTEND;TZID=America/New_York:20260415T133000
+SUMMARY:Xiang Meng (Applied Stats Workshop)
+LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
+CATEGORIES:IQSS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260415-121500@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260415T121500
+DTEND;TZID=America/New_York:20260415T133000
+SUMMARY:Rising 3L Internship and Fall Public Interest Job Search Preparation Drop In!
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: Come hang out, eat lunch, and get advice about what you…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260414-123000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260414T123000
-DTEND;TZID=America/New_York:20260414T131500
-SUMMARY:AFI & JLSA Community Lunches
+UID:20260415-121500@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260415T121500
+DTEND;TZID=America/New_York:20260415T133000
+SUMMARY:Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: AFI & JLSA Community Lunches Join Alliance for Israel and the Jewish Law Students Association for a community lunch with students and profes\n\nSource: HLS
+DESCRIPTION:Food: Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance The Harvard European Law Association is pleased to host a l\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260414-180000@harvard-food-events
-DTSTAMP:2026-04-07T10:24:44Z
-DTSTART;TZID=America/New_York:20260414T180000
-DTEND;TZID=America/New_York:20260414T200000
-SUMMARY:HLS Interfaith Dinner
+UID:20260415-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260415T123000
+DTEND;TZID=America/New_York:20260415T131500
+SUMMARY:CSEL Lunch Talk with Rakesh Kilaru
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HLS Interfaith Dinner The student-led HLS Interfaith Dinner is back\n\nSource: HLS
+DESCRIPTION:Food: CSEL Lunch Talk with Rakesh Kilaru Join the Committee on Sports and Entertainment Law and the Journal of Sports and Entertainment Law on Mon\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260415-123000@harvard-food-events
+DTSTAMP:2026-04-08T10:26:35Z
+DTSTART;TZID=America/New_York:20260415T123000
+DTEND;TZID=America/New_York:20260415T131500
+SUMMARY:Lunch talk with Gibson Dunn
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch talk with Gibson Dunn\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
