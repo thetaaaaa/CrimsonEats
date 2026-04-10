@@ -20,140 +20,19 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260409-090000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T090000
-DTEND;TZID=America/New_York:20260409T100000
-SUMMARY:Health Law Society Spring General Body Meeting
+UID:20260410-122000@harvard-food-events
+DTSTAMP:2026-04-10T10:09:01Z
+DTSTART;TZID=America/New_York:20260410T122000
+DTEND;TZID=America/New_York:20260410T133000
+SUMMARY:Created Equal: A Christian Understanding of Human Worth
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Breakfast will be served\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-120000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T120000
-DTEND;TZID=America/New_York:20260409T140000
-SUMMARY:Matt Dardet (APRW)
-LOCATION:[CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
-CATEGORIES:IQSS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-121500@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T121500
-DTEND;TZID=America/New_York:20260409T131500
-SUMMARY:JOL Symposium – Lunch Keynote: Rohit Chopra, Third Director of the Consumer Financial Protection Bureau (2021–2025) & Special Advisor to State Attorneys General
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOL Symposium – Lunch Keynote: Rohit Chopra, Third Director of the Consumer Financial Protection Bureau (2021–2025) & Special Advisor to Sta\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-122000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T122000
-DTEND;TZID=America/New_York:20260409T132000
-SUMMARY:What Would a Rational and Effective U.S.-China Trade Policy Look Like? Is One Still Possible?
-LOCATION:[WCC B015, Wasserstein Hall, 1585 Massachusetts Ave.](https://www.google.com/maps/search/1585+Massachusetts+Avenue,+Cambridge,+MA+02138)
-DESCRIPTION:Food: A light lunch will be provided\n\nSource: Fairbank Center
-CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-123000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T123000
-DTEND;TZID=America/New_York:20260409T131500
-SUMMARY:Oral Argument Prep 101
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Join the BSA’s lunch talk with Professor David Zimmer, who has argued or second-chaired seven merits cases in the U\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-123000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T123000
-DTEND;TZID=America/New_York:20260409T131500
-SUMMARY:The Rule of Law in the European Union with Judge Damjan Kukovec and Eva Kukovec
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: The Rule of Law in the European Union with Judge Damjan Kukovec and Eva Kukovec The Harvard European Law Association is pleased to host a lu\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-123000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T123000
-DTEND;TZID=America/New_York:20260409T131500
-SUMMARY:Prepare to Practice – Lunch and Learn with Westlaw and Lexis
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Prepare to Practice – Lunch and Learn with Westlaw and Lexis Join Lexis and Westlaw for this lunchtime workshop where we will walk you thoug\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-144500@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T144500
-DTEND;TZID=America/New_York:20260409T154500
-SUMMARY:JOL Symposium – Concluding Reception
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOL Symposium – Concluding Reception Please join the Harvard Journal on Legislation for our annual symposium, this year entitled Filling the\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-150000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T150000
-DTEND;TZID=America/New_York:20260409T173000
-SUMMARY:Discovering History in China: Remembering Paul Cohen
-LOCATION:[Lower Level Conference Center Rooms 4-5, Gutman Library, 6 Appian Way](https://www.google.com/maps/search/6+Appian+Way,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Patterson Giersch, Edith Stix Wasserman Professor in Asian Studies and Professor of History, Wellesley College Joanna Handlin Smith, Editor\n\nSource: Fairbank Center
-CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-173000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T173000
-DTEND;TZID=America/New_York:20260409T193000
-SUMMARY:HALO Networking Reception
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HALO Networking Reception In conjunction with an exciting week of events for the Art Week Symposium, HALO is hosting a networking reception\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-173000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T173000
-DTEND;TZID=America/New_York:20260409T200000
-SUMMARY:Sports Law Symposium: Alumni/Awards Reception
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Sports Law Symposium: Alumni/Awards Reception The Symposium will conclude with an alumni panel featuring Harvard Law graduates working acros\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260409-180000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260409T180000
-DTEND;TZID=America/New_York:20260409T203000
-SUMMARY:Rohit Chopra Event Reception Space
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Rohit Chopra Event Reception Space Join us for a conversation with Former Director of the Consumer Financial Protection Bureau and Commissio\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260414-120000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
+DTSTAMP:2026-04-10T10:09:01Z
 DTSTART;TZID=America/New_York:20260414T120000
 DTEND;TZID=America/New_York:20260414T140000
 SUMMARY:Hayley Manges (APRW)
@@ -164,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260415-120000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
+DTSTAMP:2026-04-10T10:09:01Z
 DTSTART;TZID=America/New_York:20260415T120000
 DTEND;TZID=America/New_York:20260415T133000
 SUMMARY:Xiang Meng (Applied Stats Workshop)
@@ -174,35 +53,46 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260416-123000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260416T123000
-DTEND;TZID=America/New_York:20260416T131500
-SUMMARY:Lunch talk with National Security Journalist Carol Leonnig
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch talk with National Security Journalist Carol Leonnig Join the National Security & Law Association for a lunch talk with national secur\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260416-123000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260416T123000
-DTEND;TZID=America/New_York:20260416T131500
-SUMMARY:Harvard Law Review Writing Competition Tips Session
+UID:20260417-121500@harvard-food-events
+DTSTAMP:2026-04-10T10:09:01Z
+DTSTART;TZID=America/New_York:20260417T121500
+DTEND;TZID=America/New_York:20260417T133000
+SUMMARY:HLS Christian Fellowship Bible Study
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260416-123000@harvard-food-events
-DTSTAMP:2026-04-09T10:48:58Z
-DTSTART;TZID=America/New_York:20260416T123000
-DTEND;TZID=America/New_York:20260416T133000
-SUMMARY:Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson
+UID:20260417-123000@harvard-food-events
+DTSTAMP:2026-04-10T10:09:01Z
+DTSTART;TZID=America/New_York:20260417T123000
+DTEND;TZID=America/New_York:20260417T131500
+SUMMARY:Powering the Region: How Energy Projects Shape the Western Balkans
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson Join Y-Lab for the final event in our spring\n\nSource: HLS
+DESCRIPTION:Food: Powering the Region: How Energy Projects Shape the Western Balkans The Harvard European Law Association is pleased to host a lunch talk on F\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260417-180000@harvard-food-events
+DTSTAMP:2026-04-10T10:09:01Z
+DTSTART;TZID=America/New_York:20260417T180000
+DTEND;TZID=America/New_York:20260417T190000
+SUMMARY:HLS Christian Fellowship Friday Night
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260417-180000@harvard-food-events
+DTSTAMP:2026-04-10T10:09:01Z
+DTSTART;TZID=America/New_York:20260417T180000
+DTEND;TZID=America/New_York:20260417T203000
+SUMMARY:Scales of Justice Spring Concert
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Come hear music ranging from beloved tunes to new hits, and munch on some pizza while you’re at it\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
