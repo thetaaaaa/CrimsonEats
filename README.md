@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 10 – April 17, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-10 10:08 ET**
+> **April 11 – April 18, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-11 09:45 ET**
 
 ---
 
@@ -15,12 +15,6 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
 
 ---
-
-## Friday, April 10
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:20 PM – 1:30 PM | [Created Equal: A Christian Understanding of Human Worth](https://hls.harvard.edu/events/created-equal-a-christian-understanding-of-human-worth/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 14
 
@@ -33,15 +27,6 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Xiang Meng (Applied Stats Workshop)](https://www.iq.harvard.edu/event/xiang-meng-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-
-## Friday, April 17
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-10/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Powering the Region: How Energy Projects Shape the Western Balkans](https://hls.harvard.edu/events/powering-the-region-how-energy-projects-shape-the-western-balkans/) | Powering the Region: How Energy Projects Shape the Western Balkans The Harvard European Law Association is pleased to host a lunch talk on F | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-19/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 8:30 PM | [Scales of Justice Spring Concert](https://hls.harvard.edu/events/scales-of-justice-spring-concert-2/) | Come hear music ranging from beloved tunes to new hits, and munch on some pizza while you’re at it | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 

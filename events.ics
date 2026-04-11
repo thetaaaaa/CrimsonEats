@@ -20,19 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260410-122000@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
-DTSTART;TZID=America/New_York:20260410T122000
-DTEND;TZID=America/New_York:20260410T133000
-SUMMARY:Created Equal: A Christian Understanding of Human Worth
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20260414-120000@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
+DTSTAMP:2026-04-11T09:45:48Z
 DTSTART;TZID=America/New_York:20260414T120000
 DTEND;TZID=America/New_York:20260414T140000
 SUMMARY:Hayley Manges (APRW)
@@ -43,57 +32,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260415-120000@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
+DTSTAMP:2026-04-11T09:45:48Z
 DTSTART;TZID=America/New_York:20260415T120000
 DTEND;TZID=America/New_York:20260415T133000
 SUMMARY:Xiang Meng (Applied Stats Workshop)
 LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
 CATEGORIES:IQSS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260417-121500@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
-DTSTART;TZID=America/New_York:20260417T121500
-DTEND;TZID=America/New_York:20260417T133000
-SUMMARY:HLS Christian Fellowship Bible Study
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260417-123000@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
-DTSTART;TZID=America/New_York:20260417T123000
-DTEND;TZID=America/New_York:20260417T131500
-SUMMARY:Powering the Region: How Energy Projects Shape the Western Balkans
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Powering the Region: How Energy Projects Shape the Western Balkans The Harvard European Law Association is pleased to host a lunch talk on F\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260417-180000@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
-DTSTART;TZID=America/New_York:20260417T180000
-DTEND;TZID=America/New_York:20260417T190000
-SUMMARY:HLS Christian Fellowship Friday Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260417-180000@harvard-food-events
-DTSTAMP:2026-04-10T10:09:01Z
-DTSTART;TZID=America/New_York:20260417T180000
-DTEND;TZID=America/New_York:20260417T203000
-SUMMARY:Scales of Justice Spring Concert
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Come hear music ranging from beloved tunes to new hits, and munch on some pizza while you’re at it\n\nSource: HLS
-CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
