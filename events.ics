@@ -20,8 +20,52 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:20260413-120000@harvard-food-events
+DTSTAMP:2026-04-13T10:26:47Z
+DTSTART;TZID=America/New_York:20260413T120000
+DTEND;TZID=America/New_York:20260413T131500
+SUMMARY:To fund or not to fund…That is the question!” with Benchwalk Advisors
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: ” with Benchwalk Advisors HIALSA – Lunch Talk with Bench Walk Advisors…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260413-123000@harvard-food-events
+DTSTAMP:2026-04-13T10:26:47Z
+DTSTART;TZID=America/New_York:20260413T123000
+DTEND;TZID=America/New_York:20260413T131500
+SUMMARY:EDP Lunch Talk: Pro Bono Election Law Work with WilmerHale Attorneys
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: EDP Lunch Talk: Pro Bono Election Law Work with WilmerHale Attorneys Join the Equal Democracy Project for a lunchtime panel discussion with\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260413-123000@harvard-food-events
+DTSTAMP:2026-04-13T10:26:47Z
+DTSTART;TZID=America/New_York:20260413T123000
+DTEND;TZID=America/New_York:20260413T131500
+SUMMARY:Complex Litigation Simplified: HLS Mock Trial Association x Wilson Sonsini
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260413-123000@harvard-food-events
+DTSTAMP:2026-04-13T10:26:47Z
+DTSTART;TZID=America/New_York:20260413T123000
+DTEND;TZID=America/New_York:20260413T131500
+SUMMARY:MENALSA General Body Meeting
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260414-120000@harvard-food-events
-DTSTAMP:2026-04-12T09:52:16Z
+DTSTAMP:2026-04-13T10:26:47Z
 DTSTART;TZID=America/New_York:20260414T120000
 DTEND;TZID=America/New_York:20260414T140000
 SUMMARY:Hayley Manges (APRW)
@@ -32,13 +76,35 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260415-120000@harvard-food-events
-DTSTAMP:2026-04-12T09:52:16Z
+DTSTAMP:2026-04-13T10:26:47Z
 DTSTART;TZID=America/New_York:20260415T120000
 DTEND;TZID=America/New_York:20260415T133000
 SUMMARY:Xiang Meng (Applied Stats Workshop)
 LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
 CATEGORIES:IQSS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-084500@harvard-food-events
+DTSTAMP:2026-04-13T10:26:47Z
+DTSTART;TZID=America/New_York:20260420T084500
+DTEND;TZID=America/New_York:20260420T111500
+SUMMARY:Zionist Coffee Break
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Zionist Coffee Break Swing by for a free, custom latte from Latte Boston on your way to class\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-123000@harvard-food-events
+DTSTAMP:2026-04-13T10:26:47Z
+DTSTART;TZID=America/New_York:20260420T123000
+DTEND;TZID=America/New_York:20260420T132000
+SUMMARY:Heyman Summer Program Kick-Off Lunch
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Heyman Summer Program Kick-Off Lunch Are you interning in government this summer\n\nSource: HLS
+CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
