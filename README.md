@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 13 – April 20, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-13 10:26 ET**
+> **April 14 – April 21, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-14 10:44 ET**
 
 ---
 
@@ -16,20 +16,15 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Monday, April 13
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:00 PM – 1:15 PM | [To fund or not to fund…That is the question!” with Benchwalk Advisors](https://hls.harvard.edu/events/hialsa-lunch-talk-with-bench-walk-advisors-2/) | ” with Benchwalk Advisors HIALSA – Lunch Talk with Bench Walk Advisors… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [EDP Lunch Talk: Pro Bono Election Law Work with WilmerHale Attorneys](https://hls.harvard.edu/events/edp-lunch-talk-pro-bono-election-law-work-with-wilmerhale-attorneys/) | EDP Lunch Talk: Pro Bono Election Law Work with WilmerHale Attorneys Join the Equal Democracy Project for a lunchtime panel discussion with  | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Complex Litigation Simplified: HLS Mock Trial Association x Wilson Sonsini](https://hls.harvard.edu/events/complex-litigation-simplified-hls-mock-trial-association-x-wilson-sonsini/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [MENALSA General Body Meeting](https://hls.harvard.edu/events/menalsa-general-body-meeting/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
 ## Tuesday, April 14
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 2:00 PM | [Hayley Manges (APRW)](https://www.iq.harvard.edu/event/hayley-manges-aprw-0) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11053) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [FiLM Society: Lunch Talk with Jaime Winkelman (Business & Legal Affairs at A24)](https://hls.harvard.edu/events/film-society-lunch-talk-with-jaime-winkelman-business-legal-affairs-at-a24/) | FiLM Society: Lunch Talk with Jaime Winkelman (Business & Legal Affairs at A24) Join FiLM Society for a lunch talk with Jaime Winkelman (Bus | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 8:00 PM | [HLS Interfaith Dinner](https://hls.harvard.edu/events/hls-interfaith-dinner/) | HLS Interfaith Dinner The student-led HLS Interfaith Dinner is back | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 8:00 PM | [First Class Community Dinner](https://hls.harvard.edu/events/first-class-community-dinner-3/) | First Class Community Dinner This is a casual space to enjoy dinner with your First Class community | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Wednesday, April 15
 
@@ -37,12 +32,19 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Xiang Meng (Applied Stats Workshop)](https://www.iq.harvard.edu/event/xiang-meng-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
 
-## Monday, April 20
+## Tuesday, April 21
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 8:45 AM – 11:15 AM | [Zionist Coffee Break](https://hls.harvard.edu/events/zionist-coffee-break/) | Zionist Coffee Break Swing by for a free, custom latte from Latte Boston on your way to class | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:20 PM | [Heyman Summer Program Kick-Off Lunch](https://hls.harvard.edu/events/heyman-summer-program-kick-off-lunch/) | Heyman Summer Program Kick-Off Lunch Are you interning in government this summer | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:00 PM – 2:00 PM | [Amelia Malpas (APRW)](https://www.iq.harvard.edu/event/amelia-malpas-aprw) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:15 PM – 1:15 PM | [Texas Club BBQ](https://hls.harvard.edu/events/texas-club-bbq-6/) | Texas Club BBQ Join the Texas Club for a BBQ during 4/23 lunch hour | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:15 PM | [What’s Going on with Greenland? ILJ Lunch Talk](https://hls.harvard.edu/events/whats-going-on-with-greenland-ilj-lunch-talk/) | ILJ Lunch Talk In a recent press conference on Iran, President Trump stated that: “It all began with, if you want to know the truth, Greenla | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11054) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [AFI & JLSA Community Lunches](https://hls.harvard.edu/events/afi-jlsa-community-lunches-16/) | AFI & JLSA Community Lunches Join Alliance for Israel and the Jewish Law Students Association for a community lunch with students and profes | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:15 PM – 7:45 PM | [HELR Spring Author’s Dinner](https://hls.harvard.edu/events/helr-spring-authors-dinner/) | HELR Spring Author’s Dinner Come hear the authors of HELR’s upcoming volume speak about their pieces | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 9:30 PM | [Support Staff Awards Dinner](https://hls.harvard.edu/events/support-staff-awards-dinner/) | Support Staff Awards Dinner You are invited to the Support Staff Award Ceremony on Tuesday, April 21 at 7:00 PM in Milstein West | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:00 PM – 10:00 PM | [WLA Membership Pub Night](https://hls.harvard.edu/events/wla-membership-pub-night/) | Participants will receive two drink tickets | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:00 PM – 10:00 PM | [WLA Membership Committee Pub Night](https://hls.harvard.edu/events/wla-membership-committee-pub-night/) | Food will be provided and the first 40 attendees will receive… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
