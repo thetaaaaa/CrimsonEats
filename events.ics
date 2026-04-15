@@ -20,63 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260414-120000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260414T120000
-DTEND;TZID=America/New_York:20260414T140000
-SUMMARY:Hayley Manges (APRW)
-LOCATION:[CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
-CATEGORIES:IQSS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260414-122000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260414T122000
-DTEND;TZID=America/New_York:20260414T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260414-123000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260414T123000
-DTEND;TZID=America/New_York:20260414T131500
-SUMMARY:FiLM Society: Lunch Talk with Jaime Winkelman (Business & Legal Affairs at A24)
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: FiLM Society: Lunch Talk with Jaime Winkelman (Business & Legal Affairs at A24) Join FiLM Society for a lunch talk with Jaime Winkelman (Bus\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260414-180000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260414T180000
-DTEND;TZID=America/New_York:20260414T200000
-SUMMARY:HLS Interfaith Dinner
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HLS Interfaith Dinner The student-led HLS Interfaith Dinner is back\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260414-180000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260414T180000
-DTEND;TZID=America/New_York:20260414T200000
-SUMMARY:First Class Community Dinner
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: First Class Community Dinner This is a casual space to enjoy dinner with your First Class community\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20260415-120000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
+DTSTAMP:2026-04-15T10:25:07Z
 DTSTART;TZID=America/New_York:20260415T120000
 DTEND;TZID=America/New_York:20260415T133000
 SUMMARY:Xiang Meng (Applied Stats Workshop)
@@ -86,8 +31,41 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260415-121500@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260415T121500
+DTEND;TZID=America/New_York:20260415T133000
+SUMMARY:Rising 3L Internship and Fall Public Interest Job Search Preparation Drop In!
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Come hang out, eat lunch, and get advice about what you…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260415-121500@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260415T121500
+DTEND;TZID=America/New_York:20260415T133000
+SUMMARY:Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance The Harvard European Law Association is pleased to host a l\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260415-123000@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260415T123000
+DTEND;TZID=America/New_York:20260415T131500
+SUMMARY:CSEL Lunch Talk with Rakesh Kilaru
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: CSEL Lunch Talk with Rakesh Kilaru Join the Committee on Sports and Entertainment Law and the Journal of Sports and Entertainment Law on Mon\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260421-120000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
+DTSTAMP:2026-04-15T10:25:07Z
 DTSTART;TZID=America/New_York:20260421T120000
 DTEND;TZID=America/New_York:20260421T140000
 SUMMARY:Amelia Malpas (APRW)
@@ -97,90 +75,46 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260421-121500@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T121500
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:Texas Club BBQ
+UID:20260422-120000@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260422T120000
+DTEND;TZID=America/New_York:20260422T133000
+SUMMARY:Naoki Egami (Applied Stats Workshop)
+LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
+CATEGORIES:IQSS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260422-121500@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260422T121500
+DTEND;TZID=America/New_York:20260422T131500
+SUMMARY:AFI End-of-Year Lunch
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Texas Club BBQ Join the Texas Club for a BBQ during 4/23 lunch hour\n\nSource: HLS
+DESCRIPTION:Food: AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260421-122000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T122000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:What’s Going on with Greenland? ILJ Lunch Talk
+UID:20260422-121500@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260422T121500
+DTEND;TZID=America/New_York:20260422T131500
+SUMMARY:Conversation on Faith with Professor Jack Goldsmith
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: ILJ Lunch Talk In a recent press conference on Iran, President Trump stated that: “It all began with, if you want to know the truth, Greenla\n\nSource: HLS
+DESCRIPTION:Food: Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260421-122000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T122000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20260422-190000@harvard-food-events
+DTSTAMP:2026-04-15T10:25:07Z
+DTSTART;TZID=America/New_York:20260422T190000
+DTEND;TZID=America/New_York:20260422T210000
+SUMMARY:HLS Pub Trivia
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-123000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T123000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:AFI & JLSA Community Lunches
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: AFI & JLSA Community Lunches Join Alliance for Israel and the Jewish Law Students Association for a community lunch with students and profes\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-181500@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T181500
-DTEND;TZID=America/New_York:20260421T194500
-SUMMARY:HELR Spring Author’s Dinner
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HELR Spring Author’s Dinner Come hear the authors of HELR’s upcoming volume speak about their pieces\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-190000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T190000
-DTEND;TZID=America/New_York:20260421T213000
-SUMMARY:Support Staff Awards Dinner
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Support Staff Awards Dinner You are invited to the Support Staff Award Ceremony on Tuesday, April 21 at 7:00 PM in Milstein West\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-200000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T200000
-DTEND;TZID=America/New_York:20260421T220000
-SUMMARY:WLA Membership Pub Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Participants will receive two drink tickets\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-200000@harvard-food-events
-DTSTAMP:2026-04-14T10:45:05Z
-DTSTART;TZID=America/New_York:20260421T200000
-DTEND;TZID=America/New_York:20260421T220000
-SUMMARY:WLA Membership Committee Pub Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Food will be provided and the first 40 attendees will receive…\n\nSource: HLS
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT

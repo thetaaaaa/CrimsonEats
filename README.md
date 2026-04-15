@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 14 – April 21, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-14 10:44 ET**
+> **April 15 – April 22, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-15 10:24 ET**
 
 ---
 
@@ -16,35 +16,29 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Tuesday, April 14
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:00 PM – 2:00 PM | [Hayley Manges (APRW)](https://www.iq.harvard.edu/event/hayley-manges-aprw-0) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11053) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [FiLM Society: Lunch Talk with Jaime Winkelman (Business & Legal Affairs at A24)](https://hls.harvard.edu/events/film-society-lunch-talk-with-jaime-winkelman-business-legal-affairs-at-a24/) | FiLM Society: Lunch Talk with Jaime Winkelman (Business & Legal Affairs at A24) Join FiLM Society for a lunch talk with Jaime Winkelman (Bus | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 8:00 PM | [HLS Interfaith Dinner](https://hls.harvard.edu/events/hls-interfaith-dinner/) | HLS Interfaith Dinner The student-led HLS Interfaith Dinner is back | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 8:00 PM | [First Class Community Dinner](https://hls.harvard.edu/events/first-class-community-dinner-3/) | First Class Community Dinner This is a casual space to enjoy dinner with your First Class community | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
 ## Wednesday, April 15
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Xiang Meng (Applied Stats Workshop)](https://www.iq.harvard.edu/event/xiang-meng-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:15 PM – 1:30 PM | [Rising 3L Internship and Fall Public Interest Job Search Preparation Drop In!](https://hls.harvard.edu/events/rising-3l-internship-and-fall-public-interest-job-search-preparation-drop-in/) | Come hang out, eat lunch, and get advice about what you… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:30 PM | [Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance](https://hls.harvard.edu/events/georgias-democratic-promise-and-crisis-institutions-law-and-civic-resistance/) | Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance The Harvard European Law Association is pleased to host a l | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [CSEL Lunch Talk with Rakesh Kilaru](https://hls.harvard.edu/events/csel-lunch-talk-with-rakesh-kilaru/) | CSEL Lunch Talk with Rakesh Kilaru Join the Committee on Sports and Entertainment Law and the Journal of Sports and Entertainment Law on Mon | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 21
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 2:00 PM | [Amelia Malpas (APRW)](https://www.iq.harvard.edu/event/amelia-malpas-aprw) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:15 PM – 1:15 PM | [Texas Club BBQ](https://hls.harvard.edu/events/texas-club-bbq-6/) | Texas Club BBQ Join the Texas Club for a BBQ during 4/23 lunch hour | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:15 PM | [What’s Going on with Greenland? ILJ Lunch Talk](https://hls.harvard.edu/events/whats-going-on-with-greenland-ilj-lunch-talk/) | ILJ Lunch Talk In a recent press conference on Iran, President Trump stated that: “It all began with, if you want to know the truth, Greenla | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11054) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [AFI & JLSA Community Lunches](https://hls.harvard.edu/events/afi-jlsa-community-lunches-16/) | AFI & JLSA Community Lunches Join Alliance for Israel and the Jewish Law Students Association for a community lunch with students and profes | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:15 PM – 7:45 PM | [HELR Spring Author’s Dinner](https://hls.harvard.edu/events/helr-spring-authors-dinner/) | HELR Spring Author’s Dinner Come hear the authors of HELR’s upcoming volume speak about their pieces | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:30 PM | [Support Staff Awards Dinner](https://hls.harvard.edu/events/support-staff-awards-dinner/) | Support Staff Awards Dinner You are invited to the Support Staff Award Ceremony on Tuesday, April 21 at 7:00 PM in Milstein West | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 8:00 PM – 10:00 PM | [WLA Membership Pub Night](https://hls.harvard.edu/events/wla-membership-pub-night/) | Participants will receive two drink tickets | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 8:00 PM – 10:00 PM | [WLA Membership Committee Pub Night](https://hls.harvard.edu/events/wla-membership-committee-pub-night/) | Food will be provided and the first 40 attendees will receive… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
+## Wednesday, April 22
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 12:00 PM – 1:30 PM | [Naoki Egami (Applied Stats Workshop)](https://www.iq.harvard.edu/event/naoki-egami-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:15 PM – 1:15 PM | [AFI End-of-Year Lunch](https://hls.harvard.edu/events/afi-end-of-year-lunch/) | AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Conversation on Faith with Professor Jack Goldsmith](https://hls.harvard.edu/events/conversation-on-faith-with-professor-jack-goldsmith/) | Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-6/?occurrence=11020) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
