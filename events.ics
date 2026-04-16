@@ -20,52 +20,52 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260415-120000@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260415T120000
-DTEND;TZID=America/New_York:20260415T133000
-SUMMARY:Xiang Meng (Applied Stats Workshop)
-LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
-CATEGORIES:IQSS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260415-121500@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260415T121500
-DTEND;TZID=America/New_York:20260415T133000
-SUMMARY:Rising 3L Internship and Fall Public Interest Job Search Preparation Drop In!
+UID:20260416-123000@harvard-food-events
+DTSTAMP:2026-04-16T10:48:01Z
+DTSTART;TZID=America/New_York:20260416T123000
+DTEND;TZID=America/New_York:20260416T131500
+SUMMARY:Lunch Talk with Judge Gustavo A. Gelpí Jr.
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Come hang out, eat lunch, and get advice about what you…\n\nSource: HLS
+DESCRIPTION:Food: Lunch Talk with Judge Gustavo A\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260415-121500@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260415T121500
-DTEND;TZID=America/New_York:20260415T133000
-SUMMARY:Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance
+UID:20260416-123000@harvard-food-events
+DTSTAMP:2026-04-16T10:48:01Z
+DTSTART;TZID=America/New_York:20260416T123000
+DTEND;TZID=America/New_York:20260416T131500
+SUMMARY:Lunch talk with National Security Journalist Carol Leonnig
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance The Harvard European Law Association is pleased to host a l\n\nSource: HLS
+DESCRIPTION:Food: Lunch talk with National Security Journalist Carol Leonnig Join the National Security & Law Association for a lunch talk with national secur\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260415-123000@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260415T123000
-DTEND;TZID=America/New_York:20260415T131500
-SUMMARY:CSEL Lunch Talk with Rakesh Kilaru
+UID:20260416-123000@harvard-food-events
+DTSTAMP:2026-04-16T10:48:01Z
+DTSTART;TZID=America/New_York:20260416T123000
+DTEND;TZID=America/New_York:20260416T131500
+SUMMARY:Harvard Law Review Writing Competition Tips Session
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: CSEL Lunch Talk with Rakesh Kilaru Join the Committee on Sports and Entertainment Law and the Journal of Sports and Entertainment Law on Mon\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260416-123000@harvard-food-events
+DTSTAMP:2026-04-16T10:48:01Z
+DTSTART;TZID=America/New_York:20260416T123000
+DTEND;TZID=America/New_York:20260416T133000
+SUMMARY:Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson Join Y-Lab for the final event in our spring\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260421-120000@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
+DTSTAMP:2026-04-16T10:48:01Z
 DTSTART;TZID=America/New_York:20260421T120000
 DTEND;TZID=America/New_York:20260421T140000
 SUMMARY:Amelia Malpas (APRW)
@@ -75,8 +75,19 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260421-121500@harvard-food-events
+DTSTAMP:2026-04-16T10:48:01Z
+DTSTART;TZID=America/New_York:20260421T121500
+DTEND;TZID=America/New_York:20260421T133000
+SUMMARY:Navigating Economic Lawfare: Multinational Firms in U.S.–China Competition
+LOCATION:WCC 5044, Wasserstein Hall, 1585 Massachusetts Ave.
+DESCRIPTION:Food: LCB, Bock Trade LawJoin us for this timely and important lunch talk on how U\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260422-120000@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
+DTSTAMP:2026-04-16T10:48:01Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T133000
 SUMMARY:Naoki Egami (Applied Stats Workshop)
@@ -86,35 +97,13 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260422-121500@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260422T121500
-DTEND;TZID=America/New_York:20260422T131500
-SUMMARY:AFI End-of-Year Lunch
+UID:20260423-150000@harvard-food-events
+DTSTAMP:2026-04-16T10:48:01Z
+DTSTART;TZID=America/New_York:20260423T150000
+DTEND;TZID=America/New_York:20260423T160000
+SUMMARY:International Legal Studies Coffee Hour
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260422-121500@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260422T121500
-DTEND;TZID=America/New_York:20260422T131500
-SUMMARY:Conversation on Faith with Professor Jack Goldsmith
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260422-190000@harvard-food-events
-DTSTAMP:2026-04-15T10:25:07Z
-DTSTART;TZID=America/New_York:20260422T190000
-DTEND;TZID=America/New_York:20260422T210000
-SUMMARY:HLS Pub Trivia
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: International Legal Studies Coffee Hour Summer Travelers: Join us for a coffee, tea and snack break with classmates who have lived, worked o\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT

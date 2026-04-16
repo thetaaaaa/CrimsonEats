@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 15 – April 22, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-15 10:24 ET**
+> **April 16 – April 23, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-16 10:47 ET**
 
 ---
 
@@ -16,29 +16,33 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Wednesday, April 15
+## Thursday, April 16
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:00 PM – 1:30 PM | [Xiang Meng (Applied Stats Workshop)](https://www.iq.harvard.edu/event/xiang-meng-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:15 PM – 1:30 PM | [Rising 3L Internship and Fall Public Interest Job Search Preparation Drop In!](https://hls.harvard.edu/events/rising-3l-internship-and-fall-public-interest-job-search-preparation-drop-in/) | Come hang out, eat lunch, and get advice about what you… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:30 PM | [Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance](https://hls.harvard.edu/events/georgias-democratic-promise-and-crisis-institutions-law-and-civic-resistance/) | Georgia’s Democratic Promise and Crisis: Institutions, Law, and Civic Resistance The Harvard European Law Association is pleased to host a l | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [CSEL Lunch Talk with Rakesh Kilaru](https://hls.harvard.edu/events/csel-lunch-talk-with-rakesh-kilaru/) | CSEL Lunch Talk with Rakesh Kilaru Join the Committee on Sports and Entertainment Law and the Journal of Sports and Entertainment Law on Mon | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Lunch Talk with Judge Gustavo A. Gelpí Jr.](https://hls.harvard.edu/events/lunch-talk-with-judge-gustavo-a-gelpi-jr/) | Lunch Talk with Judge Gustavo A | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Lunch talk with National Security Journalist Carol Leonnig](https://hls.harvard.edu/events/lunch-talk-with-national-security-journalist-carol-leonnig/) | Lunch talk with National Security Journalist Carol Leonnig Join the National Security & Law Association for a lunch talk with national secur | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Harvard Law Review Writing Competition Tips Session](https://hls.harvard.edu/events/harvard-law-review-writing-competition-tips-session/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson](https://hls.harvard.edu/events/youth-advocacy-writing-group-working-paper-lunch-talk-with-james-limbaugh-and-hudson-patterson/) | Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson Join Y-Lab for the final event in our spring  | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 21
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 2:00 PM | [Amelia Malpas (APRW)](https://www.iq.harvard.edu/event/amelia-malpas-aprw) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:15 PM – 1:30 PM | [Navigating Economic Lawfare: Multinational Firms in U.S.–China Competition](https://fairbank.fas.harvard.edu/events/navigating-economic-lawfare-multinational-firms-in-u-s-china-competition/) | LCB, Bock Trade LawJoin us for this timely and important lunch talk on how U | WCC 5044, Wasserstein Hall, 1585 Massachusetts Ave. | Fairbank Center |
 
 ## Wednesday, April 22
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Naoki Egami (Applied Stats Workshop)](https://www.iq.harvard.edu/event/naoki-egami-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:15 PM – 1:15 PM | [AFI End-of-Year Lunch](https://hls.harvard.edu/events/afi-end-of-year-lunch/) | AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [Conversation on Faith with Professor Jack Goldsmith](https://hls.harvard.edu/events/conversation-on-faith-with-professor-jack-goldsmith/) | Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-6/?occurrence=11020) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
+## Thursday, April 23
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 3:00 PM – 4:00 PM | [International Legal Studies Coffee Hour](https://hls.harvard.edu/events/international-legal-studies-coffee-hour/) | International Legal Studies Coffee Hour Summer Travelers: Join us for a coffee, tea and snack break with classmates who have lived, worked o | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
