@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 16 – April 23, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-16 10:47 ET**
+> **April 17 – April 24, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-17 10:14 ET**
 
 ---
 
@@ -16,14 +16,14 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Thursday, April 16
+## Friday, April 17
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Lunch Talk with Judge Gustavo A. Gelpí Jr.](https://hls.harvard.edu/events/lunch-talk-with-judge-gustavo-a-gelpi-jr/) | Lunch Talk with Judge Gustavo A | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Lunch talk with National Security Journalist Carol Leonnig](https://hls.harvard.edu/events/lunch-talk-with-national-security-journalist-carol-leonnig/) | Lunch talk with National Security Journalist Carol Leonnig Join the National Security & Law Association for a lunch talk with national secur | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Harvard Law Review Writing Competition Tips Session](https://hls.harvard.edu/events/harvard-law-review-writing-competition-tips-session/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:30 PM | [Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson](https://hls.harvard.edu/events/youth-advocacy-writing-group-working-paper-lunch-talk-with-james-limbaugh-and-hudson-patterson/) | Youth Advocacy Writing Group Working Paper Lunch Talk with James Limbaugh and Hudson Patterson Join Y-Lab for the final event in our spring  | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-10/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Powering the Region: How Energy Projects Shape the Western Balkans](https://hls.harvard.edu/events/powering-the-region-how-energy-projects-shape-the-western-balkans/) | Powering the Region: How Energy Projects Shape the Western Balkans The Harvard European Law Association is pleased to host a lunch talk on F | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 8:30 PM | [Scales of Justice Spring Concert](https://hls.harvard.edu/events/scales-of-justice-spring-concert-2/) | Come hear music ranging from beloved tunes to new hits, and munch on some pizza while you’re at it | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-19/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 21
 
@@ -38,11 +38,13 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Naoki Egami (Applied Stats Workshop)](https://www.iq.harvard.edu/event/naoki-egami-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
 
-## Thursday, April 23
+## Friday, April 24
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 3:00 PM – 4:00 PM | [International Legal Studies Coffee Hour](https://hls.harvard.edu/events/international-legal-studies-coffee-hour/) | International Legal Studies Coffee Hour Summer Travelers: Join us for a coffee, tea and snack break with classmates who have lived, worked o | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 9:00 AM – 5:00 PM | [Gender Studies and Performance Workshop](https://fairbank.fas.harvard.edu/events/gender-studies-and-performance-workshop/) | 10:45 – 11:00 AM: Refreshment Break 11:00 AM – 1:00 PM: Panel Two Commentators: David Der-Wei Wang, Harvard University Eileen Cheng-yin Chow | CGIS South S020, Belfer Case Study Room, 1730 Cambridge St. | Fairbank Center |
+| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-11/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-20/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
