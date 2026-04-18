@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 17 – April 24, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-17 10:14 ET**
+> **April 18 – April 25, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-18 09:53 ET**
 
 ---
 
@@ -16,14 +16,11 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Friday, April 17
+## Saturday, April 18
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-10/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Powering the Region: How Energy Projects Shape the Western Balkans](https://hls.harvard.edu/events/powering-the-region-how-energy-projects-shape-the-western-balkans/) | Powering the Region: How Energy Projects Shape the Western Balkans The Harvard European Law Association is pleased to host a lunch talk on F | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 8:30 PM | [Scales of Justice Spring Concert](https://hls.harvard.edu/events/scales-of-justice-spring-concert-2/) | Come hear music ranging from beloved tunes to new hits, and munch on some pizza while you’re at it | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-19/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 10:00 AM – 1:00 PM | [HHRJ Spring Galleys](https://hls.harvard.edu/events/hhrj-spring-galleys/) | Food and free HHRJ swag will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 21
 
@@ -43,8 +40,6 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 9:00 AM – 5:00 PM | [Gender Studies and Performance Workshop](https://fairbank.fas.harvard.edu/events/gender-studies-and-performance-workshop/) | 10:45 – 11:00 AM: Refreshment Break 11:00 AM – 1:00 PM: Panel Two Commentators: David Der-Wei Wang, Harvard University Eileen Cheng-yin Chow | CGIS South S020, Belfer Case Study Room, 1730 Cambridge St. | Fairbank Center |
-| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-11/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-20/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
