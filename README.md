@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 18 – April 25, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-18 09:53 ET**
+> **April 19 – April 26, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-19 09:51 ET**
 
 ---
 
@@ -15,12 +15,6 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
 
 ---
-
-## Saturday, April 18
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 10:00 AM – 1:00 PM | [HHRJ Spring Galleys](https://hls.harvard.edu/events/hhrj-spring-galleys/) | Food and free HHRJ swag will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 21
 
