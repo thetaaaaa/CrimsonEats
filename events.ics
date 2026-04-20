@@ -20,8 +20,63 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:20260420-084500@harvard-food-events
+DTSTAMP:2026-04-20T10:27:02Z
+DTSTART;TZID=America/New_York:20260420T084500
+DTEND;TZID=America/New_York:20260420T111500
+SUMMARY:Zionist Coffee Break
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Zionist Coffee Break Swing by for a free, custom latte from Latte Boston on your way to class\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-121500@harvard-food-events
+DTSTAMP:2026-04-20T10:27:02Z
+DTSTART;TZID=America/New_York:20260420T121500
+DTEND;TZID=America/New_York:20260420T131500
+SUMMARY:Violence in the West Bank
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-123000@harvard-food-events
+DTSTAMP:2026-04-20T10:27:02Z
+DTSTART;TZID=America/New_York:20260420T123000
+DTEND;TZID=America/New_York:20260420T133000
+SUMMARY:Financing Africa’s Future: From Foundations to Frontiers – A Conversation with Mr. Samaila Zubairu
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-123000@harvard-food-events
+DTSTAMP:2026-04-20T10:27:02Z
+DTSTART;TZID=America/New_York:20260420T123000
+DTEND;TZID=America/New_York:20260420T133000
+SUMMARY:The Logoratic Method and the Subordination Thesis with Professor Scott Brewer
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: The Logoratic Method and the Subordination Thesis with Professor Scott Brewer Join the HLS Law & Philosophy Society for a lunch talk with Pr\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260420-123000@harvard-food-events
+DTSTAMP:2026-04-20T10:27:02Z
+DTSTART;TZID=America/New_York:20260420T123000
+DTEND;TZID=America/New_York:20260420T132000
+SUMMARY:Heyman Summer Program Kick-Off Lunch
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Heyman Summer Program Kick-Off Lunch Are you interning in government this summer\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260421-120000@harvard-food-events
-DTSTAMP:2026-04-19T09:51:41Z
+DTSTAMP:2026-04-20T10:27:02Z
 DTSTART;TZID=America/New_York:20260421T120000
 DTEND;TZID=America/New_York:20260421T140000
 SUMMARY:Amelia Malpas (APRW)
@@ -32,7 +87,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260421-121500@harvard-food-events
-DTSTAMP:2026-04-19T09:51:41Z
+DTSTAMP:2026-04-20T10:27:02Z
 DTSTART;TZID=America/New_York:20260421T121500
 DTEND;TZID=America/New_York:20260421T133000
 SUMMARY:Navigating Economic Lawfare: Multinational Firms in U.S.–China Competition
@@ -43,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260422-120000@harvard-food-events
-DTSTAMP:2026-04-19T09:51:41Z
+DTSTAMP:2026-04-20T10:27:02Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T133000
 SUMMARY:Naoki Egami (Applied Stats Workshop)
@@ -54,7 +109,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260424-090000@harvard-food-events
-DTSTAMP:2026-04-19T09:51:41Z
+DTSTAMP:2026-04-20T10:27:02Z
 DTSTART;TZID=America/New_York:20260424T090000
 DTEND;TZID=America/New_York:20260424T170000
 SUMMARY:Gender Studies and Performance Workshop

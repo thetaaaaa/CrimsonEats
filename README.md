@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 19 – April 26, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-19 09:51 ET**
+> **April 20 – April 27, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-20 10:26 ET**
 
 ---
 
@@ -15,6 +15,16 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
 
 ---
+
+## Monday, April 20
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 8:45 AM – 11:15 AM | [Zionist Coffee Break](https://hls.harvard.edu/events/zionist-coffee-break/) | Zionist Coffee Break Swing by for a free, custom latte from Latte Boston on your way to class | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Violence in the West Bank](https://hls.harvard.edu/events/violence-in-the-west-bank/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [Financing Africa’s Future: From Foundations to Frontiers – A Conversation with Mr. Samaila Zubairu](https://hls.harvard.edu/events/fireside-chat-with-mr-samaila-zubairu/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [The Logoratic Method and the Subordination Thesis with Professor Scott Brewer](https://hls.harvard.edu/events/the-logoratic-method-and-the-subordination-thesis-with-professor-scott-brewer/) | The Logoratic Method and the Subordination Thesis with Professor Scott Brewer Join the HLS Law & Philosophy Society for a lunch talk with Pr | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:20 PM | [Heyman Summer Program Kick-Off Lunch](https://hls.harvard.edu/events/heyman-summer-program-kick-off-lunch/) | Heyman Summer Program Kick-Off Lunch Are you interning in government this summer | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 21
 
