@@ -20,140 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260421-120000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T120000
-DTEND;TZID=America/New_York:20260421T140000
-SUMMARY:Jing Ye & Amelia Malpas (APRW)
-LOCATION:[CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
-CATEGORIES:IQSS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-121500@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T121500
-DTEND;TZID=America/New_York:20260421T133000
-SUMMARY:Navigating Economic Lawfare: Multinational Firms in U.S.–China Competition
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: –China Competition Join us for this timely and important lunch talk on how U\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-121500@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T121500
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:Texas Club BBQ
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Texas Club BBQ Join the Texas Club for a BBQ during 4/23 lunch hour\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-121500@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T121500
-DTEND;TZID=America/New_York:20260421T133000
-SUMMARY:Navigating Economic Lawfare: Multinational Firms in U.S.–China Competition
-LOCATION:WCC 5044, Wasserstein Hall, 1585 Massachusetts Ave.
-DESCRIPTION:Food: LCB, Bock Trade LawJoin us for this timely and important lunch talk on how U\n\nSource: Fairbank Center
-CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-122000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T122000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-122000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T122000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:What’s Going on with Greenland? ILJ Lunch Talk
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: ILJ Lunch Talk In a recent press conference on Iran, President Trump stated that: “It all began with, if you want to know the truth, Greenla\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-123000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T123000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:MENALSA HLR Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-123000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T123000
-DTEND;TZID=America/New_York:20260421T131500
-SUMMARY:AFI & JLSA Community Lunches
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: AFI & JLSA Community Lunches Join Alliance for Israel and the Jewish Law Students Association for a community lunch with students and profes\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-174500@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T174500
-DTEND;TZID=America/New_York:20260421T190000
-SUMMARY:Book Club and Dinner with Bell Collective
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Book Club and Dinner with Bell Collective Join Bell Collective for dinner and discussion of Derrick Bell’s Afrolantica Awakening, a short st\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-181500@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T181500
-DTEND;TZID=America/New_York:20260421T194500
-SUMMARY:HELR Spring Author’s Dinner
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HELR Spring Author’s Dinner Come hear the authors of HELR’s upcoming volume speak about their pieces\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-190000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T190000
-DTEND;TZID=America/New_York:20260421T213000
-SUMMARY:Support Staff Awards Dinner
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Support Staff Awards Dinner You are invited to the Support Staff Award Ceremony on Tuesday, April 21 at 7:00 PM in Milstein West\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260421-200000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260421T200000
-DTEND;TZID=America/New_York:20260421T220000
-SUMMARY:WLA Membership Pub Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Participants will receive two drink tickets\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20260422-120000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
+DTSTAMP:2026-04-22T10:28:50Z
 DTSTART;TZID=America/New_York:20260422T120000
 DTEND;TZID=America/New_York:20260422T133000
 SUMMARY:Naoki Egami (Applied Stats Workshop)
@@ -163,8 +31,41 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260422-121500@harvard-food-events
+DTSTAMP:2026-04-22T10:28:50Z
+DTSTART;TZID=America/New_York:20260422T121500
+DTEND;TZID=America/New_York:20260422T131500
+SUMMARY:AFI End-of-Year Lunch
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260422-121500@harvard-food-events
+DTSTAMP:2026-04-22T10:28:50Z
+DTSTART;TZID=America/New_York:20260422T121500
+DTEND;TZID=America/New_York:20260422T131500
+SUMMARY:Conversation on Faith with Professor Jack Goldsmith
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260422-190000@harvard-food-events
+DTSTAMP:2026-04-22T10:28:50Z
+DTSTART;TZID=America/New_York:20260422T190000
+DTEND;TZID=America/New_York:20260422T210000
+SUMMARY:HLS Pub Trivia
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260424-090000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
+DTSTAMP:2026-04-22T10:28:50Z
 DTSTART;TZID=America/New_York:20260424T090000
 DTEND;TZID=America/New_York:20260424T170000
 SUMMARY:Gender Studies and Performance Workshop
@@ -175,7 +76,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260428-120000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
+DTSTAMP:2026-04-22T10:28:50Z
 DTSTART;TZID=America/New_York:20260428T120000
 DTEND;TZID=America/New_York:20260428T140000
 SUMMARY:Julius Wilson (APRW)
@@ -185,14 +86,14 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260428-122000@harvard-food-events
-DTSTAMP:2026-04-21T10:28:23Z
-DTSTART;TZID=America/New_York:20260428T122000
-DTEND;TZID=America/New_York:20260428T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
-CATEGORIES:HLS
+UID:20260429-120000@harvard-food-events
+DTSTAMP:2026-04-22T10:28:50Z
+DTSTART;TZID=America/New_York:20260429T120000
+DTEND;TZID=America/New_York:20260429T133000
+SUMMARY:Iavor Bojinov (Applied Stats Workshop)
+LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
+CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
