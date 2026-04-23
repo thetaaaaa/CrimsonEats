@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 22 – April 29, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-22 10:28 ET**
+> **April 23 – April 30, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-23 11:05 ET**
 
 ---
 
@@ -16,14 +16,12 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Wednesday, April 22
+## Thursday, April 23
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:00 PM – 1:30 PM | [Naoki Egami (Applied Stats Workshop)](https://www.iq.harvard.edu/event/naoki-egami-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:15 PM – 1:15 PM | [AFI End-of-Year Lunch](https://hls.harvard.edu/events/afi-end-of-year-lunch/) | AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [Conversation on Faith with Professor Jack Goldsmith](https://hls.harvard.edu/events/conversation-on-faith-with-professor-jack-goldsmith/) | Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-6/?occurrence=11020) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 3:00 PM – 4:00 PM | [International Legal Studies Coffee Hour](https://hls.harvard.edu/events/international-legal-studies-coffee-hour/) | International Legal Studies Coffee Hour Summer Travelers: Join us for a coffee, tea and snack break with classmates who have lived, worked o | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 10:30 PM | [LL.M. Karaoke Night! HLS Pub from 7pm](https://hls.harvard.edu/events/ll-m-karaoke-night-hls-pub-from-7pm/) | Class of 2026 to join for a night of food, drinks, and karaoke together in HLS Pub next Thursday 23rd April, kicking off at 7pm | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Friday, April 24
 

@@ -20,52 +20,30 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260422-120000@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
-DTSTART;TZID=America/New_York:20260422T120000
-DTEND;TZID=America/New_York:20260422T133000
-SUMMARY:Naoki Egami (Applied Stats Workshop)
-LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
-CATEGORIES:IQSS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260422-121500@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
-DTSTART;TZID=America/New_York:20260422T121500
-DTEND;TZID=America/New_York:20260422T131500
-SUMMARY:AFI End-of-Year Lunch
+UID:20260423-150000@harvard-food-events
+DTSTAMP:2026-04-23T11:05:56Z
+DTSTART;TZID=America/New_York:20260423T150000
+DTEND;TZID=America/New_York:20260423T160000
+SUMMARY:International Legal Studies Coffee Hour
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: AFI End-of-Year Lunch Join AFI for an end-of-year lunch as we celebrate our graduating 3Ls and welcome the incoming board\n\nSource: HLS
+DESCRIPTION:Food: International Legal Studies Coffee Hour Summer Travelers: Join us for a coffee, tea and snack break with classmates who have lived, worked o\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260422-121500@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
-DTSTART;TZID=America/New_York:20260422T121500
-DTEND;TZID=America/New_York:20260422T131500
-SUMMARY:Conversation on Faith with Professor Jack Goldsmith
+UID:20260423-190000@harvard-food-events
+DTSTAMP:2026-04-23T11:05:56Z
+DTSTART;TZID=America/New_York:20260423T190000
+DTEND;TZID=America/New_York:20260423T223000
+SUMMARY:LL.M. Karaoke Night! HLS Pub from 7pm
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Conversation on Faith with Professor Jack Goldsmith Join CLSA for lunch to hear Professor Goldsmith share how faith has impacted his legal c\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260422-190000@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
-DTSTART;TZID=America/New_York:20260422T190000
-DTEND;TZID=America/New_York:20260422T210000
-SUMMARY:HLS Pub Trivia
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Class of 2026 to join for a night of food, drinks, and karaoke together in HLS Pub next Thursday 23rd April, kicking off at 7pm\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260424-090000@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
+DTSTAMP:2026-04-23T11:05:56Z
 DTSTART;TZID=America/New_York:20260424T090000
 DTEND;TZID=America/New_York:20260424T170000
 SUMMARY:Gender Studies and Performance Workshop
@@ -76,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260428-120000@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
+DTSTAMP:2026-04-23T11:05:56Z
 DTSTART;TZID=America/New_York:20260428T120000
 DTEND;TZID=America/New_York:20260428T140000
 SUMMARY:Julius Wilson (APRW)
@@ -87,7 +65,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260429-120000@harvard-food-events
-DTSTAMP:2026-04-22T10:28:50Z
+DTSTAMP:2026-04-23T11:05:56Z
 DTSTART;TZID=America/New_York:20260429T120000
 DTEND;TZID=America/New_York:20260429T133000
 SUMMARY:Iavor Bojinov (Applied Stats Workshop)
