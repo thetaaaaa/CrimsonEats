@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 23 – April 30, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-23 11:05 ET**
+> **April 24 – May 1, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-24 10:26 ET**
 
 ---
 
@@ -16,18 +16,13 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Thursday, April 23
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 3:00 PM – 4:00 PM | [International Legal Studies Coffee Hour](https://hls.harvard.edu/events/international-legal-studies-coffee-hour/) | International Legal Studies Coffee Hour Summer Travelers: Join us for a coffee, tea and snack break with classmates who have lived, worked o | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 10:30 PM | [LL.M. Karaoke Night! HLS Pub from 7pm](https://hls.harvard.edu/events/ll-m-karaoke-night-hls-pub-from-7pm/) | Class of 2026 to join for a night of food, drinks, and karaoke together in HLS Pub next Thursday 23rd April, kicking off at 7pm | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
 ## Friday, April 24
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 9:00 AM – 5:00 PM | [Gender Studies and Performance Workshop](https://fairbank.fas.harvard.edu/events/gender-studies-and-performance-workshop/) | 10:45 – 11:00 AM: Refreshment Break 11:00 AM – 1:00 PM: Panel Two Commentators: David Der-Wei Wang, Harvard University Eileen Cheng-yin Chow | CGIS South S020, Belfer Case Study Room, 1730 Cambridge St. | Fairbank Center |
+| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-11/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-20/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Tuesday, April 28
 
