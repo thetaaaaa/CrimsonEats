@@ -20,41 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260424-090000@harvard-food-events
-DTSTAMP:2026-04-24T10:26:45Z
-DTSTART;TZID=America/New_York:20260424T090000
-DTEND;TZID=America/New_York:20260424T170000
-SUMMARY:Gender Studies and Performance Workshop
-LOCATION:CGIS South S020, Belfer Case Study Room, 1730 Cambridge St.
-DESCRIPTION:Food: 10:45 – 11:00 AM: Refreshment Break 11:00 AM – 1:00 PM: Panel Two Commentators: David Der-Wei Wang, Harvard University Eileen Cheng-yin Chow\n\nSource: Fairbank Center
-CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260424-121500@harvard-food-events
-DTSTAMP:2026-04-24T10:26:45Z
-DTSTART;TZID=America/New_York:20260424T121500
-DTEND;TZID=America/New_York:20260424T133000
-SUMMARY:HLS Christian Fellowship Bible Study
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260424-180000@harvard-food-events
-DTSTAMP:2026-04-24T10:26:45Z
-DTSTART;TZID=America/New_York:20260424T180000
-DTEND;TZID=America/New_York:20260424T190000
-SUMMARY:HLS Christian Fellowship Friday Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20260428-120000@harvard-food-events
-DTSTAMP:2026-04-24T10:26:45Z
+DTSTAMP:2026-04-25T09:55:58Z
 DTSTART;TZID=America/New_York:20260428T120000
 DTEND;TZID=America/New_York:20260428T140000
 SUMMARY:Julius Wilson (APRW)
@@ -65,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260429-120000@harvard-food-events
-DTSTAMP:2026-04-24T10:26:45Z
+DTSTAMP:2026-04-25T09:55:58Z
 DTSTART;TZID=America/New_York:20260429T120000
 DTEND;TZID=America/New_York:20260429T133000
 SUMMARY:Iavor Bojinov (Applied Stats Workshop)
