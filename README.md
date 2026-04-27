@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 26 – May 3, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-26 09:57 ET**
+> **April 27 – May 4, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-27 10:53 ET**
 
 ---
 
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:00 PM – 1:30 PM | [Iavor Bojinov (Applied Stats Workshop)](https://www.iq.harvard.edu/event/iavor-bojinov-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
+| 12:00 PM – 1:30 PM | [Max Cytrynbaum (Applied Stats Workshop)](https://www.iq.harvard.edu/event/max-cytrynbaum-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
 
 ---
 
