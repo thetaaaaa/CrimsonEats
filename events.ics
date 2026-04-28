@@ -21,7 +21,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:20260428-120000@harvard-food-events
-DTSTAMP:2026-04-27T10:53:57Z
+DTSTAMP:2026-04-28T11:13:03Z
 DTSTART;TZID=America/New_York:20260428T120000
 DTEND;TZID=America/New_York:20260428T140000
 SUMMARY:Julius Wilson (APRW)
@@ -31,14 +31,36 @@ CATEGORIES:IQSS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:20260428-122000@harvard-food-events
+DTSTAMP:2026-04-28T11:13:03Z
+DTSTART;TZID=America/New_York:20260428T122000
+DTEND;TZID=America/New_York:20260428T131500
+SUMMARY:Scripture in Community: Public Reading of Scripture
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20260429-120000@harvard-food-events
-DTSTAMP:2026-04-27T10:53:57Z
+DTSTAMP:2026-04-28T11:13:03Z
 DTSTART;TZID=America/New_York:20260429T120000
 DTEND;TZID=America/New_York:20260429T133000
 SUMMARY:Max Cytrynbaum (Applied Stats Workshop)
 LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
 CATEGORIES:IQSS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260505-122000@harvard-food-events
+DTSTAMP:2026-04-28T11:13:03Z
+DTSTART;TZID=America/New_York:20260505T122000
+DTEND;TZID=America/New_York:20260505T131500
+SUMMARY:Scripture in Community: Public Reading of Scripture
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
