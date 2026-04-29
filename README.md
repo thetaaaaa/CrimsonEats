@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **April 28 – May 5, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-28 11:12 ET**
+> **April 29 – May 6, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-04-29 11:00 ET**
 
 ---
 
@@ -16,24 +16,11 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Tuesday, April 28
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:00 PM – 2:00 PM | [Julius Wilson (APRW)](https://www.iq.harvard.edu/event/julius-wilson-aprw) | Lunch will be provided | [CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11055) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
 ## Wednesday, April 29
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:00 PM – 1:30 PM | [Max Cytrynbaum (Applied Stats Workshop)](https://www.iq.harvard.edu/event/max-cytrynbaum-applied-stats-workshop) | Lunch will be provided | [CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138) | IQSS |
-
-## Tuesday, May 5
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-5/?occurrence=11056) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
