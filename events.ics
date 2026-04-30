@@ -20,14 +20,14 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260429-120000@harvard-food-events
-DTSTAMP:2026-04-29T11:00:57Z
-DTSTART;TZID=America/New_York:20260429T120000
-DTEND;TZID=America/New_York:20260429T133000
-SUMMARY:Max Cytrynbaum (Applied Stats Workshop)
-LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
-CATEGORIES:IQSS
+UID:20260507-110000@harvard-food-events
+DTSTAMP:2026-04-30T10:56:31Z
+DTSTART;TZID=America/New_York:20260507T110000
+DTEND;TZID=America/New_York:20260507T123000
+SUMMARY:How to Grow a Human: A Conversation with Michael Puett and Amy Zhang
+LOCATION:CGIS South, Room S153, 1730 Cambridge St.
+DESCRIPTION:Food: Enjoy Chinese tea in this casual talk and salon as we bring together philosophers, artists, and educators to ask what it means to design fro\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
