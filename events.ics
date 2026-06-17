@@ -19,15 +19,4 @@ TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:20260623-120000@harvard-food-events
-DTSTAMP:2026-06-16T13:51:57Z
-DTSTART;TZID=America/New_York:20260623T120000
-DTEND;TZID=America/New_York:20260623T140000
-SUMMARY:Countering Attacks on Access to Information Through Sustainable Information Access Goals
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Countering Attacks on Access to Information Through Sustainable Information Access Goals Registration is required for lunch\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
