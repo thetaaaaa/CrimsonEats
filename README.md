@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **June 22 – June 29, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-06-22 13:21 ET**
+> **June 23 – June 30, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-06-23 11:42 ET**
 
 ---
 
@@ -16,7 +16,12 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-*No food events found for the next 7 days. Check back tomorrow!*
+## Tuesday, June 23
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 12:00 PM – 2:00 PM | [Countering Attacks on Access to Information Through Sustainable Information Access Goals](https://hls.harvard.edu/events/countering-attacks-on-access-to-information-through-sustainable-information-access-goals/) | Countering Attacks on Access to Information Through Sustainable Information Access Goals Registration is required for lunch | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
 ---
 
 **Sources monitored:**
