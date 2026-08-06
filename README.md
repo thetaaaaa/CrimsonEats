@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **August 5 – August 12, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-08-05 11:04 ET**
+> **August 6 – August 13, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-08-06 11:03 ET**
 
 ---
 
