@@ -19,4 +19,15 @@ TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:20260908-114500@harvard-food-events
+DTSTAMP:2026-09-01T13:00:43Z
+DTSTART;TZID=America/New_York:20260908T114500
+DTEND;TZID=America/New_York:20260908T134500
+SUMMARY:Scripture in Community
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together –…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

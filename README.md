@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **August 31 – September 7, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-08-31 15:16 ET**
+> **September 1 – September 8, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-01 13:00 ET**
 
 ---
 
@@ -16,7 +16,12 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-*No food events found for the next 7 days. Check back tomorrow!*
+## Tuesday, September 8
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 11:45 AM – 1:45 PM | [Scripture in Community](https://hls.harvard.edu/events/scripture-in-community/) | Scripture in Community meets over lunch to read and listen to Bible passages together –… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
 ---
 
 **Sources monitored:**
