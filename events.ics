@@ -20,35 +20,13 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260909-123000@harvard-food-events
-DTSTAMP:2026-09-02T12:53:39Z
-DTSTART;TZID=America/New_York:20260909T123000
-DTEND;TZID=America/New_York:20260909T131500
-SUMMARY:Writing at HLS
+UID:20260910-123000@harvard-food-events
+DTSTAMP:2026-09-03T12:43:42Z
+DTSTART;TZID=America/New_York:20260910T123000
+DTEND;TZID=America/New_York:20260910T131500
+SUMMARY:Human Rights @ HLS Orientation
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch to be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260909-123000@harvard-food-events
-DTSTAMP:2026-09-02T12:53:39Z
-DTSTART;TZID=America/New_York:20260909T123000
-DTEND;TZID=America/New_York:20260909T131500
-SUMMARY:BSA Note-Taking Strategies Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided, and the session will be recorded for anyone who cannot attend\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260909-190000@harvard-food-events
-DTSTAMP:2026-09-02T12:53:39Z
-DTSTART;TZID=America/New_York:20260909T190000
-DTEND;TZID=America/New_York:20260909T210000
-SUMMARY:HLS Pub Trivia
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Human Rights @ HLS Orientation Join us for pizza and an overview of: The International Human Rights Clinic The Human Rights Program HLS Advo\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
