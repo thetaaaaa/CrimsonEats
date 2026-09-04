@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 3 – September 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-03 12:43 ET**
+> **September 4 – September 11, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-04 12:37 ET**
 
 ---
 
@@ -16,12 +16,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Thursday, September 10
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Human Rights @ HLS Orientation](https://hls.harvard.edu/events/human-rights-hls-orientation/) | Human Rights @ HLS Orientation Join us for pizza and an overview of: The International Human Rights Clinic The Human Rights Program HLS Advo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
+*No food events found for the next 7 days. Check back tomorrow!*
 ---
 
 **Sources monitored:**
