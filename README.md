@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 6 – September 13, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-06 11:51 ET**
+> **September 7 – September 14, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-07 13:57 ET**
 
 ---
 
@@ -16,7 +16,12 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-*No food events found for the next 7 days. Check back tomorrow!*
+## Monday, September 14
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 12:30 PM – 1:15 PM | [LLM Public Interest Job Search Strategy Session](https://hls.harvard.edu/events/ll-m-series-public-interest-job-search-strategy-session/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
 ---
 
 **Sources monitored:**
