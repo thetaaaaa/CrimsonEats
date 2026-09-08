@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 7 – September 14, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-07 13:57 ET**
+> **September 8 – September 15, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-08 12:52 ET**
 
 ---
 
@@ -16,11 +16,19 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Monday, September 14
+## Tuesday, September 8
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [LLM Public Interest Job Search Strategy Session](https://hls.harvard.edu/events/ll-m-series-public-interest-job-search-strategy-session/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12473) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
+## Tuesday, September 15
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12474) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:15 PM | [Tenant Advocacy Project Information Session](https://hls.harvard.edu/events/tap-information-session/) | Please join us for an outdoor information session and lunch | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [OPIA’s 1L Job Search Strategy Session](https://hls.harvard.edu/events/opias-1l-job-search-strategy-session/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
