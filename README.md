@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 8 – September 15, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-08 12:52 ET**
+> **September 9 – September 16, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-09 12:54 ET**
 
 ---
 
@@ -16,19 +16,20 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Tuesday, September 8
+## Wednesday, September 9
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12473) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Writing at HLS](https://hls.harvard.edu/events/writing-at-hls-2/) | Lunch to be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [BSA Note-Taking Strategies Panel](https://hls.harvard.edu/events/bsa-note-taking-strategies-panel/) | Lunch will be provided, and the session will be recorded for anyone who cannot attend | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12102) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
-## Tuesday, September 15
+## Wednesday, September 16
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12474) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:15 PM | [Tenant Advocacy Project Information Session](https://hls.harvard.edu/events/tap-information-session/) | Please join us for an outdoor information session and lunch | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [OPIA’s 1L Job Search Strategy Session](https://hls.harvard.edu/events/opias-1l-job-search-strategy-session/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Where to Start: Mapping a Public Interest Career](https://hls.harvard.edu/events/where-to-start-mapping-a-public-interest-career/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12103) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 

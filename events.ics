@@ -20,46 +20,57 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260908-122000@harvard-food-events
-DTSTAMP:2026-09-08T12:52:47Z
-DTSTART;TZID=America/New_York:20260908T122000
-DTEND;TZID=America/New_York:20260908T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20260909-123000@harvard-food-events
+DTSTAMP:2026-09-09T12:54:59Z
+DTSTART;TZID=America/New_York:20260909T123000
+DTEND;TZID=America/New_York:20260909T131500
+SUMMARY:Writing at HLS
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: Lunch to be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260915-122000@harvard-food-events
-DTSTAMP:2026-09-08T12:52:47Z
-DTSTART;TZID=America/New_York:20260915T122000
-DTEND;TZID=America/New_York:20260915T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20260909-123000@harvard-food-events
+DTSTAMP:2026-09-09T12:54:59Z
+DTSTART;TZID=America/New_York:20260909T123000
+DTEND;TZID=America/New_York:20260909T131500
+SUMMARY:BSA Note-Taking Strategies Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided, and the session will be recorded for anyone who cannot attend\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260915-122000@harvard-food-events
-DTSTAMP:2026-09-08T12:52:47Z
-DTSTART;TZID=America/New_York:20260915T122000
-DTEND;TZID=America/New_York:20260915T131500
-SUMMARY:Tenant Advocacy Project Information Session
+UID:20260909-190000@harvard-food-events
+DTSTAMP:2026-09-09T12:54:59Z
+DTSTART;TZID=America/New_York:20260909T190000
+DTEND;TZID=America/New_York:20260909T210000
+SUMMARY:HLS Pub Trivia
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Please join us for an outdoor information session and lunch\n\nSource: HLS
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260915-123000@harvard-food-events
-DTSTAMP:2026-09-08T12:52:47Z
-DTSTART;TZID=America/New_York:20260915T123000
-DTEND;TZID=America/New_York:20260915T131500
-SUMMARY:OPIA’s 1L Job Search Strategy Session
+UID:20260916-123000@harvard-food-events
+DTSTAMP:2026-09-09T12:54:59Z
+DTSTART;TZID=America/New_York:20260916T123000
+DTEND;TZID=America/New_York:20260916T131500
+SUMMARY:Where to Start: Mapping a Public Interest Career
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916-190000@harvard-food-events
+DTSTAMP:2026-09-09T12:54:59Z
+DTSTART;TZID=America/New_York:20260916T190000
+DTEND;TZID=America/New_York:20260916T210000
+SUMMARY:HLS Pub Trivia
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
