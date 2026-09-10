@@ -20,57 +20,46 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260909-123000@harvard-food-events
-DTSTAMP:2026-09-09T12:54:59Z
-DTSTART;TZID=America/New_York:20260909T123000
-DTEND;TZID=America/New_York:20260909T131500
-SUMMARY:Writing at HLS
+UID:20260910-123000@harvard-food-events
+DTSTAMP:2026-09-10T12:42:50Z
+DTSTART;TZID=America/New_York:20260910T123000
+DTEND;TZID=America/New_York:20260910T133000
+SUMMARY:Summer Work Authorization for International JD Students
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch to be provided\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260909-123000@harvard-food-events
-DTSTAMP:2026-09-09T12:54:59Z
-DTSTART;TZID=America/New_York:20260909T123000
-DTEND;TZID=America/New_York:20260909T131500
-SUMMARY:BSA Note-Taking Strategies Panel
+UID:20260910-123000@harvard-food-events
+DTSTAMP:2026-09-10T12:42:50Z
+DTSTART;TZID=America/New_York:20260910T123000
+DTEND;TZID=America/New_York:20260910T131500
+SUMMARY:Human Rights @ HLS Orientation
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided, and the session will be recorded for anyone who cannot attend\n\nSource: HLS
+DESCRIPTION:Food: Human Rights @ HLS Orientation Join us for pizza and an overview of: The International Human Rights Clinic The Human Rights Program HLS Advo\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260909-190000@harvard-food-events
-DTSTAMP:2026-09-09T12:54:59Z
-DTSTART;TZID=America/New_York:20260909T190000
-DTEND;TZID=America/New_York:20260909T210000
-SUMMARY:HLS Pub Trivia
+UID:20260917-081500@harvard-food-events
+DTSTAMP:2026-09-10T12:42:50Z
+DTSTART;TZID=America/New_York:20260917T081500
+DTEND;TZID=America/New_York:20260917T103000
+SUMMARY:Tenant Advocacy Project Bagel Breakfast Q&A
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Tenant Advocacy Project Bagel Breakfast Q&A Interested in learning more about the Tenant Advocacy Project (TAP)\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260916-123000@harvard-food-events
-DTSTAMP:2026-09-09T12:54:59Z
-DTSTART;TZID=America/New_York:20260916T123000
-DTEND;TZID=America/New_York:20260916T131500
-SUMMARY:Where to Start: Mapping a Public Interest Career
+UID:20260917-180000@harvard-food-events
+DTSTAMP:2026-09-10T12:42:50Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:PLAP Open House
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260916-190000@harvard-food-events
-DTSTAMP:2026-09-09T12:54:59Z
-DTSTART;TZID=America/New_York:20260916T190000
-DTEND;TZID=America/New_York:20260916T210000
-SUMMARY:HLS Pub Trivia
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT

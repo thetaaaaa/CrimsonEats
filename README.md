@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 9 – September 16, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-09 12:54 ET**
+> **September 10 – September 17, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-10 12:42 ET**
 
 ---
 
@@ -16,20 +16,19 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Wednesday, September 9
+## Thursday, September 10
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Writing at HLS](https://hls.harvard.edu/events/writing-at-hls-2/) | Lunch to be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [BSA Note-Taking Strategies Panel](https://hls.harvard.edu/events/bsa-note-taking-strategies-panel/) | Lunch will be provided, and the session will be recorded for anyone who cannot attend | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12102) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [Summer Work Authorization for International JD Students](https://hls.harvard.edu/events/summer-work-authorization-for-international-jd-students/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Human Rights @ HLS Orientation](https://hls.harvard.edu/events/human-rights-hls-orientation/) | Human Rights @ HLS Orientation Join us for pizza and an overview of: The International Human Rights Clinic The Human Rights Program HLS Advo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
-## Wednesday, September 16
+## Thursday, September 17
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Where to Start: Mapping a Public Interest Career](https://hls.harvard.edu/events/where-to-start-mapping-a-public-interest-career/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12103) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:15 AM – 10:30 AM | [Tenant Advocacy Project Bagel Breakfast Q&A](https://hls.harvard.edu/events/tap-bagel-breakfast-qa/) | Tenant Advocacy Project Bagel Breakfast Q&A Interested in learning more about the Tenant Advocacy Project (TAP) | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:30 PM | [PLAP Open House](https://hls.harvard.edu/events/plap-open-house/) | Food will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
