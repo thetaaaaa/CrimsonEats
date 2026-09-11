@@ -20,46 +20,57 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260910-123000@harvard-food-events
-DTSTAMP:2026-09-10T12:42:50Z
-DTSTART;TZID=America/New_York:20260910T123000
-DTEND;TZID=America/New_York:20260910T133000
-SUMMARY:Summer Work Authorization for International JD Students
+UID:20260918-121500@harvard-food-events
+DTSTAMP:2026-09-11T12:47:47Z
+DTSTART;TZID=America/New_York:20260918T121500
+DTEND;TZID=America/New_York:20260918T131500
+SUMMARY:Environmental Law Welcome Lunch
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: Environmental Law Welcome Lunch Join us for our annual welcome event to learn about environmental law offerings at Harvard Law School\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260910-123000@harvard-food-events
-DTSTAMP:2026-09-10T12:42:50Z
-DTSTART;TZID=America/New_York:20260910T123000
-DTEND;TZID=America/New_York:20260910T131500
-SUMMARY:Human Rights @ HLS Orientation
+UID:20260918-122000@harvard-food-events
+DTSTAMP:2026-09-11T12:47:47Z
+DTSTART;TZID=America/New_York:20260918T122000
+DTEND;TZID=America/New_York:20260918T132000
+SUMMARY:EALS 2026 Open House
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Human Rights @ HLS Orientation Join us for pizza and an overview of: The International Human Rights Clinic The Human Rights Program HLS Advo\n\nSource: HLS
+DESCRIPTION:Food: Savory and sweet pastries, coffee, Wong Lo Kat, corn silk tea, and hojicha will be…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260917-081500@harvard-food-events
-DTSTAMP:2026-09-10T12:42:50Z
-DTSTART;TZID=America/New_York:20260917T081500
-DTEND;TZID=America/New_York:20260917T103000
-SUMMARY:Tenant Advocacy Project Bagel Breakfast Q&A
+UID:20260918-123000@harvard-food-events
+DTSTAMP:2026-09-11T12:47:47Z
+DTSTART;TZID=America/New_York:20260918T123000
+DTEND;TZID=America/New_York:20260918T131500
+SUMMARY:Lexis & Westlaw Introductory Lunch Session for 1Ls and LLMs
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Tenant Advocacy Project Bagel Breakfast Q&A Interested in learning more about the Tenant Advocacy Project (TAP)\n\nSource: HLS
+DESCRIPTION:Food: Lexis & Westlaw Introductory Lunch Session for 1Ls and LLMs Westlaw and Lexis are hosting an introductory lunch session covering both platfo\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260917-180000@harvard-food-events
-DTSTAMP:2026-09-10T12:42:50Z
-DTSTART;TZID=America/New_York:20260917T180000
-DTEND;TZID=America/New_York:20260917T193000
-SUMMARY:PLAP Open House
+UID:20260918-133000@harvard-food-events
+DTSTAMP:2026-09-11T12:47:47Z
+DTSTART;TZID=America/New_York:20260918T133000
+DTEND;TZID=America/New_York:20260918T153000
+SUMMARY:Environmental Law Open House with Desserts
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Food will be provided\n\nSource: HLS
+DESCRIPTION:Food: Environmental Law Open House with Desserts Following our annual welcome lunch, join us in the Environmental & Energy Law Program suite for d\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-160000@harvard-food-events
+DTSTAMP:2026-09-11T12:47:47Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T190000
+SUMMARY:Grad Fest
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Live student performances on the Memorial Church steps lawn games, food, and student groups\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
