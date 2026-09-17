@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 16 – September 23, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-16 13:19 ET**
+> **September 17 – September 24, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-17 13:19 ET**
 
 ---
 
@@ -16,19 +16,19 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Wednesday, September 16
+## Thursday, September 17
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Where to Start: Mapping a Public Interest Career](https://hls.harvard.edu/events/where-to-start-mapping-a-public-interest-career/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12103) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:15 AM – 10:30 AM | [Tenant Advocacy Project Bagel Breakfast Q&A](https://hls.harvard.edu/events/tap-bagel-breakfast-qa/) | Tenant Advocacy Project Bagel Breakfast Q&A Interested in learning more about the Tenant Advocacy Project (TAP) | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:30 PM | [PLAP Open House](https://hls.harvard.edu/events/plap-open-house/) | Food will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
-## Wednesday, September 23
+## Thursday, September 24
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Before and After Roe vs. Wade: Litigating Reproductive Rights in a Time of Upheaval](https://hls.harvard.edu/events/before-and-after-roe-vs-wade-litigating-reproductive-rights-in-a-time-of-upheaval/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12104) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [PLAP New Member Training](https://hls.harvard.edu/events/plap-new-member-training/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [2026 Gaillard Lecture](https://hls.harvard.edu/events/2026-gaillard-lecture/) | Professor Murphy will present a talk on, Effects of the ILC’s Articles on State Responsibility for Temporal Jurisdiction in International Ar | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 

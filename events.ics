@@ -20,46 +20,46 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260916-123000@harvard-food-events
-DTSTAMP:2026-09-16T13:20:12Z
-DTSTART;TZID=America/New_York:20260916T123000
-DTEND;TZID=America/New_York:20260916T131500
-SUMMARY:Where to Start: Mapping a Public Interest Career
+UID:20260917-081500@harvard-food-events
+DTSTAMP:2026-09-17T13:19:48Z
+DTSTART;TZID=America/New_York:20260917T081500
+DTEND;TZID=America/New_York:20260917T103000
+SUMMARY:Tenant Advocacy Project Bagel Breakfast Q&A
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+DESCRIPTION:Food: Tenant Advocacy Project Bagel Breakfast Q&A Interested in learning more about the Tenant Advocacy Project (TAP)\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260916-190000@harvard-food-events
-DTSTAMP:2026-09-16T13:20:12Z
-DTSTART;TZID=America/New_York:20260916T190000
-DTEND;TZID=America/New_York:20260916T210000
-SUMMARY:HLS Pub Trivia
+UID:20260917-180000@harvard-food-events
+DTSTAMP:2026-09-17T13:19:48Z
+DTSTART;TZID=America/New_York:20260917T180000
+DTEND;TZID=America/New_York:20260917T193000
+SUMMARY:PLAP Open House
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260923-123000@harvard-food-events
-DTSTAMP:2026-09-16T13:20:12Z
-DTSTART;TZID=America/New_York:20260923T123000
-DTEND;TZID=America/New_York:20260923T131500
-SUMMARY:Before and After Roe vs. Wade: Litigating Reproductive Rights in a Time of Upheaval
+UID:20260924-121500@harvard-food-events
+DTSTAMP:2026-09-17T13:19:48Z
+DTSTART;TZID=America/New_York:20260924T121500
+DTEND;TZID=America/New_York:20260924T131500
+SUMMARY:PLAP New Member Training
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260923-190000@harvard-food-events
-DTSTAMP:2026-09-16T13:20:12Z
-DTSTART;TZID=America/New_York:20260923T190000
-DTEND;TZID=America/New_York:20260923T210000
-SUMMARY:HLS Pub Trivia
+UID:20260924-180000@harvard-food-events
+DTSTAMP:2026-09-17T13:19:48Z
+DTSTART;TZID=America/New_York:20260924T180000
+DTEND;TZID=America/New_York:20260924T190000
+SUMMARY:2026 Gaillard Lecture
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Professor Murphy will present a talk on, Effects of the ILC’s Articles on State Responsibility for Temporal Jurisdiction in International Ar\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
