@@ -20,32 +20,65 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260917-081500@harvard-food-events
-DTSTAMP:2026-09-17T13:19:48Z
-DTSTART;TZID=America/New_York:20260917T081500
-DTEND;TZID=America/New_York:20260917T103000
-SUMMARY:Tenant Advocacy Project Bagel Breakfast Q&A
+UID:20260918-121500@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260918T121500
+DTEND;TZID=America/New_York:20260918T131500
+SUMMARY:Environmental Law Welcome Lunch
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Tenant Advocacy Project Bagel Breakfast Q&A Interested in learning more about the Tenant Advocacy Project (TAP)\n\nSource: HLS
+DESCRIPTION:Food: Environmental Law Welcome Lunch Join us for our annual welcome event to learn about environmental law offerings at Harvard Law School\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260917-180000@harvard-food-events
-DTSTAMP:2026-09-17T13:19:48Z
-DTSTART;TZID=America/New_York:20260917T180000
-DTEND;TZID=America/New_York:20260917T193000
-SUMMARY:PLAP Open House
+UID:20260918-122000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260918T122000
+DTEND;TZID=America/New_York:20260918T132000
+SUMMARY:EALS 2026 Open House
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Food will be provided\n\nSource: HLS
+DESCRIPTION:Food: Savory and sweet pastries, coffee, Wong Lo Kat, corn silk tea, and hojicha will be…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260924-121500@harvard-food-events
-DTSTAMP:2026-09-17T13:19:48Z
-DTSTART;TZID=America/New_York:20260924T121500
-DTEND;TZID=America/New_York:20260924T131500
+UID:20260918-123000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260918T123000
+DTEND;TZID=America/New_York:20260918T131500
+SUMMARY:Lexis & Westlaw Introductory Lunch Session for 1Ls and LLMs
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lexis & Westlaw Introductory Lunch Session for 1Ls and LLMs Westlaw and Lexis are hosting an introductory lunch session covering both platfo\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-133000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260918T133000
+DTEND;TZID=America/New_York:20260918T153000
+SUMMARY:Environmental Law Open House with Desserts
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Environmental Law Open House with Desserts Following our annual welcome lunch, join us in the Environmental & Energy Law Program suite for d\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918-160000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260918T160000
+DTEND;TZID=America/New_York:20260918T190000
+SUMMARY:Grad Fest
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Live student performances on the Memorial Church steps lawn games, food, and student groups\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-121500@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T121500
+DTEND;TZID=America/New_York:20260925T131500
 SUMMARY:PLAP New Member Training
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
@@ -53,13 +86,68 @@ CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260924-180000@harvard-food-events
-DTSTAMP:2026-09-17T13:19:48Z
-DTSTART;TZID=America/New_York:20260924T180000
-DTEND;TZID=America/New_York:20260924T190000
-SUMMARY:2026 Gaillard Lecture
+UID:20260925-122000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T122000
+DTEND;TZID=America/New_York:20260925T132000
+SUMMARY:Asian Infrastructure Investment Bank (AIIB) at 10: Legal Innovation in Multilateral Development Banks
+LOCATION:WCC 3019, Wasserstein Hall
+DESCRIPTION:Food: A light lunch will be provided\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-123000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T123000
+DTEND;TZID=America/New_York:20260925T131500
+SUMMARY:HALS First GBM
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Professor Murphy will present a talk on, Effects of the ILC’s Articles on State Responsibility for Temporal Jurisdiction in International Ar\n\nSource: HLS
+DESCRIPTION:Food: gle/aCGUYqPJEWWTu2Hz6) (log in with HLS email) so we can get a headcount for food\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-123000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T123000
+DTEND;TZID=America/New_York:20260925T131500
+SUMMARY:HLS Christian Fellowship Bible Study
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-170000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T170000
+DTEND;TZID=America/New_York:20260925T190000
+SUMMARY:National Security Social
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: National Security Social Join Harvard’s National Security & Law Association and National Security Journal for a drink to get to know the oth\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-174500@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T174500
+DTEND;TZID=America/New_York:20260925T190000
+SUMMARY:HLS Christian Fellowship Friday Night
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925-180000@harvard-food-events
+DTSTAMP:2026-09-18T12:46:24Z
+DTSTART;TZID=America/New_York:20260925T180000
+DTEND;TZID=America/New_York:20260925T210000
+SUMMARY:KAHLS General Body Meeting
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: We will begin with a GBM at WCC B015, then move for food and drinks at a bar near campus (TBD)\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
