@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 19 – September 26, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-19 12:07 ET**
+> **September 20 – September 27, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-20 12:33 ET**
 
 ---
 
@@ -22,11 +22,11 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 |------|-------|------|----------|--------|
 | 12:20 PM – 1:20 PM | [Asian Infrastructure Investment Bank (AIIB) at 10: Legal Innovation in Multilateral Development Banks](https://fairbank.fas.harvard.edu/events/asian-infrastructure-investment-bank-aiib-at-10-legal-innovation-in-multilateral-development-banks/) | A light lunch will be provided | WCC 3019, Wasserstein Hall | Fairbank Center |
 
-## Saturday, September 26
+## Sunday, September 27
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 8:00 AM – 5:00 PM | [JOLT Fall Subcite](https://hls.harvard.edu/events/jolt-fall-subcite/) | Breakfast / lunch / dinner will be provided, and we look forward to seeing you | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 9:00 AM – 2:00 PM | [JOLT Fall Subcite](https://hls.harvard.edu/events/jolt-fall-subcite-2/) | Breakfast / lunch / dinner will be provided, and we look forward to seeing you | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 

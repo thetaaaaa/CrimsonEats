@@ -21,7 +21,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:20260925-122000@harvard-food-events
-DTSTAMP:2026-09-19T12:07:45Z
+DTSTAMP:2026-09-20T12:33:35Z
 DTSTART;TZID=America/New_York:20260925T122000
 DTEND;TZID=America/New_York:20260925T132000
 SUMMARY:Asian Infrastructure Investment Bank (AIIB) at 10: Legal Innovation in Multilateral Development Banks
@@ -31,10 +31,10 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260926-080000@harvard-food-events
-DTSTAMP:2026-09-19T12:07:45Z
-DTSTART;TZID=America/New_York:20260926T080000
-DTEND;TZID=America/New_York:20260926T170000
+UID:20260927-090000@harvard-food-events
+DTSTAMP:2026-09-20T12:33:35Z
+DTSTART;TZID=America/New_York:20260927T090000
+DTEND;TZID=America/New_York:20260927T140000
 SUMMARY:JOLT Fall Subcite
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Breakfast / lunch / dinner will be provided, and we look forward to seeing you\n\nSource: HLS
