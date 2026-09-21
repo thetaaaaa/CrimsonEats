@@ -21,7 +21,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:20260925-122000@harvard-food-events
-DTSTAMP:2026-09-20T12:33:35Z
+DTSTAMP:2026-09-21T14:21:04Z
 DTSTART;TZID=America/New_York:20260925T122000
 DTEND;TZID=America/New_York:20260925T132000
 SUMMARY:Asian Infrastructure Investment Bank (AIIB) at 10: Legal Innovation in Multilateral Development Banks
@@ -31,13 +31,90 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260927-090000@harvard-food-events
-DTSTAMP:2026-09-20T12:33:35Z
-DTSTART;TZID=America/New_York:20260927T090000
-DTEND;TZID=America/New_York:20260927T140000
-SUMMARY:JOLT Fall Subcite
+UID:20260928-113000@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T113000
+DTEND;TZID=America/New_York:20260928T133000
+SUMMARY:Irell 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Breakfast / lunch / dinner will be provided, and we look forward to seeing you\n\nSource: HLS
+DESCRIPTION:Food: Irell 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-121500@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T121500
+DTEND;TZID=America/New_York:20260928T131500
+SUMMARY:Regulating Frontier AI
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Regulating Frontier AI Join us for lunch and a discussion on the FRONTIER Act and other congressional regulation efforts to regulate frontie\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-121500@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T121500
+DTEND;TZID=America/New_York:20260928T131500
+SUMMARY:The Big Picture of Texas Recruiting
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-123000@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T123000
+DTEND;TZID=America/New_York:20260928T131500
+SUMMARY:HALS First GBM
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: gle/aCGUYqPJEWWTu2Hz6) (log in with HLS email) so we can get a headcount for food\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-123000@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T123000
+DTEND;TZID=America/New_York:20260928T131500
+SUMMARY:HALB x Paul, Weiss Lunch Talk
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: HALB x Paul, Weiss Lunch Talk Join Paul, Weiss Corporate attorneys for a discussion on advising global investment firm 3G Capital on its acq\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-143000@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T143000
+DTEND;TZID=America/New_York:20260928T163000
+SUMMARY:Paul Weiss 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Paul Weiss 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-180000@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T180000
+DTEND;TZID=America/New_York:20260928T200000
+SUMMARY:Scott Douglass McConnico 1L Reception
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Scott Douglass McConnico 1L Reception See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928-183000@harvard-food-events
+DTSTAMP:2026-09-21T14:21:04Z
+DTSTART;TZID=America/New_York:20260928T183000
+DTEND;TZID=America/New_York:20260928T203000
+SUMMARY:Paul Weiss 1L Reception
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Paul Weiss 1L Reception See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT

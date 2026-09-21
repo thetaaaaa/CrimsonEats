@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 20 – September 27, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-20 12:33 ET**
+> **September 21 – September 28, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-21 14:20 ET**
 
 ---
 
@@ -22,11 +22,18 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 |------|-------|------|----------|--------|
 | 12:20 PM – 1:20 PM | [Asian Infrastructure Investment Bank (AIIB) at 10: Legal Innovation in Multilateral Development Banks](https://fairbank.fas.harvard.edu/events/asian-infrastructure-investment-bank-aiib-at-10-legal-innovation-in-multilateral-development-banks/) | A light lunch will be provided | WCC 3019, Wasserstein Hall | Fairbank Center |
 
-## Sunday, September 27
+## Monday, September 28
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 9:00 AM – 2:00 PM | [JOLT Fall Subcite](https://hls.harvard.edu/events/jolt-fall-subcite-2/) | Breakfast / lunch / dinner will be provided, and we look forward to seeing you | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 11:30 AM – 1:30 PM | [Irell 1L Coffee Chat](https://hls.harvard.edu/events/irell-1l-coffee-chat/) | Irell 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Regulating Frontier AI](https://hls.harvard.edu/events/regulating-frontier-ai/) | Regulating Frontier AI Join us for lunch and a discussion on the FRONTIER Act and other congressional regulation efforts to regulate frontie | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [The Big Picture of Texas Recruiting](https://hls.harvard.edu/events/the-big-picture-of-texas-recruiting-2/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [HALS First GBM](https://hls.harvard.edu/events/hals-first-gbm/) | gle/aCGUYqPJEWWTu2Hz6) (log in with HLS email) so we can get a headcount for food | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [HALB x Paul, Weiss Lunch Talk](https://hls.harvard.edu/events/halb-x-paul-weiss-2/) | HALB x Paul, Weiss Lunch Talk Join Paul, Weiss Corporate attorneys for a discussion on advising global investment firm 3G Capital on its acq | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Paul Weiss 1L Coffee Chat](https://hls.harvard.edu/events/paul-weiss-1l-coffee-chat-2/) | Paul Weiss 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 8:00 PM | [Scott Douglass McConnico 1L Reception](https://hls.harvard.edu/events/scott-douglass-mcconnico-1l-reception/) | Scott Douglass McConnico 1L Reception See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:30 PM – 8:30 PM | [Paul Weiss 1L Reception](https://hls.harvard.edu/events/paul-weiss-1l-reception/) | Paul Weiss 1L Reception See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
