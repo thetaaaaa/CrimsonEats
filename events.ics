@@ -20,19 +20,30 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20260922-122000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260922T122000
-DTEND;TZID=America/New_York:20260922T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20260923-123000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260923T123000
+DTEND;TZID=America/New_York:20260923T131500
+SUMMARY:Before and After Roe vs. Wade: Litigating Reproductive Rights in a Time of Upheaval
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923-190000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260923T190000
+DTEND;TZID=America/New_York:20260923T210000
+SUMMARY:HLS Pub Trivia
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20260925-122000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
+DTSTAMP:2026-09-23T13:31:31Z
 DTSTART;TZID=America/New_York:20260925T122000
 DTEND;TZID=America/New_York:20260925T132000
 SUMMARY:Asian Infrastructure Investment Bank (AIIB) at 10: Legal Innovation in Multilateral Development Banks
@@ -42,123 +53,112 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-113000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T113000
-DTEND;TZID=America/New_York:20260929T133000
-SUMMARY:Willkie 1L Coffee Chat
+UID:20260930-090000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T090000
+DTEND;TZID=America/New_York:20260930T100000
+SUMMARY:LEAP Coffee Chat with Wasserstein Fellow Erin Drake
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Willkie 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: LEAP Coffee Chat with Wasserstein Fellow Erin Drake Join us for a casual coffee chat with Wasserstein Fellow Erin Drake\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-121500@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T121500
-DTEND;TZID=America/New_York:20260929T131500
-SUMMARY:Advising Event
+UID:20260930-121500@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T121500
+DTEND;TZID=America/New_York:20260930T131500
+SUMMARY:Summer Internship Panel: Public Interest Jobs in National Security & Foreign Policy
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: Lunch…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-122000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T122000
-DTEND;TZID=America/New_York:20260929T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20260930-121500@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T121500
+DTEND;TZID=America/New_York:20260930T131500
+SUMMARY:JOLT x Knobbe Martens
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: JOLT x Knobbe Martens Join JOLT for a lunch talk with Knobbe Martens, a leading IP and technology law firm, to learn about some top recent I\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-123000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T123000
-DTEND;TZID=America/New_York:20260929T131500
-SUMMARY:Texas Club Big Kickoff BBQ
+UID:20260930-121500@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T121500
+DTEND;TZID=America/New_York:20260930T131500
+SUMMARY:MENALSA BigLaw and Public Interest Lunch Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Texas Club Big Kickoff BBQ Join the Texas Club for a barbecue lunch\n\nSource: HLS
+DESCRIPTION:Food: MENALSA BigLaw and Public Interest Lunch Panel Join a panel of current 2Ls and 3Ls to learn more about BigLaw and Public Interest recruitmen\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-123000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T123000
-DTEND;TZID=America/New_York:20260929T131500
-SUMMARY:HSLS x Milbank: the Practice of Space Law
+UID:20260930-121500@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T121500
+DTEND;TZID=America/New_York:20260930T131500
+SUMMARY:[KAHLS
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Please join us for lunch and learn about the Transportation and Space group\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-123000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T123000
-DTEND;TZID=America/New_York:20260929T131500
-SUMMARY:Women’s Sports, Practicing Democracy, and Fighting for Workers Voices at the Bargaining Table and Beyond
+UID:20260930-121500@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T121500
+DTEND;TZID=America/New_York:20260930T131500
+SUMMARY:Voting Rights After Callais
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+DESCRIPTION:Food: Voting Rights After Callais Join the Equal Democracy Project, ACS, APALSA, HBLSA, HLS Dems, La Alianza, and the Mississippi Delta Project fo\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-123000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T123000
-DTEND;TZID=America/New_York:20260929T131500
-SUMMARY:New York Market Lunch
+UID:20260930-123000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T123000
+DTEND;TZID=America/New_York:20260930T131500
+SUMMARY:Korean Association of Harvard Law School: Study Tips and Outlining Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: New York Market Lunch Want to practice in the largest legal market in the world, which is home to 40% of all summer associate positions\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-143000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T143000
-DTEND;TZID=America/New_York:20260929T163000
-SUMMARY:Paul Hastings 1L Coffee Chat
+UID:20260930-173000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T173000
+DTEND;TZID=America/New_York:20260930T193000
+SUMMARY:Law Firm Kickoff Reception – Practice Areas
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Paul Hastings 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Law Firm Kickoff Reception – Practice Areas With a focus on law firm practice areas, our first reception of the school year will feature mor\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-173000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T173000
-DTEND;TZID=America/New_York:20260929T200000
-SUMMARY:Knobbe Martens 1L Reception
+UID:20260930-180000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T180000
+DTEND;TZID=America/New_York:20260930T190000
+SUMMARY:NALSA General Body Meeting
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Knobbe Martens 1L Reception See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Come meet fellow members, learn about our upcoming events and opportunities, and enjoy dinner\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20260929-180000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T180000
-DTEND;TZID=America/New_York:20260929T193000
-SUMMARY:HLS Dems Reading Group: FDR and the New Deal
+UID:20260930-190000@harvard-food-events
+DTSTAMP:2026-09-23T13:31:31Z
+DTSTART;TZID=America/New_York:20260930T190000
+DTEND;TZID=America/New_York:20260930T210000
+SUMMARY:HLS Pub Trivia
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Light food will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20260929-190000@harvard-food-events
-DTSTAMP:2026-09-22T13:23:36Z
-DTSTART;TZID=America/New_York:20260929T190000
-DTEND;TZID=America/New_York:20260929T210000
-SUMMARY:Cleary 1L Reception
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Cleary 1L Reception See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
