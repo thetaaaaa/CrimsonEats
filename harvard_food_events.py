@@ -27,6 +27,7 @@ import re
 import time
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -229,7 +230,7 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                     continue
 
                 title   = a_tag.get_text(" ", strip=True)
-                ev_url  = a_tag.get("href", "")
+                ev_url  = urljoin(cal["url"], a_tag.get("href", ""))
                 uid     = ev_url or title
                 if uid in seen:
                     continue
@@ -243,7 +244,13 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                 desc    = desc_el.get_text(" ", strip=True) if desc_el else ""
                 full_text = title + " " + desc
 
-                if not _has_food(full_text):
+                food_note = ""
+                if _has_food(full_text):
+                    food_note = _food_snippet(full_text)
+                elif ev_url:
+                    # HLS 部分活动的餐饮信息仅在详情页，列表摘要可能缺失关键词
+                    food_note = _fetch_detail_food(ev_url)
+                if not food_note:
                     continue
 
                 results.append({
@@ -251,7 +258,7 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                     "start_datetime": start_t,
                     "end_datetime":   end_t,
                     "location":       "Harvard Law School",
-                    "food_note":      _food_snippet(full_text),
+                    "food_note":      food_note,
                     "event_url":      ev_url,
                     "calendar":       cal.get("abbr", cal["name"]),
                 })
