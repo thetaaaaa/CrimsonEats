@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 2 – October 9, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-02 14:05 ET**
+> **October 3 – October 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-03 12:48 ET**
 
 ---
 
@@ -16,24 +16,19 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Friday, October 2
+## Saturday, October 3
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 9:30 AM – 4:30 PM | [Publius in our Time: Federalist Papers in our Contemporary Constitutional Moment](https://hls.harvard.edu/events/publius-in-our-time-federalist-papers-in-our-contemporary-constitutional-moment/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [Harvard Health Law Society – Big Law Panel](https://hls.harvard.edu/events/harvard-health-law-society-big-law-panel/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-7/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:30 PM – 4:30 PM | [Sullivan & Cromwell 1L Coffee Chat](https://hls.harvard.edu/events/sullivan-cromwell-1l-coffee-chat-2/) | Sullivan & Cromwell 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 5:45 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-5/) | We begin with dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:30 AM – 8:30 PM | [VthePeople](https://hls.harvard.edu/events/vthepeople-2/) | Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list VthePeople: Am | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:30 AM – 1:30 PM | [HELR First Subcite](https://hls.harvard.edu/events/helr-first-subcite/) | Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list This is the fi | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 3:00 PM – 5:00 PM | [Alumni in Residence with Sengal Selassie J.D./M.B.A. ’95 of Brightwood Capital Advisors, LLC](https://hls.harvard.edu/events/alumni-in-residence-with-sengal-selassie-j-d-m-b-a-95-of-brightwood-capital-advisors-llc-2/) | Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list Friday, Octobe | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
-## Friday, October 9
+## Saturday, October 10
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 11:00 AM – 2:00 PM | [JOLT Technology & IP Career Fair](https://hls.harvard.edu/events/jolt-technology-ip-career-fair/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:30 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-13/) | Lunch provided every week | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 4:00 PM – 5:00 PM | [HLS BFI – Coffee Chat with James Yoon, Wasserstein Fellow](https://hls.harvard.edu/events/hls-bfi-coffee-chat-with-james-yoon-wasserstein-fellow/) | HLS BFI – Coffee Chat with James Yoon, Wasserstein Fellow Join HLS BFI for a coffee chat with Wasserstein Fellow James Yoon, Acting Assistan | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 5:45 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-4/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 9:00 AM – 5:30 PM | [Celebrating the Scholarship and Legacy of Professor Elizabeth J. Perry](https://fairbank.fas.harvard.edu/events/celebrating-the-scholarship-and-legacy-of-professor-elizabeth-j-perry/) | Coffee Break Panel II: China in Comparative Perspective 11:10 a | Yenching Auditorium, 2 Divinity Ave. | Fairbank Center |
 
 ---
 
