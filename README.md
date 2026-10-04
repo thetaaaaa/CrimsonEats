@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 3 – October 10, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-03 12:48 ET**
+> **October 4 – October 11, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-04 13:07 ET**
 
 ---
 
@@ -15,14 +15,6 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
 
 ---
-
-## Saturday, October 3
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 8:30 AM – 8:30 PM | [VthePeople](https://hls.harvard.edu/events/vthepeople-2/) | Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list VthePeople: Am | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 8:30 AM – 1:30 PM | [HELR First Subcite](https://hls.harvard.edu/events/helr-first-subcite/) | Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list This is the fi | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 3:00 PM – 5:00 PM | [Alumni in Residence with Sengal Selassie J.D./M.B.A. ’95 of Brightwood Capital Advisors, LLC](https://hls.harvard.edu/events/alumni-in-residence-with-sengal-selassie-j-d-m-b-a-95-of-brightwood-capital-advisors-llc-2/) | Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list Friday, Octobe | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Saturday, October 10
 

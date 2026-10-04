@@ -20,41 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261003-083000@harvard-food-events
-DTSTAMP:2026-10-03T12:49:28Z
-DTSTART;TZID=America/New_York:20261003T083000
-DTEND;TZID=America/New_York:20261003T203000
-SUMMARY:VthePeople
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list VthePeople: Am\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261003-083000@harvard-food-events
-DTSTAMP:2026-10-03T12:49:28Z
-DTSTART;TZID=America/New_York:20261003T083000
-DTEND;TZID=America/New_York:20261003T133000
-SUMMARY:HELR First Subcite
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list This is the fi\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261003-150000@harvard-food-events
-DTSTAMP:2026-10-03T12:49:28Z
-DTSTART;TZID=America/New_York:20261003T150000
-DTEND;TZID=America/New_York:20261003T170000
-SUMMARY:Alumni in Residence with Sengal Selassie J.D./M.B.A. ’95 of Brightwood Capital Advisors, LLC
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Trump Field Trip October 5 • 8:15 am - 10:00 am Fried Frank 1L Coffee Chat October 5 • 11:30 am - 1:30 pm Back to events list Friday, Octobe\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20261010-090000@harvard-food-events
-DTSTAMP:2026-10-03T12:49:28Z
+DTSTAMP:2026-10-04T13:07:51Z
 DTSTART;TZID=America/New_York:20261010T090000
 DTEND;TZID=America/New_York:20261010T173000
 SUMMARY:Celebrating the Scholarship and Legacy of Professor Elizabeth J. Perry
