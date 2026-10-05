@@ -4,7 +4,7 @@
 
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **September 27 – October 4, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-27 13:19 ET**
+> **September 26 – October 3, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-09-26 12:47 ET**
 
 ---
 
@@ -16,11 +16,11 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Sunday, September 27
+## Saturday, September 26
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 9:00 AM – 2:00 PM | [JOLT Fall Subcite](https://hls.harvard.edu/events/jolt-fall-subcite-2/) | Breakfast / lunch / dinner will be provided, and we look forward to seeing you | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 8:00 AM – 5:00 PM | [JOLT Fall Subcite](https://hls.harvard.edu/events/jolt-fall-subcite/) | Breakfast / lunch / dinner will be provided, and we look forward to seeing you | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
