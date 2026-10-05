@@ -20,13 +20,46 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261010-090000@harvard-food-events
-DTSTAMP:2026-10-04T13:07:51Z
-DTSTART;TZID=America/New_York:20261010T090000
-DTEND;TZID=America/New_York:20261010T173000
-SUMMARY:Celebrating the Scholarship and Legacy of Professor Elizabeth J. Perry
-LOCATION:Yenching Auditorium, 2 Divinity Ave.
-DESCRIPTION:Food: Coffee Break Panel II: China in Comparative Perspective 11:10 a\n\nSource: Fairbank Center
+UID:20260408-120000@harvard-food-events
+DTSTAMP:2026-04-04T09:43:59Z
+DTSTART;TZID=America/New_York:20260408T120000
+DTEND;TZID=America/New_York:20260408T133000
+SUMMARY:Pedro Sant'anna (Applied Stats Workshop)
+LOCATION:[CGIS Knafel Building, Room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
+CATEGORIES:IQSS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260409-120000@harvard-food-events
+DTSTAMP:2026-04-04T09:43:59Z
+DTSTART;TZID=America/New_York:20260409T120000
+DTEND;TZID=America/New_York:20260409T140000
+SUMMARY:Matt Dardet (APRW)
+LOCATION:[CGIS Knafel room K354](https://www.google.com/maps/search/1737+Cambridge+Street,+Cambridge,+MA+02138)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: IQSS
+CATEGORIES:IQSS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260409-122000@harvard-food-events
+DTSTAMP:2026-04-04T09:43:59Z
+DTSTART;TZID=America/New_York:20260409T122000
+DTEND;TZID=America/New_York:20260409T132000
+SUMMARY:What Would a Rational and Effective U.S.-China Trade Policy Look Like? Is One Still Possible?
+LOCATION:[WCC B015, Wasserstein Hall, 1585 Massachusetts Ave.](https://www.google.com/maps/search/1585+Massachusetts+Avenue,+Cambridge,+MA+02138)
+DESCRIPTION:Food: A light lunch will be provided\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20260409-150000@harvard-food-events
+DTSTAMP:2026-04-04T09:43:59Z
+DTSTART;TZID=America/New_York:20260409T150000
+DTEND;TZID=America/New_York:20260409T173000
+SUMMARY:Discovering History in China: Remembering Paul Cohen
+LOCATION:[Lower Level Conference Center Rooms 4-5, Gutman Library, 6 Appian Way](https://www.google.com/maps/search/6+Appian+Way,+Cambridge,+MA+02138)
+DESCRIPTION:Food: Patterson Giersch, Edith Stix Wasserman Professor in Asian Studies and Professor of History, Wellesley College Joanna Handlin Smith, Editor\n\nSource: Fairbank Center
 CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT

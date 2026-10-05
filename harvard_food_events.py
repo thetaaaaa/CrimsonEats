@@ -27,7 +27,6 @@ import re
 import time
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
-from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -230,7 +229,7 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                     continue
 
                 title   = a_tag.get_text(" ", strip=True)
-                ev_url  = urljoin(cal["url"], a_tag.get("href", ""))
+                ev_url  = a_tag.get("href", "")
                 uid     = ev_url or title
                 if uid in seen:
                     continue
@@ -244,13 +243,7 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                 desc    = desc_el.get_text(" ", strip=True) if desc_el else ""
                 full_text = title + " " + desc
 
-                food_note = ""
-                if _has_food(full_text):
-                    food_note = _food_snippet(full_text)
-                elif ev_url:
-                    # HLS 部分活动的餐饮信息仅在详情页，列表摘要可能缺失关键词
-                    food_note = _fetch_detail_food(ev_url)
-                if not food_note:
+                if not _has_food(full_text):
                     continue
 
                 results.append({
@@ -258,7 +251,7 @@ def fetch_hls(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
                     "start_datetime": start_t,
                     "end_datetime":   end_t,
                     "location":       "Harvard Law School",
-                    "food_note":      food_note,
+                    "food_note":      _food_snippet(full_text),
                     "event_url":      ev_url,
                     "calendar":       cal.get("abbr", cal["name"]),
                 })
@@ -980,9 +973,6 @@ def write_html(events: list[dict], path: str, now: datetime) -> None:
 </head>
 <body>
   <header>
-    <div style="text-align: center; margin-bottom: 1rem;">
-      <img src="assets/logo.svg" alt="CrimsonEats Logo" width="300" />
-    </div>
     <h1>🎓 Free Food at Harvard — <span>Next 7 Days</span></h1>
     <p class="meta">
       {now.strftime("%B %-d")} – {end_dt.strftime("%B %-d, %Y")} &nbsp;·&nbsp;
@@ -1040,10 +1030,6 @@ def write_readme(events: list[dict], path: str, now: datetime) -> None:
             no_date.append(ev)
 
     lines = []
-    lines.append('<p align="center">')
-    lines.append('  <img src="assets/logo.svg" alt="CrimsonEats Logo" width="400" />')
-    lines.append('</p>')
-    lines.append("")
     lines.append("# 🎓 Free Food at Harvard — Next 7 Days")
     lines.append("")
     
