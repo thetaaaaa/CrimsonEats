@@ -44,16 +44,5 @@ jobs:
             echo "No changes to files — skipping commit."
           else
             git commit -m $'chore: update food events, calendar [skip ci]\n\nCo-Authored-By: Copilot <223556219+Copilot@users.noreply.github.com>'
-            for attempt in 1 2 3; do
-              git pull --rebase origin main
-              if git push; then
-                break
-              fi
-              if [ "$attempt" -eq 3 ]; then
-                echo "Push failed after 3 attempts."
-                exit 1
-              fi
-              echo "Push rejected (non-fast-forward). Retrying..."
-              sleep 2
-            done
+            git push
           fi
