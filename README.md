@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 8 – October 15, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-08 15:02 ET**
+> **October 9 – October 16, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-09 14:33 ET**
 
 ---
 
@@ -12,17 +12,12 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Thursday, October 8
+## Friday, October 9
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 11:30 AM – 1:30 PM | [Weil 1L Coffee Chat](https://hls.harvard.edu/events/weil-1l-coffee-chat-2/) | Weil 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:00 PM – 2:00 PM | [La Alianza Lunch Panel: Corporate vs Litigation](https://hls.harvard.edu/events/la-alianza-lunch-panel-corporate-vs-litigation/) | La Alianza Lunch Panel: Corporate vs Litigation La Alianza will host a panel discussion with BigLaw associates on the differences between co | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [Harvard Health Law Society – Hogan Lovells Cadwalader Panel](https://hls.harvard.edu/events/harvard-health-law-society-hogan-lovells-cadwalader-panel/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [LIDS Introductory Meeting](https://hls.harvard.edu/events/lids-introductory-meeting/) | Non-pizza lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:30 PM | [Texas Market Lunch](https://hls.harvard.edu/events/texas-market-lunch/) | Texas Market Lunch Thinking about private practice in Houston, Dallas, Austin, or another Texas market | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Building a Career in Cyber Law: A Prosecutor’s Perspective](https://hls.harvard.edu/events/building-a-career-in-cyber-law-a-prosecutors-perspective/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 3:30 PM – 5:30 PM | [Explore Allston Bike + Scooter Tour 🛴🗺️🚴‍♀️](https://hls.harvard.edu/events/explore-allston-bike-scooter-tour-%f0%9f%9b%b4%f0%9f%97%ba%ef%b8%8f%f0%9f%9a%b4%e2%99%80%ef%b8%8f/) | Allston has tons of restaurants, coffee shops, murals, parks, and a sauna village | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 11:00 AM – 2:00 PM | [JOLT Technology & IP Career Fair](https://hls.harvard.edu/events/jolt-technology-ip-career-fair/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 4:00 PM – 5:00 PM | [HLS BFI – Coffee Chat with James Yoon, Wasserstein Fellow](https://hls.harvard.edu/events/hls-bfi-coffee-chat-with-james-yoon-wasserstein-fellow/) | HLS BFI – Coffee Chat with James Yoon, Wasserstein Fellow Join HLS BFI for a coffee chat with Wasserstein Fellow James Yoon, Acting Assistan | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Saturday, October 10
 
@@ -30,18 +25,14 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 |------|-------|------|----------|--------|
 | 9:00 AM – 5:30 PM | [Celebrating the Scholarship and Legacy of Professor Elizabeth J. Perry](https://fairbank.fas.harvard.edu/events/celebrating-the-scholarship-and-legacy-of-professor-elizabeth-j-perry/) | Coffee Break Panel II: China in Comparative Perspective 11:10 a | Yenching Auditorium, 2 Divinity Ave. | Fairbank Center |
 
-## Thursday, October 15
+## Friday, October 16
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:15 PM – 1:15 PM | [Harvard Health Law Society x Sheppard – Panel Discussion](https://hls.harvard.edu/events/harvard-health-law-society-x-sheppard-panel-discussion/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:20 PM | [When Washington Comes Knocking: Federal Government Involvement in the 2026 Election](https://hls.harvard.edu/events/federal-government-involvement-in-the-2026-election/) | RSVP for the lunch talk here: https://tinyurl | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Lunch talk with Chris Lu](https://hls.harvard.edu/events/lunch-talk-with-chris-lu/) | Lunch talk with Chris Lu Join HLS Dems for an event with Ambassador Chris Lu, former Ambassador to the UN for Management and Reform, and for | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Your Dream Job Is in a State Attorney General’s Office](https://hls.harvard.edu/events/your-dream-job-is-in-a-state-attorney-generals-office/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Boston Market Lunch](https://hls.harvard.edu/events/boston-market-lunch/) | Boston Market Lunch Enjoying Boston | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 3:00 PM – 4:00 PM | [International Legal Studies Coffee Hour](https://hls.harvard.edu/events/international-legal-studies-coffee-hour-2/) | International Legal Studies Coffee Hour Join ILS staff and your classmates for a coffee, tea and snack break and informal networking among s | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 5:30 PM – 7:00 PM | [In Conversation with Bruce Friedrich](https://hls.harvard.edu/events/in-conversation-with-bruce-friedrich/) | In Conversation with Bruce Friedrich In Conversation with Bruce Friedrich, Founder and President of the Good Food Institute and author of ME | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:30 PM – 8:30 PM | [First Class Firm Reception](https://hls.harvard.edu/events/first-class-firm-reception-2/) | First Class Firm Reception You’re formally invited to First Class’s Annual Firm Reception on Thursday, October 15th from 6:30-8:30 at Grafto | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:00 PM – 2:00 PM | [Dechert 1L Coffee Chat](https://hls.harvard.edu/events/dechert-1l-coffee-chat-2/) | Dechert 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Legal Research Lunch and Learn with Lexis & Westlaw for 1Ls and LLMs](https://hls.harvard.edu/events/lexis-westlaw-introductory-lunch-session-for-1ls-and-llms-2/) | Legal Research Lunch and Learn with Lexis & Westlaw for 1Ls and LLMs Westlaw and Lexis are hosting an introductory lunch session covering bo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Milbank 1L Coffee Chat](https://hls.harvard.edu/events/milbank-1l-coffee-chat-2/) | Milbank 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-3/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
