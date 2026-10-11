@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 10 – October 17, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-10 13:29 ET**
+> **October 11 – October 18, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-11 13:49 ET**
 
 ---
 
@@ -12,12 +12,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Saturday, October 10
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 9:00 AM – 5:30 PM | [Celebrating the Scholarship and Legacy of Professor Elizabeth J. Perry](https://fairbank.fas.harvard.edu/events/celebrating-the-scholarship-and-legacy-of-professor-elizabeth-j-perry/) | Coffee Break Panel II: China in Comparative Perspective 11:10 a | Yenching Auditorium, 2 Divinity Ave. | Fairbank Center |
-
+*No food events found for the next 7 days. Check back tomorrow!*
 ---
 
 **Sources monitored:**
