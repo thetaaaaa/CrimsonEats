@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 11 – October 18, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-11 13:49 ET**
+> **October 12 – October 19, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-12 17:25 ET**
 
 ---
 
@@ -12,7 +12,17 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-*No food events found for the next 7 days. Check back tomorrow!*
+## Monday, October 19
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 11:30 AM – 1:30 PM | [Goulston & Storrs 1L Coffee Chat](https://hls.harvard.edu/events/goulston-storrs-1l-coffee-chat-2/) | Goulston & Storrs 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Economic National Security Law: The Future of Sanctions and Illicit Finance](https://hls.harvard.edu/events/economic-national-security-law-the-future-of-sanctions-and-illicit-finance/) | Economic National Security Law: The Future of Sanctions and Illicit Finance The National Security & Law Association is hosting a lunch talk  | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:20 PM | [HLS Study Abroad Information Session](https://hls.harvard.edu/events/hls-study-abroad-information-session-3/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:20 PM | [The Scalia Lecture: The Federalist Bill of Rights](https://hls.harvard.edu/events/the-scalia-lecture-the-federalist-bill-of-rights/) | Goldberg Lunch will be served… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [California Market Lunch](https://hls.harvard.edu/events/california-market-lunch/) | California Market Lunch Do you believe the West Coast is the best coast | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Skadden 1L Coffee Chat](https://hls.harvard.edu/events/skadden-1l-coffee-chat-2/) | Skadden 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
 ---
 
 **Sources monitored:**
