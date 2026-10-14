@@ -20,156 +20,255 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261013-121500@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261013T121500
-DTEND;TZID=America/New_York:20261013T133000
-SUMMARY:Morrison Foerster x National Security Journal
+UID:20261014-120000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T120000
+DTEND;TZID=America/New_York:20261014T140000
+SUMMARY:La Alianza x Weil Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Morrison Foerster x National Security Journal Please join the National Security Journal as we welcome attorneys from Morrison Foerster’s nat\n\nSource: HLS
+DESCRIPTION:Food: La Alianza x Weil Coffee Chat La Alianza will host attorneys from Weil for a coffee chat to discuss practice areas, firm life and recruiting\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261013-122000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261013T122000
-DTEND;TZID=America/New_York:20261013T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20261014-121500@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T121500
+DTEND;TZID=America/New_York:20261014T132000
+SUMMARY:Open Inquiry Discussion: U.S. Intervention in Iran & Venezuela
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: At this lunch discussion, we will be focusing on evaluating recent…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261013-123000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261013T123000
-DTEND;TZID=America/New_York:20261013T131500
-SUMMARY:Understanding Law Firm Economics with Williams & Connolly
+UID:20261014-121500@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T121500
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:CSEL Lunch Talk with The Kraft Group
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: ” Lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: CSEL Lunch Talk with The Kraft Group The Committee on Sports and Entertainment Law invites you to join us for lunch and a discussion with Ji\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-083000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T083000
-DTEND;TZID=America/New_York:20261020T093000
-SUMMARY:Coffee with PILSA: Navigating the OPIA Website and CSM
+UID:20261014-121500@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T121500
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:JOLT x Daniel Etcovitch (Anthropic)
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Coffee with PILSA: Navigating the OPIA Website and CSM We know–the OPIA website and CSM can be confusing sometimes\n\nSource: HLS
+DESCRIPTION:Food: JOLT x Daniel Etcovitch (Anthropic) Please join JOLT for a lunch talk with Daniel Etcovitch, Copyright Counsel at Anthropic\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-113000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T113000
-DTEND;TZID=America/New_York:20261020T133000
-SUMMARY:Clifford Chance 1L Coffee Chat
+UID:20261014-121500@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T121500
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:AZA Lunch & Learn: Practicing in a Litigation Boutique
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Clifford Chance 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: AZA Lunch & Learn: Practicing in a Litigation Boutique Looking for more than outlines and doc review\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-120000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T120000
-DTEND;TZID=America/New_York:20261020T140000
-SUMMARY:La Alianza Lunch Panel: Picking a Practice Group
+UID:20261014-123000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T123000
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:HALB x Cooley
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: La Alianza Lunch Panel: Picking a Practice Group La Alianza will host a panel discussion with BigLaw associates on the different work they h\n\nSource: HLS
+DESCRIPTION:Food: HALB x Cooley Join Cooley attorneys from across various offices for a lunch & learn with HALB\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-121500@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T121500
-DTEND;TZID=America/New_York:20261020T131500
-SUMMARY:Clifford Chance x Harvard Texas Club: Litigation vs. Transactional Panel
+UID:20261014-123000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T123000
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:Keeping Watch on AI: Incident Reporting & Government Oversight
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Genki ya will be catered\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-123000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T123000
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:Law (and Jobs) for Animal Lovers
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: There will be lunch\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-123000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T123000
+DTEND;TZID=America/New_York:20261014T131500
+SUMMARY:International Student Q&A
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring your lunch and your questions to an informal meeting with OCS’s Yih-hsien Shen and OPIA’s Jillian Tuck\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-140000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T140000
+DTEND;TZID=America/New_York:20261014T150000
+SUMMARY:Lambda Drop-in Coffee Chats with Perkins Coie
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lambda Drop-in Coffee Chats with Perkins Coie Come join Perkins Coie and Lambda for a coffee chat about recruitment\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-180000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T180000
+DTEND;TZID=America/New_York:20261014T203000
+SUMMARY:Across This Table
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Across This Table Across This Table is an annual gathering that brings Harvard students, faculty, and staff together for an unforgettable ev\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014-190000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261014T190000
+DTEND;TZID=America/New_York:20261014T210000
+SUMMARY:HLS Pub Trivia
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-113000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T113000
+DTEND;TZID=America/New_York:20261021T133000
+SUMMARY:Cooley 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Cooley 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-121500@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T121500
+DTEND;TZID=America/New_York:20261021T131500
+SUMMARY:JOLT x Quinn Emanuel
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: JOLT x Quinn Emanuel Join JOLT for a lunch talk with partners from Quinn Emanuel’s Los Angeles office who recently secured a record-setting\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-121500@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T121500
+DTEND;TZID=America/New_York:20261021T131500
+SUMMARY:A Panel of Current 2L and 3Ls: A Day in the Life of a Summer Associate
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-121500@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T121500
-DTEND;TZID=America/New_York:20261020T131500
-SUMMARY:Lunch Talk with Dr. E. Michael Harrington
+UID:20261021-122000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T122000
+DTEND;TZID=America/New_York:20261021T132000
+SUMMARY:The Francis Biddle Memorial Lecture: The Eras of Equal Protection
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch Talk with Dr\n\nSource: HLS
+DESCRIPTION:Food: Slaughter Professor of Law, Yale Law School Introduction by Professor Guy-Uriel Charles Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-122000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T122000
-DTEND;TZID=America/New_York:20261020T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20261021-122000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T122000
+DTEND;TZID=America/New_York:20261021T132000
+SUMMARY:Beyond Tariffs and Subsidies: Toward a New Framework for U.S. Industrial Policy
+LOCATION:WCC 3016, Wasserstein Hall, 1585 Massachusetts Ave.
+DESCRIPTION:Food: A light lunch will be provided\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021-123000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T123000
+DTEND;TZID=America/New_York:20261021T131500
+SUMMARY:Let’s Talk About Money: Demystifying Public Interest Salaries
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-123000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T123000
-DTEND;TZID=America/New_York:20261020T131500
-SUMMARY:Catholic Law Students Association: “Finding Holiness in Everyday Life”
+UID:20261021-123000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T123000
+DTEND;TZID=America/New_York:20261021T131500
+SUMMARY:Community Lunch
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Catholic Law Students Association: “Finding Holiness in Everyday Life” The Catholic Law Students Association will meet for a spiritual discu\n\nSource: HLS
+DESCRIPTION:Food: Community Lunch Join the Alliance for Israel for lunch\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-123000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T123000
-DTEND;TZID=America/New_York:20261020T131500
-SUMMARY:JOLT x Wilson Sonsini
+UID:20261021-143000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T143000
+DTEND;TZID=America/New_York:20261021T163000
+SUMMARY:Quinn Emanuel 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOLT x Wilson Sonsini Join JOLT for a lunch talk with law firm Wilson Sonsini to learn more about their practice\n\nSource: HLS
+DESCRIPTION:Food: Quinn Emanuel 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-123000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T123000
-DTEND;TZID=America/New_York:20261020T131500
-SUMMARY:Practice Group Pitches with Covington
+UID:20261021-180000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T180000
+DTEND;TZID=America/New_York:20261021T200000
+SUMMARY:First Class Community Dinner
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Join us for a lunch panel featuring three attorneys who will each make the case for their practice group\n\nSource: HLS
+DESCRIPTION:Food: First Class Community Dinner Come join us for our monthly First Class Community Dinner\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-143000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T143000
-DTEND;TZID=America/New_York:20261020T163000
-SUMMARY:Jenner & Block 1L Coffee Chat
+UID:20261021-183000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T183000
+DTEND;TZID=America/New_York:20261021T203000
+SUMMARY:Sidley Austin x Texas Club: 1L Dinner
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Jenner & Block 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Sidley Austin x Texas Club: 1L Dinner Join attorneys from Sidley Austin and members of the Texas Club for a dinner on the evening of Wednesd\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261020-153000@harvard-food-events
-DTSTAMP:2026-10-13T15:35:20Z
-DTSTART;TZID=America/New_York:20261020T153000
-DTEND;TZID=America/New_York:20261020T163000
-SUMMARY:Lambda Drop-in Coffee Chats with Weil
+UID:20261021-190000@harvard-food-events
+DTSTAMP:2026-10-14T13:39:00Z
+DTSTART;TZID=America/New_York:20261021T190000
+DTEND;TZID=America/New_York:20261021T210000
+SUMMARY:HLS Pub Trivia
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lambda Drop-in Coffee Chats with Weil Meet with representatives from Weil, Gotshal & Manges LLP to learn more about the firm’s career opport\n\nSource: HLS
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
