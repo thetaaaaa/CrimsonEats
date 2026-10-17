@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 16 – October 23, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-16 13:00 ET**
+> **October 17 – October 24, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-17 11:59 ET**
 
 ---
 
@@ -12,28 +12,11 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Friday, October 16
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:00 PM – 2:00 PM | [Dechert 1L Coffee Chat](https://hls.harvard.edu/events/dechert-1l-coffee-chat-2/) | Dechert 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [How to Decommodify Nature](https://hls.harvard.edu/events/how-to-decommodify-nature/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Legal Research Lunch and Learn with Lexis & Westlaw for 1Ls and LLMs](https://hls.harvard.edu/events/lexis-westlaw-introductory-lunch-session-for-1ls-and-llms-2/) | Legal Research Lunch and Learn with Lexis & Westlaw for 1Ls and LLMs Westlaw and Lexis are hosting an introductory lunch session covering bo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:30 PM – 4:30 PM | [Milbank 1L Coffee Chat](https://hls.harvard.edu/events/milbank-1l-coffee-chat-2/) | Milbank 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:00 PM | [HLS Christian Fellowship Friday Night](https://hls.harvard.edu/events/hls-christian-fellowship-friday-night-3/) | We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
 ## Wednesday, October 21
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
 | 12:20 PM – 1:20 PM | [Beyond Tariffs and Subsidies: Toward a New Framework for U.S. Industrial Policy](https://fairbank.fas.harvard.edu/events/beyond-tariffs-and-subsidies-toward-a-new-framework-for-u-s-industrial-policy/) | A light lunch will be provided | WCC 3016, Wasserstein Hall, 1585 Massachusetts Ave. | Fairbank Center |
-
-## Friday, October 23
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:00 PM – 2:00 PM | [Jones Day 1L Coffee Chat](https://hls.harvard.edu/events/jones-day-1l-coffee-chat-2/) | Jones Day 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [How to Land a Post-Graduate Public Interest Job](https://hls.harvard.edu/events/opias-life-after-law-school-series-how-to-land-a-public-interest-job-2/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
