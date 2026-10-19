@@ -20,14 +20,124 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:20261019-113000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261019T113000
+DTEND;TZID=America/New_York:20261019T133000
+SUMMARY:Goulston & Storrs 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Goulston & Storrs 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-121500@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261019T121500
+DTEND;TZID=America/New_York:20261019T131500
+SUMMARY:Economic National Security Law: The Future of Sanctions and Illicit Finance
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Economic National Security Law: The Future of Sanctions and Illicit Finance The National Security & Law Association is hosting a lunch talk\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-122000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261019T122000
+DTEND;TZID=America/New_York:20261019T132000
+SUMMARY:The Scalia Lecture: The Federalist Bill of Rights
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Goldberg Lunch will be served…\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-122000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261019T122000
+DTEND;TZID=America/New_York:20261019T132000
+SUMMARY:HLS Study Abroad Information Session
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-123000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261019T123000
+DTEND;TZID=America/New_York:20261019T131500
+SUMMARY:California Market Lunch
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: California Market Lunch Do you believe the West Coast is the best coast\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019-143000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261019T143000
+DTEND;TZID=America/New_York:20261019T163000
+SUMMARY:Skadden 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Skadden 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:20261021-122000@harvard-food-events
-DTSTAMP:2026-10-18T12:11:39Z
+DTSTAMP:2026-10-19T14:52:11Z
 DTSTART;TZID=America/New_York:20261021T122000
 DTEND;TZID=America/New_York:20261021T132000
 SUMMARY:Beyond Tariffs and Subsidies: Toward a New Framework for U.S. Industrial Policy
 LOCATION:WCC 3016, Wasserstein Hall, 1585 Massachusetts Ave.
 DESCRIPTION:Food: A light lunch will be provided\n\nSource: Fairbank Center
 CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-121500@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261026T121500
+DTEND;TZID=America/New_York:20261026T133000
+SUMMARY:Lawyering for Liberation – Panel & Discussion
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-123000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261026T123000
+DTEND;TZID=America/New_York:20261026T131500
+SUMMARY:Baker Botts Lunch Talk
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Baker Botts Lunch Talk Join Baker Botts lunch talk on Monday, October 26th\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-143000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261026T143000
+DTEND;TZID=America/New_York:20261026T163000
+SUMMARY:Greenberg Traurig 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Greenberg Traurig 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026-153000@harvard-food-events
+DTSTAMP:2026-10-19T14:52:11Z
+DTSTART;TZID=America/New_York:20261026T153000
+DTEND;TZID=America/New_York:20261026T173000
+SUMMARY:La Alianza x Cravath Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: La Alianza x Cravath Coffee Chat La Alianza will host attorneys from Cravath from 4-5pm for a coffee chat to discuss practice areas, firm li\n\nSource: HLS
+CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
