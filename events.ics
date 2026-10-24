@@ -20,57 +20,13 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261023-120000@harvard-food-events
-DTSTAMP:2026-10-23T13:32:21Z
-DTSTART;TZID=America/New_York:20261023T120000
-DTEND;TZID=America/New_York:20261023T140000
-SUMMARY:Jones Day 1L Coffee Chat
+UID:20261024-100000@harvard-food-events
+DTSTAMP:2026-10-24T12:18:49Z
+DTSTART;TZID=America/New_York:20261024T100000
+DTEND;TZID=America/New_York:20261024T120000
+SUMMARY:La Alianza x Legally Lawtino Admission Resume and Essay Review Session
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Jones Day 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261023-123000@harvard-food-events
-DTSTAMP:2026-10-23T13:32:21Z
-DTSTART;TZID=America/New_York:20261023T123000
-DTEND;TZID=America/New_York:20261023T131500
-SUMMARY:How to Land a Post-Graduate Public Interest Job
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261030-121500@harvard-food-events
-DTSTAMP:2026-10-23T13:32:21Z
-DTSTART;TZID=America/New_York:20261030T121500
-DTEND;TZID=America/New_York:20261030T131500
-SUMMARY:Harvard Health Law Society – Summer Public Interest Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261030-143000@harvard-food-events
-DTSTAMP:2026-10-23T13:32:21Z
-DTSTART;TZID=America/New_York:20261030T143000
-DTEND;TZID=America/New_York:20261030T163000
-SUMMARY:Miller & Chevalier 1L Coffee Chat
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Miller & Chevalier 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261030-180000@harvard-food-events
-DTSTAMP:2026-10-23T13:32:21Z
-DTSTART;TZID=America/New_York:20261030T180000
-DTEND;TZID=America/New_York:20261030T190000
-SUMMARY:HLS Christian Fellowship Friday Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be included\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
