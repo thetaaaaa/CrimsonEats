@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 24 – October 31, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-24 12:18 ET**
+> **October 25 – November 1, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-25 12:52 ET**
 
 ---
 
@@ -12,12 +12,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Saturday, October 24
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 10:00 AM – 12:00 PM | [La Alianza x Legally Lawtino Admission Resume and Essay Review Session](https://hls.harvard.edu/events/la-alianza-x-legally-lawtino-admission-resume-and-essay-review-session/) | Lunch will be included | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
+*No food events found for the next 7 days. Check back tomorrow!*
 ---
 
 **Sources monitored:**

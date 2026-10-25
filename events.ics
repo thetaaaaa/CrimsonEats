@@ -19,15 +19,4 @@ TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:20261024-100000@harvard-food-events
-DTSTAMP:2026-10-24T12:18:49Z
-DTSTART;TZID=America/New_York:20261024T100000
-DTEND;TZID=America/New_York:20261024T120000
-SUMMARY:La Alianza x Legally Lawtino Admission Resume and Essay Review Session
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be included\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
