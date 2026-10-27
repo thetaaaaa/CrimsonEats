@@ -20,134 +20,233 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261026-121500@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261026T121500
-DTEND;TZID=America/New_York:20261026T133000
-SUMMARY:Lawyering for Liberation – Panel & Discussion
+UID:20261027-113000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T113000
+DTEND;TZID=America/New_York:20261027T133000
+SUMMARY:O’Melveny 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: O’Melveny 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-120000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T120000
+DTEND;TZID=America/New_York:20261027T140000
+SUMMARY:La Alianza Presents: A Day in the Life of an Associate
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261026-123000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261026T123000
-DTEND;TZID=America/New_York:20261026T131500
-SUMMARY:ACS Event: SCOTUS Term Preview with Professor Noah Feldman
+UID:20261027-121500@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T121500
+DTEND;TZID=America/New_York:20261027T131500
+SUMMARY:HALB x Cravath
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch to be provided\n\nSource: HLS
+DESCRIPTION:Food: HALB x Cravath Join HALB for a lunch & learn with Cravath, Swaine & Moore LLP\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261026-123000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261026T123000
-DTEND;TZID=America/New_York:20261026T131500
-SUMMARY:Baker Botts Lunch Talk
+UID:20261027-122000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T122000
+DTEND;TZID=America/New_York:20261027T131500
+SUMMARY:Scripture in Community: Public Reading of Scripture
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Baker Botts Lunch Talk Join Baker Botts lunch talk on Monday, October 26th\n\nSource: HLS
+DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261026-143000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261026T143000
-DTEND;TZID=America/New_York:20261026T163000
-SUMMARY:Greenberg Traurig 1L Coffee Chat
+UID:20261027-122000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T122000
+DTEND;TZID=America/New_York:20261027T132000
+SUMMARY:Learn more about the Dispute Systems Design Clinic
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Greenberg Traurig 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261026-153000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261026T153000
-DTEND;TZID=America/New_York:20261026T173000
-SUMMARY:La Alianza x Cravath Coffee Chat
+UID:20261027-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T123000
+DTEND;TZID=America/New_York:20261027T131500
+SUMMARY:JOLT x Covington
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: La Alianza x Cravath Coffee Chat La Alianza will host attorneys from Cravath from 4-5pm for a coffee chat to discuss practice areas, firm li\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-121500@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T121500
+UID:20261027-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T123000
+DTEND;TZID=America/New_York:20261027T131500
+SUMMARY:Defending the Rights of Immigrants and their Families During a Time of Peril
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Michelle will discuss her work over two decades of advocacy for immigrant communities across multiple presidential administrations, primaril\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T123000
+DTEND;TZID=America/New_York:20261027T131500
+SUMMARY:Summer Opportunities in Democracy, Voting Rights, and Election Law
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Summer Opportunities in Democracy, Voting Rights, and Election Law Join the Equal Democracy Project, HLS Dems, and ACS for a lunch talk with\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-143000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T143000
+DTEND;TZID=America/New_York:20261027T163000
+SUMMARY:Ropes & Gray 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Ropes & Gray 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027-180000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T200000
+SUMMARY:Lambda October General Body Meeting
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Dinner and fun provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102-120000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261102T120000
 DTEND;TZID=America/New_York:20261102T131500
-SUMMARY:Career Workshop: Navigating Job Applications and Interviews
+SUMMARY:Journalist Dai Qing and Deng Xiaoping in 1989: A Conversation between Ms. Dai Qing and Professor Rana Mitter
+LOCATION:124 Mount Auburn Street Suite 200N, Ash Center Seminar Room 225, 124 Mt. Auburn St.
+DESCRIPTION:Food: A catered lunch will be available starting at 11:45am\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-103000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T103000
+DTEND;TZID=America/New_York:20261103T143000
+SUMMARY:APALSA-HLEP Firm Fair
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-121500@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T121500
-DTEND;TZID=America/New_York:20261102T131500
-SUMMARY:Career Talk – Life as a Public-Interest Cannabis Lawyer
+UID:20261103-113000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T113000
+DTEND;TZID=America/New_York:20261103T133000
+SUMMARY:Norton Rose Fulbright 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Career Talk – Life as a Public-Interest Cannabis Lawyer The Center for Health Law and Policy Innovation and the Food Law and Policy Clinic i\n\nSource: HLS
+DESCRIPTION:Food: Norton Rose Fulbright 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-121500@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T121500
-DTEND;TZID=America/New_York:20261102T131500
-SUMMARY:HBLR x Sullivan & Cromwell
+UID:20261103-121500@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T121500
+DTEND;TZID=America/New_York:20261103T131500
+SUMMARY:ACS Lunch Talk: Money in Politics with Professors Benjamin Sachs & Nicholas Stephanopoulos
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: ACS Lunch Talk: Money in Politics with Professors Benjamin Sachs & Nicholas Stephanopoulos Please join ACS on Election Day\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-123000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T123000
-DTEND;TZID=America/New_York:20261102T131500
-SUMMARY:Lunch Talk with the Brandeis Center’s Richard Rosen
+UID:20261103-122000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T122000
+DTEND;TZID=America/New_York:20261103T131500
+SUMMARY:Scripture in Community: Public Reading of Scripture
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch Talk with the Brandeis Center’s Richard Rosen JLSA will host Richard Rosen, Senior Vice President for Legal Advocacy at the Brandeis C\n\nSource: HLS
+DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-123000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T123000
-DTEND;TZID=America/New_York:20261102T131500
-SUMMARY:Is Big Law Right For Me? Should I Recruit?
+UID:20261103-122000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T122000
+DTEND;TZID=America/New_York:20261103T132000
+SUMMARY:Networked State Capital in China’s AI Ecosystem
+LOCATION:WCC 3019, Wasserstein Hall
+DESCRIPTION:Food: A light lunch will be served\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T123000
+DTEND;TZID=America/New_York:20261103T131500
+SUMMARY:ACLU Immigrants’ Rights Project – Conversation with Founder, Prof. Lucas Guttentag
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: Lucas Guttentag Professor Lucas Guttentag (HLS ’78) will be giving a lunch talk about his experience founding and leading the ACLU’s Immigra\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-123000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T123000
-DTEND;TZID=America/New_York:20261102T131500
-SUMMARY:JOLT x Paul, Weiss
+UID:20261103-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T123000
+DTEND;TZID=America/New_York:20261103T131500
+SUMMARY:Big Law in the Midwest: Lunch with Kirkland & Ellis Chicago
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOLT x Paul, Weiss Join JOLT for a lunch talk with law firm Paul, Weiss to learn more about their practice\n\nSource: HLS
+DESCRIPTION:Food: Big Law in the Midwest: Lunch with Kirkland & Ellis Chicago Curious about practicing in Chicago or elsewhere in the Midwest\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261102-143000@harvard-food-events
-DTSTAMP:2026-10-26T14:54:07Z
-DTSTART;TZID=America/New_York:20261102T143000
-DTEND;TZID=America/New_York:20261102T163000
-SUMMARY:Wilson Sonsini 1L Coffee Chat
+UID:20261103-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T123000
+DTEND;TZID=America/New_York:20261103T131500
+SUMMARY:JOLT x McKool Smith – Litigating Against AI: Lessons from the Front Line
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Wilson Sonsini 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: JOLT x McKool Smith – Litigating Against AI: Lessons from the Front Line Join JOLT for an AI lunch talk with boutique law firm McKool Smith\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-123000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T123000
+DTEND;TZID=America/New_York:20261103T131500
+SUMMARY:Rejecting the Direct Service/Impact Litigation Binary
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103-143000@harvard-food-events
+DTSTAMP:2026-10-27T14:25:20Z
+DTSTART;TZID=America/New_York:20261103T143000
+DTEND;TZID=America/New_York:20261103T163000
+SUMMARY:DLA Piper 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: DLA Piper 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
