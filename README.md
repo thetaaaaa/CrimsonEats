@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **October 27 – November 3, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-27 14:24 ET**
+> **October 28 – November 4, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-10-28 14:32 ET**
 
 ---
 
@@ -12,20 +12,20 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Tuesday, October 27
+## Wednesday, October 28
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 11:30 AM – 1:30 PM | [O’Melveny 1L Coffee Chat](https://hls.harvard.edu/events/omelveny-1l-coffee-chat/) | O’Melveny 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:00 PM – 2:00 PM | [La Alianza Presents: A Day in the Life of an Associate](https://hls.harvard.edu/events/la-alianza-presents-a-day-in-the-life-of-an-associate/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [HALB x Cravath](https://hls.harvard.edu/events/halb-x-cravath/) | HALB x Cravath Join HALB for a lunch & learn with Cravath, Swaine & Moore LLP | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12480) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:20 PM | [Learn more about the Dispute Systems Design Clinic](https://hls.harvard.edu/events/learn-more-about-the-dispute-systems-design-clinic/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [JOLT x Covington](https://hls.harvard.edu/events/jolt-x-covington-burlington/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Defending the Rights of Immigrants and their Families During a Time of Peril](https://hls.harvard.edu/events/defending-the-rights-of-immigrants-and-their-families-during-a-time-of-peril/) | Michelle will discuss her work over two decades of advocacy for immigrant communities across multiple presidential administrations, primaril | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Summer Opportunities in Democracy, Voting Rights, and Election Law](https://hls.harvard.edu/events/edp-summer-internship-panel/) | Summer Opportunities in Democracy, Voting Rights, and Election Law Join the Equal Democracy Project, HLS Dems, and ACS for a lunch talk with | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:30 PM – 4:30 PM | [Ropes & Gray 1L Coffee Chat](https://hls.harvard.edu/events/ropes-gray-1l-coffee-chat-2/) | Ropes & Gray 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 8:00 PM | [Lambda October General Body Meeting](https://hls.harvard.edu/events/lambda-october-general-body-meeting/) | Dinner and fun provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 9:00 AM – 10:30 AM | [Donuts & Democracy: Election Worker and Volunteer Breakfast](https://hls.harvard.edu/events/donuts-democracy-election-worker-and-volunteer-breakfast/) | Donuts & Democracy: Election Worker and Volunteer Breakfast If you are supporting election administration or voter protection efforts this N | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 11:30 AM – 1:30 PM | [Morgan Lewis 1L Coffee Chat](https://hls.harvard.edu/events/morgan-lewis-1l-coffee-chat/) | Morgan Lewis 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [CSEL Lunch Talk with Mandy Petrillo](https://hls.harvard.edu/events/csel-lunch-talk-with-mandy-petrillo/) | CSEL Lunch Talk with Mandy Petrillo Join the Committee on Sports and Entertainment Law on Wednesday, October 28 at 12:30pm in WCC 3038 for a | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Texas Club Law Firm BBQ](https://hls.harvard.edu/events/texas-club-law-firm-bbq/) | Texas Club Law Firm BBQ BBQ event mixer with Texas law firm representatives | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [ACS Lunch Talk with Rebecca Slaughter](https://hls.harvard.edu/events/acs-lunch-talk-with-rebecca-slaughter/) | ACS Lunch Talk with Rebecca Slaughter Please join ACS, HLS Antitrust Association, and HLS Dems for a conversation with Rebecca Slaughter, fo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [JSEL x Paul, Weiss Lunch Talk](https://hls.harvard.edu/events/jsel-x-paul-weiss-lunch-talk-2/) | JSEL x Paul, Weiss Lunch Talk Join Brian C | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Gibson Dunn 1L Coffee Chat](https://hls.harvard.edu/events/gibson-dunn-1l-coffee-chat-2/) | Gibson Dunn 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 4:00 PM – 5:00 PM | [Antitrust Coffee Chat with Rebecca Slaughter](https://hls.harvard.edu/events/antitrust-coffee-chat-with-rebecca-slaughter/) | Antitrust Coffee Chat with Rebecca Slaughter Join the Antitrust Association for a small group discussion with Rebecca Slaughter, former comm | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [HLS Dems \| Reading Group](https://hls.harvard.edu/events/hls-dems-reading-group-3/) | Dinner will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12109) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Monday, November 2
 
@@ -37,16 +37,22 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 10:30 AM – 2:30 PM | [APALSA-HLEP Firm Fair](https://hls.harvard.edu/events/apalsa-hlep-firm-fair/) | Food will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 11:30 AM – 1:30 PM | [Norton Rose Fulbright 1L Coffee Chat](https://hls.harvard.edu/events/norton-rose-fulbright-1l-coffee-chat/) | Norton Rose Fulbright 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [ACS Lunch Talk: Money in Politics with Professors Benjamin Sachs & Nicholas Stephanopoulos](https://hls.harvard.edu/events/acs-lunch-talk-money-in-politics-with-professors-benjamin-sachs-nicholas-stephanopoulos/) | ACS Lunch Talk: Money in Politics with Professors Benjamin Sachs & Nicholas Stephanopoulos Please join ACS on Election Day | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12481) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 | 12:20 PM – 1:20 PM | [Networked State Capital in China’s AI Ecosystem](https://fairbank.fas.harvard.edu/events/networked-state-capital-in-chinas-ai-ecosystem/) | A light lunch will be served | WCC 3019, Wasserstein Hall | Fairbank Center |
-| 12:30 PM – 1:15 PM | [ACLU Immigrants’ Rights Project – Conversation with Founder, Prof. Lucas Guttentag](https://hls.harvard.edu/events/aclu-immigrants-rights-project-conversation-with-founder-prof-lucas-guttentag-2/) | Lucas Guttentag Professor Lucas Guttentag (HLS ’78) will be giving a lunch talk about his experience founding and leading the ACLU’s Immigra | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Big Law in the Midwest: Lunch with Kirkland & Ellis Chicago](https://hls.harvard.edu/events/big-law-in-the-midwest-lunch-with-kirkland-ellis-chicago/) | Big Law in the Midwest: Lunch with Kirkland & Ellis Chicago Curious about practicing in Chicago or elsewhere in the Midwest | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [JOLT x McKool Smith – Litigating Against AI: Lessons from the Front Line](https://hls.harvard.edu/events/jolt-x-mckool-smith-litigating-against-ai-lessons-from-the-front-line/) | JOLT x McKool Smith – Litigating Against AI: Lessons from the Front Line Join JOLT for an AI lunch talk with boutique law firm McKool Smith | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Rejecting the Direct Service/Impact Litigation Binary](https://hls.harvard.edu/events/rejecting-the-direct-service-impact-litigation-binary/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:30 PM – 4:30 PM | [DLA Piper 1L Coffee Chat](https://hls.harvard.edu/events/dal-piper-1l-coffee-chat/) | DLA Piper 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
+## Wednesday, November 4
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 11:30 AM – 1:30 PM | [Hogan Lovells Cadwalader 1L Coffee Chat](https://hls.harvard.edu/events/hogan-lovells-cadwalader-1l-coffee-chat/) | Hogan Lovells Cadwalader 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Kirkland & Ellis x Texas Club: Lunch & Learn](https://hls.harvard.edu/events/kirkland-lunch-learn/) | Kirkland & Ellis x Texas Club: Lunch & Learn Join attorneys from Kirkland & Ellis to learn more about the firm and their practice groups | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:30 PM | [NSJ Latham & Watkins Lunch Panel](https://hls.harvard.edu/events/nsj-latham-watkins-lunch-panel/) | NSJ Latham & Watkins Lunch Panel Please join the National Security Journal and guests Latham & Watkins for an introduction to the firm’s nat | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Tips for DC Big Law with WLA](https://hls.harvard.edu/events/tips-for-dc-big-law-with-wla/) | Join WLA for a lunch time panel of 2L and 3L students who spent their summers at DC offices of big law firms | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Covington’s West Coast Lunch](https://hls.harvard.edu/events/covingtons-west-coast-lunch/) | Covington’s West Coast Lunch A focused presentation by Covington & Burling practitioners covering regulatory compliance, public policy, and  | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [HLS Dems \| Day After the Election](https://hls.harvard.edu/events/hls-dems-day-after-the-election/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Arnold & Porter 1L Coffee Chat](https://hls.harvard.edu/events/arnold-porter-1l-coffee-chat/) | Arnold & Porter 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:30 PM | [Mentorship on the Menu: WLA Mentor/Mentee Dinner](https://hls.harvard.edu/events/mentorship-on-the-menu-wla-mentor-mentee-dinner/) | Mentorship on the Menu: WLA Mentor/Mentee Dinner Calling all WLA mentor/mentee pairs | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:00 PM – 9:00 PM | [HLS Pub Trivia](https://hls.harvard.edu/events/hls-pub-trivia-5/?occurrence=12110) | Bring friends, grab a drink, and test your knowledge | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 7:30 PM – 9:30 PM | [West Coast Club Dinner with Skadden](https://hls.harvard.edu/events/west-coast-club-dinner-with-skadden/) | West Coast Club Dinner with Skadden Join Skadden Palo Alto and Los Angeles attorneys for an informal dinner | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
