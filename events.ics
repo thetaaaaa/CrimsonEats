@@ -20,85 +20,41 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261029-120000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T120000
-DTEND;TZID=America/New_York:20261029T140000
-SUMMARY:Simpson Thacher 1L Coffee Chat
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Simpson Thacher 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261029-121500@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T121500
-DTEND;TZID=America/New_York:20261029T131500
-SUMMARY:Municipal Bonds: A Conversation with Felipe Ford Cole and Saqib Bhatti (moderated by Corinne Blalock)
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261029-121500@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T121500
-DTEND;TZID=America/New_York:20261029T131500
-SUMMARY:Lunch Talk with Gretchen Sween: Capital Defense Attorney from Austin, TX
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch Talk with Gretchen Sween: Capital Defense Attorney from Austin, TX Join the Texas Club for a lunch talk with Gretchen Sween, a capital\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261029-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T123000
-DTEND;TZID=America/New_York:20261029T131500
-SUMMARY:Responsibly Leveraging AI tools to Succeed in Law School
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Genki Ya sushi will be catered\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261029-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T123000
-DTEND;TZID=America/New_York:20261029T131500
-SUMMARY:JOLT x Mayer Brown — “Day in the Life” Panel
+UID:20261030-121500@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261030T121500
+DTEND;TZID=America/New_York:20261030T131500
+SUMMARY:Harvard Health Law Society – Summer Public Interest Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261029-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T123000
-DTEND;TZID=America/New_York:20261029T133000
-SUMMARY:HALB x Latham & Watkins
+UID:20261030-123000@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261030T123000
+DTEND;TZID=America/New_York:20261030T131500
+SUMMARY:How to Use Westlaw to Fine Tune Your Networking Conversations
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HALB x Latham & Watkins Lunch panel featuring what it is like to work at Latham\n\nSource: HLS
+DESCRIPTION:Food: Pizza & candy will be…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261029-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261029T123000
-DTEND;TZID=America/New_York:20261029T131500
-SUMMARY:Lunch Talk with Professor Vermeule and Father Nathaniel Sanders
+UID:20261030-143000@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261030T143000
+DTEND;TZID=America/New_York:20261030T163000
+SUMMARY:Miller & Chevalier 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch Talk with Professor Vermeule and Father Nathaniel Sanders Join CLSA for a talk from Professor Vermeule and Father Nathaniel Sanders en\n\nSource: HLS
+DESCRIPTION:Food: Miller & Chevalier 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261102-120000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
+DTSTAMP:2026-10-30T14:18:01Z
 DTSTART;TZID=America/New_York:20261102T120000
 DTEND;TZID=America/New_York:20261102T131500
 SUMMARY:Journalist Dai Qing and Deng Xiaoping in 1989: A Conversation between Ms. Dai Qing and Professor Rana Mitter
@@ -109,7 +65,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-122000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
+DTSTAMP:2026-10-30T14:18:01Z
 DTSTART;TZID=America/New_York:20261103T122000
 DTEND;TZID=America/New_York:20261103T132000
 SUMMARY:Networked State Capital in China’s AI Ecosystem
@@ -119,90 +75,46 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-090000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T090000
-DTEND;TZID=America/New_York:20261105T160000
-SUMMARY:HLS Antitrust Association Informal Coffee Chats/Lunch
+UID:20261106-121500@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T133000
+SUMMARY:Beyond the JD: Building A Career On Your Own Terms
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HLS Antitrust Association Informal Coffee Chats/Lunch Join HLS Antitrust Board members for an informal coffee chat\n\nSource: HLS
+DESCRIPTION:Food: Lunch…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-120000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T120000
-DTEND;TZID=America/New_York:20261105T140000
-SUMMARY:Covington & Burling 1L Coffee Chat
+UID:20261106-123000@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261106T123000
+DTEND;TZID=America/New_York:20261106T131500
+SUMMARY:Paul, Weiss Lunch Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Covington & Burling 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Paul, Weiss Lunch Panel Join Paul, Weiss lunch event—learn about the firm & practice group and ask questions\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-121500@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T121500
-DTEND;TZID=America/New_York:20261105T130000
-SUMMARY:Mayer Brown Lunch Panel
+UID:20261106-143000@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261106T143000
+DTEND;TZID=America/New_York:20261106T163000
+SUMMARY:Mayer Brown 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Mayer Brown Lunch Panel Join WLA for a lunch event with attorneys from Mayer Brown representing a variety of practice groups\n\nSource: HLS
+DESCRIPTION:Food: Mayer Brown 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-121500@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T121500
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:Lunch Talk with Professor Andrea J. Martin: The Lawyer’s Role in Recognizing and Resisting Antisemitism
+UID:20261106-180000@harvard-food-events
+DTSTAMP:2026-10-30T14:18:01Z
+DTSTART;TZID=America/New_York:20261106T180000
+DTEND;TZID=America/New_York:20261106T190000
+SUMMARY:HLS Christian Fellowship Friday Night
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch Talk with Professor Andrea J\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:JOLT x Kirkland & Ellis
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOLT x Kirkland & Ellis Join JOLT for a lunch talk with law firm Kirkland to learn more about their practice\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:Tariffs, Supply Chains and the Border: A Conversation with ArentFox Schiff Partner Angela Santos
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: \| Wasserstein Hall, Room 1010 \| Lunch served Angela Santos leads the Customs & Import Compliance practice at ArentFox Schiff and co-leads th\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:WCC O’Melveny Lunch Talk
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: WCC O’Melveny Lunch Talk Join us for an engaging lunch session hosted by the West Coast Club and O’Melveny & Myers LLP\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-180000@harvard-food-events
-DTSTAMP:2026-10-29T14:42:06Z
-DTSTART;TZID=America/New_York:20261105T180000
-DTEND;TZID=America/New_York:20261105T210000
-SUMMARY:Armed Forces Association: Firm Reception
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Armed Forces Association: Firm Reception The HLS Armed Forces Association will host a recruiting reception for its sponsor law firms\n\nSource: HLS
+DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
