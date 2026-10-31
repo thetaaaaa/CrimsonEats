@@ -20,41 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261030-121500@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261030T121500
-DTEND;TZID=America/New_York:20261030T131500
-SUMMARY:Harvard Health Law Society – Summer Public Interest Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261030-123000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261030T123000
-DTEND;TZID=America/New_York:20261030T131500
-SUMMARY:How to Use Westlaw to Fine Tune Your Networking Conversations
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Pizza & candy will be…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261030-143000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261030T143000
-DTEND;TZID=America/New_York:20261030T163000
-SUMMARY:Miller & Chevalier 1L Coffee Chat
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Miller & Chevalier 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20261102-120000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
+DTSTAMP:2026-10-31T13:24:38Z
 DTSTART;TZID=America/New_York:20261102T120000
 DTEND;TZID=America/New_York:20261102T131500
 SUMMARY:Journalist Dai Qing and Deng Xiaoping in 1989: A Conversation between Ms. Dai Qing and Professor Rana Mitter
@@ -65,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-122000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
+DTSTAMP:2026-10-31T13:24:38Z
 DTSTART;TZID=America/New_York:20261103T122000
 DTEND;TZID=America/New_York:20261103T132000
 SUMMARY:Networked State Capital in China’s AI Ecosystem
@@ -75,46 +42,13 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261106-121500@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261106T121500
-DTEND;TZID=America/New_York:20261106T133000
-SUMMARY:Beyond the JD: Building A Career On Your Own Terms
+UID:20261107-090000@harvard-food-events
+DTSTAMP:2026-10-31T13:24:38Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T130000
+SUMMARY:HLPR Subcite
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261106-123000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261106T123000
-DTEND;TZID=America/New_York:20261106T131500
-SUMMARY:Paul, Weiss Lunch Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Paul, Weiss Lunch Panel Join Paul, Weiss lunch event—learn about the firm & practice group and ask questions\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261106-143000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261106T143000
-DTEND;TZID=America/New_York:20261106T163000
-SUMMARY:Mayer Brown 1L Coffee Chat
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Mayer Brown 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261106-180000@harvard-food-events
-DTSTAMP:2026-10-30T14:18:01Z
-DTSTART;TZID=America/New_York:20261106T180000
-DTEND;TZID=America/New_York:20261106T190000
-SUMMARY:HLS Christian Fellowship Friday Night
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: We will have dinner at 5:45 pm and then hear from a speaker, pray together, or engage in a fun activity\n\nSource: HLS
+DESCRIPTION:Food: Breakfast and lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
