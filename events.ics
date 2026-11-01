@@ -21,7 +21,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:20261102-120000@harvard-food-events
-DTSTAMP:2026-10-31T13:24:38Z
+DTSTAMP:2026-11-01T13:09:47Z
 DTSTART;TZID=America/New_York:20261102T120000
 DTEND;TZID=America/New_York:20261102T131500
 SUMMARY:Journalist Dai Qing and Deng Xiaoping in 1989: A Conversation between Ms. Dai Qing and Professor Rana Mitter
@@ -32,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261103-122000@harvard-food-events
-DTSTAMP:2026-10-31T13:24:38Z
+DTSTAMP:2026-11-01T13:09:47Z
 DTSTART;TZID=America/New_York:20261103T122000
 DTEND;TZID=America/New_York:20261103T132000
 SUMMARY:Networked State Capital in China’s AI Ecosystem
@@ -42,13 +42,13 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261107-090000@harvard-food-events
-DTSTAMP:2026-10-31T13:24:38Z
-DTSTART;TZID=America/New_York:20261107T090000
-DTEND;TZID=America/New_York:20261107T130000
-SUMMARY:HLPR Subcite
+UID:20261108-100000@harvard-food-events
+DTSTAMP:2026-11-01T13:09:47Z
+DTSTART;TZID=America/New_York:20261108T100000
+DTEND;TZID=America/New_York:20261108T130000
+SUMMARY:Harvard Latin American Law Review Subcite
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Breakfast and lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
