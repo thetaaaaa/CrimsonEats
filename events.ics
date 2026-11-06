@@ -20,145 +20,90 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261105-090000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T090000
-DTEND;TZID=America/New_York:20261105T160000
-SUMMARY:HLS Antitrust Association Informal Coffee Chats/Lunch
+UID:20261106-121500@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261106T121500
+DTEND;TZID=America/New_York:20261106T133000
+SUMMARY:Beyond the JD: Building A Career On Your Own Terms
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HLS Antitrust Association Informal Coffee Chats/Lunch Join HLS Antitrust Board members for an informal coffee chat\n\nSource: HLS
+DESCRIPTION:Food: Lunch…\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-120000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T120000
-DTEND;TZID=America/New_York:20261105T140000
-SUMMARY:Covington & Burling 1L Coffee Chat
+UID:20261106-123000@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261106T123000
+DTEND;TZID=America/New_York:20261106T131500
+SUMMARY:Paul, Weiss Lunch Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Covington & Burling 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Paul, Weiss Lunch Panel Join Paul, Weiss lunch event—learn about the firm & practice group and ask questions\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-121500@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T121500
-DTEND;TZID=America/New_York:20261105T130000
-SUMMARY:Mayer Brown Lunch Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Mayer Brown Lunch Panel Join WLA for a lunch event with attorneys from Mayer Brown representing a variety of practice groups\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-121500@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T121500
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:Lunch Talk with Professor Andrea J. Martin: The Lawyer’s Role in Recognizing and Resisting Antisemitism
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch Talk with Professor Andrea J\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:JOLT x Kirkland & Ellis
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOLT x Kirkland & Ellis Join JOLT for a lunch talk with Kirkland attorneys Shellie Freedman (Technology & IP Transactions Partner), Joe Loy\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:Tariffs, Supply Chains and the Border: A Conversation with ArentFox Schiff Partner Angela Santos
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: \| Wasserstein Hall, Room 1010 \| Lunch served Angela Santos leads the Customs & Import Compliance practice at ArentFox Schiff and co-leads th\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:Big Law Edit-A-Thon
+UID:20261106-123000@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261106T123000
+DTEND;TZID=America/New_York:20261106T133000
+SUMMARY:HHLS x Ropes & Gray – Panel Discussion
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-123000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T123000
-DTEND;TZID=America/New_York:20261105T131500
-SUMMARY:WCC O’Melveny Lunch Talk
+UID:20261106-143000@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261106T143000
+DTEND;TZID=America/New_York:20261106T163000
+SUMMARY:Mayer Brown 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: WCC O’Melveny Lunch Talk Join us for an engaging lunch session hosted by the West Coast Club and O’Melveny & Myers LLP\n\nSource: HLS
+DESCRIPTION:Food: Mayer Brown 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-180000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T180000
-DTEND;TZID=America/New_York:20261105T210000
-SUMMARY:Armed Forces Association: Firm Reception
+UID:20261113-123000@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261113T123000
+DTEND;TZID=America/New_York:20261113T133000
+SUMMARY:JOLT Subciter Appreciation Lunch
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Armed Forces Association: Firm Reception The HLS Armed Forces Association will host a recruiting reception for its sponsor law firms\n\nSource: HLS
+DESCRIPTION:Food: JOLT Subciter Appreciation Lunch Thank you to everyone who subcited with JOLT this fall\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261105-180000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261105T180000
-DTEND;TZID=America/New_York:20261105T200000
-SUMMARY:In Vino Veritas: Wine 101
+UID:20261113-143000@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261113T143000
+DTEND;TZID=America/New_York:20261113T163000
+SUMMARY:Marten Law 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: In Vino Veritas: Wine 101 In Vino Veritas, Harvard Law School’s wine club, is hosting a guided tasting of five wines with Certified Sommelie\n\nSource: HLS
+DESCRIPTION:Food: Marten Law 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261112-120000@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261112T120000
-DTEND;TZID=America/New_York:20261112T140000
-SUMMARY:Orrick 1L Coffee Chat
+UID:20261113-174500@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261113T174500
+DTEND;TZID=America/New_York:20261113T204500
+SUMMARY:Harvard Latin American Law Review Makeup Subcite
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Orrick 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261112-121500@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261112T121500
-DTEND;TZID=America/New_York:20261112T133000
-SUMMARY:HALS Sullivan & Cromwell Lunch Talk with Nirav Mehta
+UID:20261113-180000@harvard-food-events
+DTSTAMP:2026-11-06T14:44:31Z
+DTSTART;TZID=America/New_York:20261113T180000
+DTEND;TZID=America/New_York:20261113T190000
+SUMMARY:HLS Christian Fellowship Panel: Being a Christian in BigLaw
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HALS Sullivan & Cromwell Lunch Talk with Nirav Mehta Please join us for a conversation with Nirav Mehta, a Partner at Sullivan & Cromwell’s\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261112-121500@harvard-food-events
-DTSTAMP:2026-11-05T15:21:12Z
-DTSTART;TZID=America/New_York:20261112T121500
-DTEND;TZID=America/New_York:20261112T131500
-SUMMARY:Vartabedian Katz Hester & Haynes Lunch & Learn: Practicing Law in Texas
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Vartabedian Katz Hester & Haynes Lunch & Learn: Practicing Law in Texas Join Vartabedian Katz Hester & Haynes for a discussion on oil and ga\n\nSource: HLS
+DESCRIPTION:Food: Dinner will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
