@@ -20,13 +20,13 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261107-090000@harvard-food-events
-DTSTAMP:2026-11-07T12:53:24Z
-DTSTART;TZID=America/New_York:20261107T090000
-DTEND;TZID=America/New_York:20261107T140000
-SUMMARY:HLPR Subcite
+UID:20261108-100000@harvard-food-events
+DTSTAMP:2026-11-08T13:07:32Z
+DTSTART;TZID=America/New_York:20261108T100000
+DTEND;TZID=America/New_York:20261108T130000
+SUMMARY:Harvard Latin American Law Review Subcite
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Breakfast and lunch will be provided\n\nSource: HLS
+DESCRIPTION:Food: Food will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
