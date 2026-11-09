@@ -20,13 +20,189 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261108-100000@harvard-food-events
-DTSTAMP:2026-11-08T13:07:32Z
-DTSTART;TZID=America/New_York:20261108T100000
-DTEND;TZID=America/New_York:20261108T130000
-SUMMARY:Harvard Latin American Law Review Subcite
+UID:20261109-113000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T113000
+DTEND;TZID=America/New_York:20261109T133000
+SUMMARY:Sterne Kessler 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Food will be provided\n\nSource: HLS
+DESCRIPTION:Food: Sterne Kessler 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-121500@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T121500
+DTEND;TZID=America/New_York:20261109T133000
+SUMMARY:HALS White & Case Lunch Talk
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: HALS White & Case Lunch Talk Please join us for a conversation with White & Case attorneys on how their work connects with Asia across capit\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-121500@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T121500
+DTEND;TZID=America/New_York:20261109T131500
+SUMMARY:MENALSA Big Law Panel
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: MENALSA Big Law Panel Join MENALSA for a lunch panel with Big Law attorneys on what firm life is really like, from the first years as an ass\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-122000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T122000
+DTEND;TZID=America/New_York:20261109T132000
+SUMMARY:National Security Law & Policy Initiative Distinguished Lecture:  The Rule of Law in a Changing World
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Jane Lakes Harman Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-123000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T123000
+DTEND;TZID=America/New_York:20261109T131500
+SUMMARY:Working in State and Local Government – The Rappaport Fellowship in Law and Public Policy
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-143000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T143000
+DTEND;TZID=America/New_York:20261109T163000
+SUMMARY:Cravath 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Cravath 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-180000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261109T180000
+DTEND;TZID=America/New_York:20261109T190000
+SUMMARY:HLS Dems \| Reading Group
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Dinner will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-113000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T113000
+DTEND;TZID=America/New_York:20261116T133000
+SUMMARY:Hecker Fink 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Hecker Fink 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-121500@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T121500
+DTEND;TZID=America/New_York:20261116T131500
+SUMMARY:Public Interest and Clerkships Lunch Talk
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Public Interest and Clerkships Lunch Talk Join the Texas Club with panelists to chat about public interest opportunities, clerkships, and mo\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-122000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T122000
+DTEND;TZID=America/New_York:20261116T132000
+SUMMARY:The American Experiment at 250: Democracy and Legal Theory after 250 Years
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Kreindler Professor of Law Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-123000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T123000
+DTEND;TZID=America/New_York:20261116T131500
+SUMMARY:Lawyering for Liberation
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lawyering for Liberation A lunch talk with Lea Kayali JD ‘24 about movement lawyering and organizing to end arms transfers to Israel\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-123000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T123000
+DTEND;TZID=America/New_York:20261116T131500
+SUMMARY:Independent Oversight and the Role of an Inspector General with Professor Jack Goldsmith and Michael Horowitz
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Independent Oversight and the Role of an Inspector General with Professor Jack Goldsmith and Michael Horowitz Join the Equal Democracy Proje\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-143000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T143000
+DTEND;TZID=America/New_York:20261116T163000
+SUMMARY:Seyfarth Shaw 1L Coffee Chat
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Seyfarth Shaw 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-153000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T153000
+DTEND;TZID=America/New_York:20261116T163000
+SUMMARY:Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China
+LOCATION:CGIS South, Room S153, 1730 Cambridge St.
+DESCRIPTION:Food: Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China Speaker:\n\nSource: Fairbank Center
+CATEGORIES:Fairbank Center
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-180000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T180000
+DTEND;TZID=America/New_York:20261116T200000
+SUMMARY:First Class Community Dinner
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: First Class Community Dinner Come join us for our monthly First Class Community Dinner\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-180000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T180000
+DTEND;TZID=America/New_York:20261116T210000
+SUMMARY:Texas Club Friendsgiving
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Enjoy food, drinks, games, and movies as we come together to celebrate the season\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-180000@harvard-food-events
+DTSTAMP:2026-11-09T17:45:31Z
+DTSTART;TZID=America/New_York:20261116T180000
+DTEND;TZID=America/New_York:20261116T193000
+SUMMARY:HLS Dems \| Reading Group
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Dinner will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
