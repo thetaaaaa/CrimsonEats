@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 9 – November 16, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-09 17:45 ET**
+> **November 10 – November 17, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-10 15:03 ET**
 
 ---
 
@@ -12,32 +12,36 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Monday, November 9
+## Tuesday, November 10
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 11:30 AM – 1:30 PM | [Sterne Kessler 1L Coffee Chat](https://hls.harvard.edu/events/sterne-kessler-1l-coffee-chat/) | Sterne Kessler 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:30 PM | [HALS White & Case Lunch Talk](https://hls.harvard.edu/events/hals-white-case-lunch-talk/) | HALS White & Case Lunch Talk Please join us for a conversation with White & Case attorneys on how their work connects with Asia across capit | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [MENALSA Big Law Panel](https://hls.harvard.edu/events/menalsa-big-law-panel/) | MENALSA Big Law Panel Join MENALSA for a lunch panel with Big Law attorneys on what firm life is really like, from the first years as an ass | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:20 PM | [National Security Law & Policy Initiative Distinguished Lecture:  The Rule of Law in a Changing World](https://hls.harvard.edu/events/national-security-law-policy-initiative-distinguished-lecture-the-rule-of-law-in-a-changing-world/) | Jane Lakes Harman Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Working in State and Local Government – The Rappaport Fellowship in Law and Public Policy](https://hls.harvard.edu/events/rappaport-fellows-program-information-session/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:30 PM – 4:30 PM | [Cravath 1L Coffee Chat](https://hls.harvard.edu/events/cravath-1l-coffee-chat-2/) | Cravath 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:00 PM | [HLS Dems \| Reading Group](https://hls.harvard.edu/events/hls-dems-reading-group/) | Dinner will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 11:30 AM – 1:30 PM | [Fenwick 1L Coffee Chat](https://hls.harvard.edu/events/fenwick-1l-coffee-chat/) | Fenwick 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Improving Food Systems through State Legislation: A Lunch Talk with CA Asm. Jesse Gabriel](https://hls.harvard.edu/events/jesse-gabriel-lunch/) | Improving Food Systems through State Legislation: A Lunch Talk with CA Asm | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Pillsbury Deposition Workshop](https://hls.harvard.edu/events/pillsbury-deposition-workshop/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Haynes Boone Lunch & Learn](https://hls.harvard.edu/events/haynes-boone-lunch-learn/) | Haynes Boone Lunch & Learn Join attorneys from Haynes Boone to learn more about the firm and their practice groups | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12482) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [ACS Lunch Talk with Judge Pamela Harris of the Fourth Circuit](https://hls.harvard.edu/events/acs-lunch-talk-with-judge-pamela-harris-of-the-fourth-circuit/) | ACS Lunch Talk with Judge Pamela Harris of the Fourth Circuit Please join ACS in a conversation with Judge Pamela Harris of the United State | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Sheppard Mullin Lunch Panel](https://hls.harvard.edu/events/sheppard-mullin-lunch-panel/) | Sheppard Mullin Lunch Panel Join WLA for the Sheppard Mullin Lunch Panel | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Haynes & Boone 1L Coffee Chat](https://hls.harvard.edu/events/haynes-boone-1l-coffee-chat/) | Haynes & Boone 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Monday, November 16
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 11:30 AM – 1:30 PM | [Hecker Fink 1L Coffee Chat](https://hls.harvard.edu/events/hecker-fink-1l-coffee-chat/) | Hecker Fink 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:15 PM | [Public Interest and Clerkships Lunch Talk](https://hls.harvard.edu/events/public-interest-and-clerkships-lunch-talk/) | Public Interest and Clerkships Lunch Talk Join the Texas Club with panelists to chat about public interest opportunities, clerkships, and mo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:20 PM – 1:20 PM | [The American Experiment at 250: Democracy and Legal Theory after 250 Years](https://hls.harvard.edu/events/the-american-experiment-at-250-democracy-and-legal-theory-after-250-years/) | Kreindler Professor of Law Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Lawyering for Liberation](https://hls.harvard.edu/events/lawyering-for-liberation/) | Lawyering for Liberation A lunch talk with Lea Kayali JD ‘24 about movement lawyering and organizing to end arms transfers to Israel | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Independent Oversight and the Role of an Inspector General with Professor Jack Goldsmith and Michael Horowitz](https://hls.harvard.edu/events/edp-lunch-talk-independent-oversight-and-the-role-of-an-inspector-general-with-professor-jack-goldsmith-and-michael-horowitz/) | Independent Oversight and the Role of an Inspector General with Professor Jack Goldsmith and Michael Horowitz Join the Equal Democracy Proje | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:30 PM – 4:30 PM | [Seyfarth Shaw 1L Coffee Chat](https://hls.harvard.edu/events/seyfarth-shaw-1l-coffee-chat/) | Seyfarth Shaw 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 | 3:30 PM – 4:30 PM | [Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China](https://fairbank.fas.harvard.edu/events/visiting-scholar-presentation-featuring-li-zhang-defying-slow-death-unsafe-food-governance-and-quiet-social-movements-in-china/) | Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China Speaker: | CGIS South, Room S153, 1730 Cambridge St. | Fairbank Center |
-| 6:00 PM – 8:00 PM | [First Class Community Dinner](https://hls.harvard.edu/events/first-class-community-dinner-6/) | First Class Community Dinner Come join us for our monthly First Class Community Dinner | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 9:00 PM | [Texas Club Friendsgiving](https://hls.harvard.edu/events/texas-club-friendsgiving/) | Enjoy food, drinks, games, and movies as we come together to celebrate the season | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:30 PM | [HLS Dems \| Reading Group](https://hls.harvard.edu/events/hls-dems-reading-group-2/) | Dinner will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+
+## Tuesday, November 17
+
+| Time | Event | Food | Location | Source |
+|------|-------|------|----------|--------|
+| 11:30 AM – 1:30 PM | [Proskauer 1L Coffee Chat](https://hls.harvard.edu/events/proskauer-1l-coffee-chat-2/) | Proskauer 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [ACS Lunch Talk with Phil Brest](https://hls.harvard.edu/events/acs-lunch-talk-with-phil-brest/) | ACS Lunch Talk with Phil Brest Please join ACS President Phil Brest for a conversation on federal judicial nominations | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Texas Club BBQ & End-of-Semester Celebration](https://hls.harvard.edu/events/texas-club-bbq-end-of-semester-celebration/) | Texas Club BBQ & End-of-Semester Celebration Join the Texas Club for a barbecue lunch | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:20 PM – 1:15 PM | [Scripture in Community: Public Reading of Scripture](https://hls.harvard.edu/events/scripture-in-community-public-reading-of-scripture-4/?occurrence=12483) | Scripture in Community meets over lunch to read and listen to Bible passages together – from… | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Community Lunch](https://hls.harvard.edu/events/community-lunch-2/) | Community Lunch Join the Alliance for Israel for lunch | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:30 PM – 4:30 PM | [Finnegan 1L Coffee Chat](https://hls.harvard.edu/events/finnegan-1l-coffee-chat-2/) | Finnegan 1L Coffee Chat See CSM/Symplicity for full event details | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 8:00 PM | [Mississippi Delta Project Southern Food Potluck](https://hls.harvard.edu/events/mississippi-delta-project-southern-food-potluck/) | Mississippi Delta Project Southern Food Potluck Come share a meal (and maybe a recipe or two) at the Mississippi Delta Project’s Southern Co | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
