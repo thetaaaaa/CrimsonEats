@@ -20,96 +20,19 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261110-113000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T113000
-DTEND;TZID=America/New_York:20261110T133000
-SUMMARY:Fenwick 1L Coffee Chat
+UID:20261111-190000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261111T190000
+DTEND;TZID=America/New_York:20261111T210000
+SUMMARY:HLS Pub Trivia
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Fenwick 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-121500@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T121500
-DTEND;TZID=America/New_York:20261110T131500
-SUMMARY:Improving Food Systems through State Legislation: A Lunch Talk with CA Asm. Jesse Gabriel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Improving Food Systems through State Legislation: A Lunch Talk with CA Asm\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-121500@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T121500
-DTEND;TZID=America/New_York:20261110T131500
-SUMMARY:Pillsbury Deposition Workshop
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-121500@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T121500
-DTEND;TZID=America/New_York:20261110T131500
-SUMMARY:Haynes Boone Lunch & Learn
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Haynes Boone Lunch & Learn Join attorneys from Haynes Boone to learn more about the firm and their practice groups\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-122000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T122000
-DTEND;TZID=America/New_York:20261110T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-123000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T123000
-DTEND;TZID=America/New_York:20261110T131500
-SUMMARY:ACS Lunch Talk with Judge Pamela Harris of the Fourth Circuit
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: ACS Lunch Talk with Judge Pamela Harris of the Fourth Circuit Please join ACS in a conversation with Judge Pamela Harris of the United State\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-123000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T123000
-DTEND;TZID=America/New_York:20261110T131500
-SUMMARY:Sheppard Mullin Lunch Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Sheppard Mullin Lunch Panel Join WLA for the Sheppard Mullin Lunch Panel\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-143000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261110T143000
-DTEND;TZID=America/New_York:20261110T163000
-SUMMARY:Haynes & Boone 1L Coffee Chat
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Haynes & Boone 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-153000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
+DTSTAMP:2026-11-11T14:54:21Z
 DTSTART;TZID=America/New_York:20261116T153000
 DTEND;TZID=America/New_York:20261116T163000
 SUMMARY:Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China
@@ -119,79 +42,123 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-113000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T113000
-DTEND;TZID=America/New_York:20261117T133000
-SUMMARY:Proskauer 1L Coffee Chat
+UID:20261118-113000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T113000
+DTEND;TZID=America/New_York:20261118T133000
+SUMMARY:Sidley Austin 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Proskauer 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Sidley Austin 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-121500@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T121500
-DTEND;TZID=America/New_York:20261117T131500
-SUMMARY:ACS Lunch Talk with Phil Brest
+UID:20261118-121500@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T121500
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:CSEL Lunch Talk with James Parker and Mike Zarren
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: ACS Lunch Talk with Phil Brest Please join ACS President Phil Brest for a conversation on federal judicial nominations\n\nSource: HLS
+DESCRIPTION:Food: CSEL Lunch Talk with James Parker and Mike Zarren Join the Committee on Sports and Entertainment Law on Wednesday, November 18 at 12:30pm in\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-121500@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T121500
-DTEND;TZID=America/New_York:20261117T131500
-SUMMARY:Texas Club BBQ & End-of-Semester Celebration
+UID:20261118-121500@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T121500
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:Coffee Chats with Skadden
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Texas Club BBQ & End-of-Semester Celebration Join the Texas Club for a barbecue lunch\n\nSource: HLS
+DESCRIPTION:Food: Coffee Chats with Skadden Join Skadden for coffee chats to learn more about the firm and their practice groups\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-122000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T122000
-DTEND;TZID=America/New_York:20261117T131500
-SUMMARY:Scripture in Community: Public Reading of Scripture
+UID:20261118-121500@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T121500
+DTEND;TZID=America/New_York:20261118T131000
+SUMMARY:HALO Lunch Talk: Artists’ Foundations, Authenticity, and Litigation Strategy with Professor Luke Nikas
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Scripture in Community meets over lunch to read and listen to Bible passages together – from…\n\nSource: HLS
+DESCRIPTION:Food: HALO Lunch Talk: Artists’ Foundations, Authenticity, and Litigation Strategy with Professor Luke Nikas Art Litigation Co-Chair and Time100 M\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-123000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T123000
-DTEND;TZID=America/New_York:20261117T131500
-SUMMARY:Community Lunch
+UID:20261118-121500@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T121500
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:Hunton x Texas Club: Lunch & Learn
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Community Lunch Join the Alliance for Israel for lunch\n\nSource: HLS
+DESCRIPTION:Food: Hunton x Texas Club: Lunch & Learn Join attorneys from Hunton to learn more about the firm and their practice groups\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-143000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T143000
-DTEND;TZID=America/New_York:20261117T163000
-SUMMARY:Finnegan 1L Coffee Chat
+UID:20261118-123000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T123000
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:Mock Trial With Burns Charest
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Finnegan 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-180000@harvard-food-events
-DTSTAMP:2026-11-10T15:03:52Z
-DTSTART;TZID=America/New_York:20261117T180000
-DTEND;TZID=America/New_York:20261117T200000
-SUMMARY:Mississippi Delta Project Southern Food Potluck
+UID:20261118-123000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T123000
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:QTPOC General Body Meeting
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Mississippi Delta Project Southern Food Potluck Come share a meal (and maybe a recipe or two) at the Mississippi Delta Project’s Southern Co\n\nSource: HLS
+DESCRIPTION:Food: Please RSVP for lunch headcount: https://forms\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-123000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T123000
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:The Value of Practicing International Human Rights Law in the Global South
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-180000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T180000
+DTEND;TZID=America/New_York:20261118T190000
+SUMMARY:NALSA November General Body Meeting
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Dinner provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-180000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T180000
+DTEND;TZID=America/New_York:20261118T203000
+SUMMARY:Last Call Reception
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Last Call Reception Attend our last reception of the semester to learn more about the firms you are seriously considering as well as those y\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-190000@harvard-food-events
+DTSTAMP:2026-11-11T14:54:21Z
+DTSTART;TZID=America/New_York:20261118T190000
+DTEND;TZID=America/New_York:20261118T210000
+SUMMARY:HLS Pub Trivia
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
