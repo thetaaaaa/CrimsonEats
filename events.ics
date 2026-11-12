@@ -20,19 +20,74 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261111-190000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261111T190000
-DTEND;TZID=America/New_York:20261111T210000
-SUMMARY:HLS Pub Trivia
+UID:20261112-120000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261112T120000
+DTEND;TZID=America/New_York:20261112T140000
+SUMMARY:Orrick 1L Coffee Chat
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: Orrick 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-121500@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261112T121500
+DTEND;TZID=America/New_York:20261112T133000
+SUMMARY:HALS Sullivan & Cromwell Lunch Talk with Nirav Mehta
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: HALS Sullivan & Cromwell Lunch Talk with Nirav Mehta Please join us for a conversation with Nirav Mehta, a Partner at Sullivan & Cromwell’s\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-121500@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261112T121500
+DTEND;TZID=America/New_York:20261112T131500
+SUMMARY:Vartabedian Katz Hester & Haynes Lunch & Learn: Practicing Law in Texas
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Vartabedian Katz Hester & Haynes Lunch & Learn: Practicing Law in Texas Join Vartabedian Katz Hester & Haynes for a discussion on oil and ga\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-122000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261112T122000
+DTEND;TZID=America/New_York:20261112T132000
+SUMMARY:Lunch Talk with James Pollack, JD’20, Partner at Marten Law
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch Talk with James Pollack, JD’20, Partner at Marten Law Please join us for a lunch conversation with James Pollack, JD’20, Partner at Ma\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-122000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261112T122000
+DTEND;TZID=America/New_York:20261112T132000
+SUMMARY:What Do Big Law Firms Really Do?
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-122000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261112T122000
+DTEND;TZID=America/New_York:20261112T131500
+SUMMARY:HPLA x Keller Postman
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: HPLA x Keller Postman Join HPLA and Keller Postman on Thursday for a lunch talk from a large national plaintiff’s firm that works in mass to\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-153000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
+DTSTAMP:2026-11-12T15:30:56Z
 DTSTART;TZID=America/New_York:20261116T153000
 DTEND;TZID=America/New_York:20261116T163000
 SUMMARY:Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China
@@ -42,123 +97,68 @@ CATEGORIES:Fairbank Center
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261118-113000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T113000
-DTEND;TZID=America/New_York:20261118T133000
-SUMMARY:Sidley Austin 1L Coffee Chat
+UID:20261119-121500@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261119T121500
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:Office Hours and Lunch with Antitrust
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Sidley Austin 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
+DESCRIPTION:Food: Office Hours and Lunch with Antitrust Come join upper-level HLSAA members for a casual lunch to discuss careers, resumes, future plans, and\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261118-121500@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T121500
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:CSEL Lunch Talk with James Parker and Mike Zarren
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:WLA’s Exam Tips Panel
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: CSEL Lunch Talk with James Parker and Mike Zarren Join the Committee on Sports and Entertainment Law on Wednesday, November 18 at 12:30pm in\n\nSource: HLS
+DESCRIPTION:Food: Food will be served\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261118-121500@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T121500
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:Coffee Chats with Skadden
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:NSLA Lunch Talk with Freshfields
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Coffee Chats with Skadden Join Skadden for coffee chats to learn more about the firm and their practice groups\n\nSource: HLS
+DESCRIPTION:Food: NSLA Lunch Talk with Freshfields Join NSLA and Freshfields for an introduction to their national security group and summer associate program\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261118-121500@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T121500
-DTEND;TZID=America/New_York:20261118T131000
-SUMMARY:HALO Lunch Talk: Artists’ Foundations, Authenticity, and Litigation Strategy with Professor Luke Nikas
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:JSEL x O’Melveny & Myers Lunch Talk
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HALO Lunch Talk: Artists’ Foundations, Authenticity, and Litigation Strategy with Professor Luke Nikas Art Litigation Co-Chair and Time100 M\n\nSource: HLS
+DESCRIPTION:Food: JSEL x O’Melveny & Myers Lunch Talk Join O'Melveny & Myers attorneys as they discuss career prospects in the field of sports and entertaintm\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261118-121500@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T121500
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:Hunton x Texas Club: Lunch & Learn
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Hunton x Texas Club: Lunch & Learn Join attorneys from Hunton to learn more about the firm and their practice groups\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-123000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T123000
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:Mock Trial With Burns Charest
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:ACS + HLS Dems Advising \| Maximizing Your Writing Opportunities
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261118-123000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T123000
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:QTPOC General Body Meeting
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-12T15:30:56Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T133000
+SUMMARY:HLEP: Sarah Reed and Robin Painter Lunch Talk
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Please RSVP for lunch headcount: https://forms\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-123000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T123000
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:The Value of Practicing International Human Rights Law in the Global South
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-180000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T180000
-DTEND;TZID=America/New_York:20261118T190000
-SUMMARY:NALSA November General Body Meeting
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Dinner provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-180000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T180000
-DTEND;TZID=America/New_York:20261118T203000
-SUMMARY:Last Call Reception
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Last Call Reception Attend our last reception of the semester to learn more about the firms you are seriously considering as well as those y\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-190000@harvard-food-events
-DTSTAMP:2026-11-11T14:54:21Z
-DTSTART;TZID=America/New_York:20261118T190000
-DTEND;TZID=America/New_York:20261118T210000
-SUMMARY:HLS Pub Trivia
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Bring friends, grab a drink, and test your knowledge\n\nSource: HLS
+DESCRIPTION:Food: HLEP: Sarah Reed and Robin Painter Lunch Talk Join HLEP for a conversation on EC/VC with Sarah Reed and Robin Painter, two funds and VC prac\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
