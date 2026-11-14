@@ -20,135 +20,25 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261113-121500@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261113T121500
-DTEND;TZID=America/New_York:20261113T131500
-SUMMARY:La Alianza Exam/Outlining Q&A Panel
+UID:20261114-200000@harvard-food-events
+DTSTAMP:2026-11-14T13:33:05Z
+DTSTART;TZID=America/New_York:20261114T200000
+DTEND;TZID=America/New_York:20261114T213000
+SUMMARY:The Legal Linkup with HBLSA
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261113-123000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261113T123000
-DTEND;TZID=America/New_York:20261113T133000
-SUMMARY:JOLT Subciter Appreciation Lunch
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: JOLT Subciter Appreciation Lunch Thank you to everyone who subcited with JOLT this fall\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261113-143000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261113T143000
-DTEND;TZID=America/New_York:20261113T163000
-SUMMARY:Marten Law 1L Coffee Chat
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Marten Law 1L Coffee Chat See CSM/Symplicity for full event details\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261113-174500@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261113T174500
-DTEND;TZID=America/New_York:20261113T204500
-SUMMARY:Harvard Latin American Law Review Makeup Subcite
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Food will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261113-180000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261113T180000
-DTEND;TZID=America/New_York:20261113T190000
-SUMMARY:HLS Christian Fellowship Faith and Work Panel
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Dinner will be served\n\nSource: HLS
+DESCRIPTION:Food: The Legal Linkup with HBLSA The Harvard Black Law Students Association (HBLSA) is hosting this reception, sponsored by the Harvard Law Schoo\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20261116-153000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
+DTSTAMP:2026-11-14T13:33:05Z
 DTSTART;TZID=America/New_York:20261116T153000
 DTEND;TZID=America/New_York:20261116T163000
 SUMMARY:Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China
 LOCATION:CGIS South, Room S153, 1730 Cambridge St.
 DESCRIPTION:Food: Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China Speaker:\n\nSource: Fairbank Center
 CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-121500@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261120T121500
-DTEND;TZID=America/New_York:20261120T133000
-SUMMARY:HALS Simpson Lunch Talk
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HALS Simpson Lunch Talk Join us for a short presentation and conversation with Mai Kristofferson and Haixuan Yang, Associates in Simpson Tha\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-123000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261120T123000
-DTEND;TZID=America/New_York:20261120T133000
-SUMMARY:International Arbitration in Practice: A Conversation with Freshfields
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-123000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261120T123000
-DTEND;TZID=America/New_York:20261120T131500
-SUMMARY:HLS Christian Fellowship Bible Study
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-123000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261120T123000
-DTEND;TZID=America/New_York:20261120T131500
-SUMMARY:CSEL Lunch Talk with Chris Nowinski (Concussion Legacy Foundation)
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: CSEL Lunch Talk with Chris Nowinski (Concussion Legacy Foundation) Join the Committee on Sports and Entertainment Law on Friday, November 20\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-133000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261120T133000
-DTEND;TZID=America/New_York:20261120T143000
-SUMMARY:Sam Spurrell Lunch Talk
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Sam Spurrell Lunch Talk Join us for a discussion with Sam Spurrell, a Harvard Law School graduate and associate at Latham & Watkins\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-180000@harvard-food-events
-DTSTAMP:2026-11-13T15:07:35Z
-DTSTART;TZID=America/New_York:20261120T180000
-DTEND;TZID=America/New_York:20261120T191500
-SUMMARY:HLS Christian Fellowship with Professor Jack Goldsmith
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: HLS Christian Fellowship with Professor Jack Goldsmith Join HLS Christian Fellowship to hear from Professor Jack Goldsmith over a shared mea\n\nSource: HLS
-CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
