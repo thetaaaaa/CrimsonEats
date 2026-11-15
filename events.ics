@@ -20,19 +20,8 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261114-200000@harvard-food-events
-DTSTAMP:2026-11-14T13:33:05Z
-DTSTART;TZID=America/New_York:20261114T200000
-DTEND;TZID=America/New_York:20261114T213000
-SUMMARY:The Legal Linkup with HBLSA
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: The Legal Linkup with HBLSA The Harvard Black Law Students Association (HBLSA) is hosting this reception, sponsored by the Harvard Law Schoo\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:20261116-153000@harvard-food-events
-DTSTAMP:2026-11-14T13:33:05Z
+DTSTAMP:2026-11-15T14:09:52Z
 DTSTART;TZID=America/New_York:20261116T153000
 DTEND;TZID=America/New_York:20261116T163000
 SUMMARY:Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China

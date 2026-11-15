@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 14 – November 21, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-14 13:32 ET**
+> **November 15 – November 22, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-15 14:09 ET**
 
 ---
 
@@ -11,12 +11,6 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 ```
 
 ---
-
-## Saturday, November 14
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 8:00 PM – 9:30 PM | [The Legal Linkup with HBLSA](https://hls.harvard.edu/events/the-legal-linkup-with-hblsa/) | The Legal Linkup with HBLSA The Harvard Black Law Students Association (HBLSA) is hosting this reception, sponsored by the Harvard Law Schoo | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ## Monday, November 16
 
