@@ -12,11 +12,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Monday, November 16
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 3:30 PM – 4:30 PM | [Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China](https://fairbank.fas.harvard.edu/events/visiting-scholar-presentation-featuring-li-zhang-defying-slow-death-unsafe-food-governance-and-quiet-social-movements-in-china/) | Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China Speaker: | CGIS South, Room S153, 1730 Cambridge St. | Fairbank Center |
+*No confirmed food events in the last generated list. Check back after the next update!*
 
 ---
 

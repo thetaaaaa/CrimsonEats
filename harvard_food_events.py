@@ -53,16 +53,18 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-# 餐饮关键词正则（匹配标题或全文）
-FOOD_RE = re.compile(
-    r"\b("
-    r"food|lunch|luncheon|dinner|breakfast|brunch|supper|"
-    r"refreshment|light refresh|catering|catered|"
-    r"reception|cocktail|wine|beer|"
-    r"snack|pizza|sandwich|buffet|potluck|bbq|barbecue|"
-    r"meal|free food|"
-    r"beverage|drink|coffee|tea"
-    r")\b",
+# Require an actual offer of food or drink, rather than a subject such as
+# "food safety" or "coffee production". Match only within one sentence.
+FOOD_ITEM = (r"food|lunch|luncheon|dinner|breakfast|brunch|supper|"
+             r"refreshments?|snacks?|pizza|sandwiches?|buffet|"
+             r"meals?|beverages?|drinks?|coffee|tea")
+FOOD_OFFER_RE = re.compile(
+    rf"\b(?:{FOOD_ITEM})\b\s+(?:(?:will|shall)\s+be\s+|(?:is|are)\s+)?"
+    r"(?:provided|served|available|offered|included)\b|"
+    rf"\b(?:provided|serving|served|offering|offered|available|complimentary)\s+(?:\w+\s+){{0,2}}(?:{FOOD_ITEM})\b|"
+    rf"\b(?:join us|please join us|stay|come by|stop by)\s+for\s+(?:\w+\s+){{0,2}}(?:{FOOD_ITEM})\b|"
+    rf"\b(?:{FOOD_ITEM})\b\s+(?:to follow|(?:will\s+)?follow)\b|"
+    r"\b(?:light\s+)?refreshments?\b",
     re.IGNORECASE,
 )
 
@@ -136,14 +138,17 @@ def _get(url: str, retries: int = 2) -> requests.Response | None:
 
 
 def _has_food(text: str) -> bool:
-    return bool(FOOD_RE.search(text))
+    return bool(_food_snippet(text))
 
 
 def _food_snippet(text: str, max_len: int = 140) -> str:
-    """从全文中截取包含食物关键词的句子"""
+    """从全文中截取明确说明提供餐饮的句子"""
     for sent in re.split(r'[.!?\n]', text):
-        if FOOD_RE.search(sent):
-            return sent.strip()[:max_len]
+        match = FOOD_OFFER_RE.search(sent)
+        if match:
+            sent = sent.strip()
+            start = max(0, match.start() - 30) if len(sent) > max_len else 0
+            return sent[start:start + max_len].strip()
     return ""
 
 
@@ -306,7 +311,7 @@ def _parse_month_day(s: str, year: int) -> date | None:
 #     .tribe-events-calendar-list__event-venue-address ← 地址
 #     [class*="description"]                           ← 摘要（可能不含餐饮信息！）
 #
-# 详情页：餐饮信息在正文 <p> 中，需用 FOOD_RE 匹配。
+# 详情页：餐饮信息在正文 <p> 中，需有明确的餐饮说明。
 
 def fetch_tribe(cal: dict, start_dt: datetime, end_dt: datetime) -> list[dict]:
     results, seen = [], set()

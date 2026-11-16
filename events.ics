@@ -19,15 +19,4 @@ TZOFFSETFROM:-0500
 TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
-BEGIN:VEVENT
-UID:20261116-153000@harvard-food-events
-DTSTAMP:2026-11-15T14:09:52Z
-DTSTART;TZID=America/New_York:20261116T153000
-DTEND;TZID=America/New_York:20261116T163000
-SUMMARY:Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China
-LOCATION:CGIS South, Room S153, 1730 Cambridge St.
-DESCRIPTION:Food: Visiting Scholar Presentation featuring Li Zhang — Defying Slow Death: Unsafe Food, Governance, and Quiet Social Movements in China Speaker:\n\nSource: Fairbank Center
-CATEGORIES:Fairbank Center
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
