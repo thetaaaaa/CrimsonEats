@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 16 – November 23, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-16 17:34 ET**
+> **November 17 – November 24, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-17 16:24 ET**
 
 ---
 
@@ -12,19 +12,12 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Monday, November 16
+## Tuesday, November 17
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:20 PM – 1:20 PM | [The American Experiment at 250: Democracy and Legal Theory after 250 Years](https://hls.harvard.edu/events/the-american-experiment-at-250-democracy-and-legal-theory-after-250-years/) | Kreindler Professor of Law Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:30 PM | [Public Interest and Clerkships Lunch Talk](https://hls.harvard.edu/events/public-interest-and-clerkships-lunch-talk/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:30 PM | [Reading Group](https://hls.harvard.edu/events/hls-dems-reading-group-2/) | Dinner will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
-## Monday, November 23
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:20 PM – 1:20 PM | [Climate Litigation Lockouts with Sam Bookman](https://hls.harvard.edu/events/climate-litigation-lockouts-with-sam-bookman/) | Climate Litigation Lockouts with Sam Bookman Please join us for a lunch conversation with Dr | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Keeping it Clean – Digital Hygiene for Activists and Lawyers](https://hls.harvard.edu/events/keeping-it-clean-digital-hygiene-for-activists-and-lawyers/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 2:00 PM – 3:00 PM | [Law Teaching Colloquium: Finding Your Scholarly Voice](https://hls.harvard.edu/events/law-teaching-colloquium-finding-your-scholarly-voice/) | Light refreshments will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
