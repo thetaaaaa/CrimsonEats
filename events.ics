@@ -20,24 +20,46 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261117-123000@harvard-food-events
-DTSTAMP:2026-11-17T16:24:53Z
-DTSTART;TZID=America/New_York:20261117T123000
-DTEND;TZID=America/New_York:20261117T131500
-SUMMARY:Keeping it Clean – Digital Hygiene for Activists and Lawyers
+UID:20261118-121500@harvard-food-events
+DTSTAMP:2026-11-18T15:56:57Z
+DTSTART;TZID=America/New_York:20261118T121500
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:Hunton x Texas Club: Lunch & Learn
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20261117-140000@harvard-food-events
-DTSTAMP:2026-11-17T16:24:53Z
-DTSTART;TZID=America/New_York:20261117T140000
-DTEND;TZID=America/New_York:20261117T150000
-SUMMARY:Law Teaching Colloquium: Finding Your Scholarly Voice
+UID:20261118-123000@harvard-food-events
+DTSTAMP:2026-11-18T15:56:57Z
+DTSTART;TZID=America/New_York:20261118T123000
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:Mock Trial With Burns Charest
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Light refreshments will be served\n\nSource: HLS
+DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-123000@harvard-food-events
+DTSTAMP:2026-11-18T15:56:57Z
+DTSTART;TZID=America/New_York:20261118T123000
+DTEND;TZID=America/New_York:20261118T131500
+SUMMARY:The Value of Practicing International Human Rights Law in the Global South
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch provided\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-180000@harvard-food-events
+DTSTAMP:2026-11-18T15:56:57Z
+DTSTART;TZID=America/New_York:20261118T180000
+DTEND;TZID=America/New_York:20261118T190000
+SUMMARY:NALSA November General Body Meeting
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Dinner provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT

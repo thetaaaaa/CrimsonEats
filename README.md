@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 17 – November 24, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-17 16:24 ET**
+> **November 18 – November 25, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-18 15:56 ET**
 
 ---
 
@@ -12,12 +12,14 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Tuesday, November 17
+## Wednesday, November 18
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [Keeping it Clean – Digital Hygiene for Activists and Lawyers](https://hls.harvard.edu/events/keeping-it-clean-digital-hygiene-for-activists-and-lawyers/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 2:00 PM – 3:00 PM | [Law Teaching Colloquium: Finding Your Scholarly Voice](https://hls.harvard.edu/events/law-teaching-colloquium-finding-your-scholarly-voice/) | Light refreshments will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Hunton x Texas Club: Lunch & Learn](https://hls.harvard.edu/events/hunton-x-texas-club-lunch-learn/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [Mock Trial With Burns Charest](https://hls.harvard.edu/events/mock-trial-with-burns-charest/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [The Value of Practicing International Human Rights Law in the Global South](https://hls.harvard.edu/events/the-value-of-practicing-international-human-rights-law-in-the-global-south/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 6:00 PM – 7:00 PM | [NALSA November General Body Meeting](https://hls.harvard.edu/events/nalsa-november-general-body-meeting/) | Dinner provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
