@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 18 – November 25, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-18 15:56 ET**
+> **November 19 – November 26, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-19 16:02 ET**
 
 ---
 
@@ -12,14 +12,14 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Wednesday, November 18
+## Thursday, November 19
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:15 PM – 1:15 PM | [Hunton x Texas Club: Lunch & Learn](https://hls.harvard.edu/events/hunton-x-texas-club-lunch-learn/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [Mock Trial With Burns Charest](https://hls.harvard.edu/events/mock-trial-with-burns-charest/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [The Value of Practicing International Human Rights Law in the Global South](https://hls.harvard.edu/events/the-value-of-practicing-international-human-rights-law-in-the-global-south/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 6:00 PM – 7:00 PM | [NALSA November General Body Meeting](https://hls.harvard.edu/events/nalsa-november-general-body-meeting/) | Dinner provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [NSLA Lunch Talk with Freshfields](https://hls.harvard.edu/events/nsla-lunch-talk-with-freshfields/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [WLA’s Exam Tips Panel](https://hls.harvard.edu/events/wlas-exam-tips-panel/) | Food will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [JSEL x O’Melveny & Myers Lunch Talk](https://hls.harvard.edu/events/jsel-x-omelveny-myers-lunch-talk/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [ACS + HLS Dems Advising \| Maximizing Your Writing Opportunities](https://hls.harvard.edu/events/acs-hls-dems-advising-maximizing-your-writing-opportunities/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 

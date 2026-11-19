@@ -20,46 +20,46 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:20261118-121500@harvard-food-events
-DTSTAMP:2026-11-18T15:56:57Z
-DTSTART;TZID=America/New_York:20261118T121500
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:Hunton x Texas Club: Lunch & Learn
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-19T16:02:28Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:NSLA Lunch Talk with Freshfields
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-19T16:02:28Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:WLA’s Exam Tips Panel
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Food will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-19T16:02:28Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:JSEL x O’Melveny & Myers Lunch Talk
+LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
+DESCRIPTION:Food: Lunch will be served\n\nSource: HLS
+CATEGORIES:HLS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-123000@harvard-food-events
+DTSTAMP:2026-11-19T16:02:28Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T131500
+SUMMARY:ACS + HLS Dems Advising \| Maximizing Your Writing Opportunities
 LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
 DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-123000@harvard-food-events
-DTSTAMP:2026-11-18T15:56:57Z
-DTSTART;TZID=America/New_York:20261118T123000
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:Mock Trial With Burns Charest
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch will be provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-123000@harvard-food-events
-DTSTAMP:2026-11-18T15:56:57Z
-DTSTART;TZID=America/New_York:20261118T123000
-DTEND;TZID=America/New_York:20261118T131500
-SUMMARY:The Value of Practicing International Human Rights Law in the Global South
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Lunch provided\n\nSource: HLS
-CATEGORIES:HLS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-180000@harvard-food-events
-DTSTAMP:2026-11-18T15:56:57Z
-DTSTART;TZID=America/New_York:20261118T180000
-DTEND;TZID=America/New_York:20261118T190000
-SUMMARY:NALSA November General Body Meeting
-LOCATION:[Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA)
-DESCRIPTION:Food: Dinner provided\n\nSource: HLS
 CATEGORIES:HLS
 STATUS:CONFIRMED
 END:VEVENT
