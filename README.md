@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 19 – November 26, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-19 16:02 ET**
+> **November 20 – November 27, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-20 15:48 ET**
 
 ---
 
@@ -12,14 +12,15 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Thursday, November 19
+## Friday, November 20
 
 | Time | Event | Food | Location | Source |
 |------|-------|------|----------|--------|
-| 12:30 PM – 1:15 PM | [NSLA Lunch Talk with Freshfields](https://hls.harvard.edu/events/nsla-lunch-talk-with-freshfields/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [WLA’s Exam Tips Panel](https://hls.harvard.edu/events/wlas-exam-tips-panel/) | Food will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [JSEL x O’Melveny & Myers Lunch Talk](https://hls.harvard.edu/events/jsel-x-omelveny-myers-lunch-talk/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [ACS + HLS Dems Advising \| Maximizing Your Writing Opportunities](https://hls.harvard.edu/events/acs-hls-dems-advising-maximizing-your-writing-opportunities/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:15 PM | [Media for Movement Lawyers](https://hls.harvard.edu/events/media-for-movement-lawyers/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:15 PM – 1:30 PM | [HALS Simpson Lunch Talk](https://hls.harvard.edu/events/hals-simpson-lunch-talk/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-13/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:30 PM | [International Arbitration in Practice: A Conversation with Freshfields](https://hls.harvard.edu/events/international-arbitration-in-practice-a-conversation-with-freshfields/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
+| 12:30 PM – 1:15 PM | [CSEL Lunch Talk with Chris Nowinski (Concussion Legacy Foundation)](https://hls.harvard.edu/events/csel-lunch-talk-with-chris-nowinski-concussion-legacy-foundation/) | Lunch will be provided for students who RSVP | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
 
 ---
 
