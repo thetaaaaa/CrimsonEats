@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 20 – November 27, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-20 15:48 ET**
+> **November 21 – November 28, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-21 14:51 ET**
 
 ---
 
@@ -12,16 +12,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Friday, November 20
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:15 PM – 1:15 PM | [Media for Movement Lawyers](https://hls.harvard.edu/events/media-for-movement-lawyers/) | Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:15 PM – 1:30 PM | [HALS Simpson Lunch Talk](https://hls.harvard.edu/events/hals-simpson-lunch-talk/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [HLS Christian Fellowship Bible Study](https://hls.harvard.edu/events/hls-christian-fellowship-bible-study-13/) | Lunch will be provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:30 PM | [International Arbitration in Practice: A Conversation with Freshfields](https://hls.harvard.edu/events/international-arbitration-in-practice-a-conversation-with-freshfields/) | Lunch provided | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [CSEL Lunch Talk with Chris Nowinski (Concussion Legacy Foundation)](https://hls.harvard.edu/events/csel-lunch-talk-with-chris-nowinski-concussion-legacy-foundation/) | Lunch will be provided for students who RSVP | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
+*No food events found for the next 7 days. Check back tomorrow!*
 ---
 
 **Sources monitored:**
