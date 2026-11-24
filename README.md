@@ -1,6 +1,6 @@
 # 🎓 Free Food at Harvard — Next 7 Days
 
-> **November 23 – November 30, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-23 19:25 ET**
+> **November 24 – December 1, 2026** &nbsp;·&nbsp; Auto-updated daily via GitHub Actions &nbsp;·&nbsp; Last updated: **2026-11-24 17:48 ET**
 
 ---
 
@@ -12,13 +12,7 @@ https://raw.githubusercontent.com/thetaaaaa/CrimsonEats/main/events.ics
 
 ---
 
-## Monday, November 23
-
-| Time | Event | Food | Location | Source |
-|------|-------|------|----------|--------|
-| 12:20 PM – 1:20 PM | [Climate Litigation Lockouts with Sam Bookman](https://hls.harvard.edu/events/climate-litigation-lockouts-with-sam-bookman/) | Climate Litigation Lockouts with Sam Bookman Please join us for a lunch conversation with Dr | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-| 12:30 PM – 1:15 PM | [“What Do We Owe Our Neighbors” with Prof. John Infranca](https://hls.harvard.edu/events/what-do-we-owe-our-neighbors-with-prof-john-infranca/) | ” Lunch will be served | [Harvard Law School](https://www.google.com/maps/search/Harvard+Law+School,+Cambridge,+MA) | HLS |
-
+*No food events found for the next 7 days. Check back tomorrow!*
 ---
 
 **Sources monitored:**
